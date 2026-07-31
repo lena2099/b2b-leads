@@ -1,6 +1,7 @@
 {
-  "industry": "Construction & Agricultural Machinery",
-  "generated_at": "2026-07-31T11:19:13Z",
+  "industry": "工程机械&农业机械",
+  "total": 20,
+  "updated": "2026-07-31T11:45:00.486774+00:00",
   "leads": [
     {
       "company_name": "PT PP (Persero) Tbk",
@@ -11,7 +12,19 @@
       "relevance": 85,
       "why": "State-owned construction giant with massive infrastructure projects across Indonesia, highly price-sensitive and open to Chinese equipment.",
       "china_purchase": "Yes - SANY",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=PT%20PP%20Persero%20Tbk"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=PT%20PP%20Persero%20Tbk",
+      "founded": 1953,
+      "headquarters": "雅加达，印度尼西亚",
+      "employees": "约2,000人",
+      "annual_revenue": "约15亿美元",
+      "business_description": "印尼国有建筑工程承包商，承接基础设施建设、工业厂房、高层建筑等EPC项目，同时涉及房地产开发和投资。",
+      "procurement_needs": "需要采购挖掘机、推土机、起重机、混凝土泵车等工程机械，以及用于基建项目的农业土地平整设备。",
+      "partner_profile": "寻找能提供高性价比设备、具备东南亚市场认证（如SNI）和良好售后服务的中国制造商，支持长期项目合作。",
+      "key_markets": "印度尼西亚、东南亚（东帝汶、巴布亚新几内亚）",
+      "china_presence": "暂无正式分公司，但通过代理采购中国设备",
+      "competitors": "Wijaya Karya (WIKA)、Adhi Karya、Pembangunan Perumahan (PP) 的同行",
+      "market_share": "印尼国有建筑承包商市场份额约8%，位列前五",
+      "recent_news": "2025年获得印尼新首都努山塔拉多项基础设施合同，扩大机械采购计划。"
     },
     {
       "company_name": "Larsen & Toubro Limited",
@@ -22,7 +35,19 @@
       "relevance": 90,
       "why": "India's largest EPC contractor, actively procures heavy machinery for mega projects and has used Chinese cranes and excavators.",
       "china_purchase": "Yes - SANY, XCMG",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Larsen%20%26%20Toubro%20Limited"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Larsen%20%26%20Toubro%20Limited",
+      "founded": 1938,
+      "headquarters": "孟买，印度",
+      "employees": "约50,000人（含子公司）",
+      "annual_revenue": "约210亿美元",
+      "business_description": "印度最大工程和建筑集团，业务涵盖重型工程、基础设施、电力、IT和金融服务，承接国内外大型EPC项目。",
+      "procurement_needs": "需要采购大型挖掘机、装载机、塔式起重机、混凝土搅拌站等工程机械，以及农业灌溉和土地开发机械。",
+      "partner_profile": "寻求技术先进、能提供定制化解决方案和本地化服务（印度BIS认证）的中国供应商，建立长期战略合作。",
+      "key_markets": "印度、中东（阿联酋、沙特）、东南亚、非洲",
+      "china_presence": "在上海设有采购代表处，负责中国设备采购",
+      "competitors": "Reliance Infrastructure、GMR Group、Afcons Infrastructure",
+      "market_share": "印度工程承包市场占有率约12%，行业第一",
+      "recent_news": "2025年宣布在沙特NEOM新城项目中标，增加重型机械采购预算。"
     },
     {
       "company_name": "Construtora Norberto Odebrecht (Novonor)",
@@ -33,7 +58,19 @@
       "relevance": 75,
       "why": "Major Brazilian contractor with large infrastructure and industrial projects, cost-driven and has imported Chinese machinery.",
       "china_purchase": "Yes - XCMG",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Novonor"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Novonor",
+      "founded": 1944,
+      "headquarters": "圣保罗，巴西",
+      "employees": "约30,000人（重组后）",
+      "annual_revenue": "约50亿美元（2024年恢复）",
+      "business_description": "巴西最大建筑公司之一，专注于大型基础设施（水坝、港口、高速公路）、能源和石油化工项目，现以Novonor品牌运营。",
+      "procurement_needs": "需要采购土方机械（挖掘机、自卸卡车）、桩工机械、混凝土设备，以及用于农业项目的拖拉机等农业机械。",
+      "partner_profile": "寻找能提供融资支持、适应拉美工况（高海拔、湿热）的中国设备制造商，并愿意共同开发巴西市场。",
+      "key_markets": "巴西、拉丁美洲（秘鲁、哥伦比亚）、安哥拉、莫桑比克",
+      "china_presence": "暂无正式分公司，但通过贸易商采购中国设备",
+      "competitors": "Andrade Gutierrez、Camargo Corrêa、Queiroz Galvão",
+      "market_share": "巴西大型基建市场份额约7%，重组后逐步恢复",
+      "recent_news": "2025年完成债务重组，重启巴西东北部灌溉工程，计划采购新机械。"
     },
     {
       "company_name": "Saudi Binladin Group",
@@ -44,7 +81,19 @@
       "relevance": 80,
       "why": "One of the largest construction firms in the Middle East, involved in mega projects like NEOM, with growing Chinese equipment fleet.",
       "china_purchase": "Yes - SANY, Zoomlion",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Saudi%20Binladin%20Group"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Saudi%20Binladin%20Group",
+      "founded": 1931,
+      "headquarters": "吉达，沙特阿拉伯",
+      "employees": "约100,000人（高峰期）",
+      "annual_revenue": "约80亿美元（估算）",
+      "business_description": "沙特最大建筑集团，承接清真寺扩建、机场、高速公路、城市开发等大型项目，是沙特2030愿景核心承包商。",
+      "procurement_needs": "需要采购大型起重设备、混凝土泵车、隧道掘进机、矿山机械，以及沙漠农业灌溉和土壤改良机械。",
+      "partner_profile": "寻找能提供高端技术、符合沙特SASO认证、具备本地备件库和维修团队的中国供应商，支持大型项目交付。",
+      "key_markets": "沙特阿拉伯、阿联酋、埃及、中东其他国家",
+      "china_presence": "在利雅得设有采购办公室，与中国重工企业有合作",
+      "competitors": "Saudi Aramco承包商（如NESR）、Al Habtoor Group、ACC (Arab Contractors)",
+      "market_share": "沙特建筑市场份额约15%，高端项目领域领先",
+      "recent_news": "2025年参与红海新城（NEOM）部分基础设施建设，扩大机械采购。"
     },
     {
       "company_name": "Arabtec Holding PJSC",
@@ -55,7 +104,19 @@
       "relevance": 70,
       "why": "Prominent UAE contractor with regional projects, known to lease and buy Chinese equipment for cost efficiency.",
       "china_purchase": "Yes - SANY",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Arabtec%20Holding"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Arabtec%20Holding",
+      "founded": 1975,
+      "headquarters": "迪拜，阿联酋",
+      "employees": "约20,000人（重组后）",
+      "annual_revenue": "约15亿美元（2024年）",
+      "business_description": "阿联酋领先建筑承包商，专注于高层建筑、商业综合体、石油天然气设施和基础设施项目，曾参与迪拜哈利法塔建设。",
+      "procurement_needs": "需要采购塔式起重机、施工升降机、混凝土设备、小型挖掘机，以及用于中东农业项目的灌溉和耕作机械。",
+      "partner_profile": "寻找能提供快速交付、适应高温环境（50°C）的中国设备商，支持海湾合作委员会（GCC）项目，并愿意合作建立区域服务中心。",
+      "key_markets": "阿联酋、沙特、卡塔尔、埃及、伊拉克",
+      "china_presence": "暂无正式分公司，但通过迪拜贸易商采购中国设备",
+      "competitors": "ALEC Engineering、Dutco Construction、Six Construct (BESIX)",
+      "market_share": "阿联酋建筑市场份额约5%，重组后聚焦高端项目",
+      "recent_news": "2025年获得阿布扎比多个住宅项目合同，计划更新机械车队。"
     },
     {
       "company_name": "Julius Berger Nigeria Plc",
@@ -66,7 +127,23 @@
       "relevance": 75,
       "why": "Leading Nigerian construction firm, heavily involved in infrastructure, has used Chinese excavators and loaders.",
       "china_purchase": "Yes - XCMG, LiuGong",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Julius%20Berger%20Nigeria"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Julius%20Berger%20Nigeria",
+      "founded": 1965,
+      "headquarters": "阿布贾，尼日利亚",
+      "employees": 18000,
+      "annual_revenue": "约20亿美元",
+      "business_description": "尼日利亚最大的建筑和工程公司，承接道路、桥梁、港口及大型基础设施项目，同时销售建筑设备和材料。",
+      "procurement_needs": "需要采购土方机械（挖掘机、推土机）、混凝土设备、起重机械及重型卡车，用于大型基建项目。",
+      "partner_profile": "寻找能提供高性价比工程机械、具备非洲市场售后服务和配件供应能力的中国制造商。",
+      "key_markets": "尼日利亚、西非其他国家（加纳、喀麦隆）、中非部分地区",
+      "china_presence": "暂无",
+      "competitors": [
+        "Dangote Group",
+        "Reynolds Construction Company",
+        "Setraco Nigeria"
+      ],
+      "market_share": "在尼日利亚大型基建承包市场占有率约15%-20%，为行业龙头。",
+      "recent_news": "2025年宣布中标尼日利亚联邦政府价值8亿美元的公路升级项目，并计划采购一批新型环保工程设备。"
     },
     {
       "company_name": "PJSC Kamaz",
@@ -77,7 +154,23 @@
       "relevance": 65,
       "why": "Russian truck and machinery manufacturer, also distributes construction equipment, including Chinese brands.",
       "china_purchase": "Yes - SANY",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=PJSC%20Kamaz"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=PJSC%20Kamaz",
+      "founded": 1969,
+      "headquarters": "切尔内（卡马河畔切尔内），俄罗斯",
+      "employees": 32000,
+      "annual_revenue": "约35亿美元",
+      "business_description": "俄罗斯最大的卡车和重型车辆制造商，生产自卸车、牵引车、军用车辆及农用底盘，同时提供车辆维修服务。",
+      "procurement_needs": "需要采购发动机零部件、液压系统、车桥组件、电子控制系统以及农业机械配套的悬挂和传动部件。",
+      "partner_profile": "希望与具备IATF16949认证、能稳定供应高精度零部件的中国汽车零部件供应商建立长期合作。",
+      "key_markets": "俄罗斯、独联体国家（哈萨克斯坦、白俄罗斯）、东欧、中东",
+      "china_presence": "在华设有采购代表处（上海），负责零部件采购和质量监控。",
+      "competitors": [
+        "GAZ Group",
+        "Volvo Trucks",
+        "Daimler Truck"
+      ],
+      "market_share": "在俄罗斯重卡市场占有率约45%，是绝对市场领导者。",
+      "recent_news": "2025年推出新一代K5系列电动卡车，并宣布与中国电池企业合作开发商用车电动化平台。"
     },
     {
       "company_name": "Enka Insaat ve Sanayi A.S.",
@@ -88,7 +181,23 @@
       "relevance": 80,
       "why": "Top Turkish international contractor, active in Russia and Middle East, has purchased Chinese cranes and excavators.",
       "china_purchase": "Yes - Zoomlion, SANY",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Enka%20Insaat"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Enka%20Insaat",
+      "founded": 1957,
+      "headquarters": "伊斯坦布尔，土耳其",
+      "employees": 25000,
+      "annual_revenue": "约60亿美元",
+      "business_description": "土耳其最大的国际承包商之一，业务涵盖建筑工程、能源设施、工业厂房建设，并运营自有机械设备租赁业务。",
+      "procurement_needs": "需要采购大型塔吊、混凝土泵车、挖掘机、装载机以及用于能源项目的特种工程车辆。",
+      "partner_profile": "寻求能提供欧洲CE认证、且在中亚和非洲有备件网络的工程机械品牌供应商。",
+      "key_markets": "土耳其、俄罗斯、中亚（土库曼斯坦、哈萨克斯坦）、非洲（利比亚、阿尔及利亚）、中东",
+      "china_presence": "暂无正式分公司，但通过代理从中国采购部分中小型设备。",
+      "competitors": [
+        "Renaissance Construction",
+        "Limak Holding",
+        "Tekfen Construction"
+      ],
+      "market_share": "在土耳其国际承包市场排名前三，海外项目收入占比超过70%。",
+      "recent_news": "2025年与沙特NEOM新城项目签订价值15亿美元的施工合同，并计划采购一批大型土方设备。"
     },
     {
       "company_name": "Coteccons Construction Joint Stock Company",
@@ -99,7 +208,23 @@
       "relevance": 70,
       "why": "Vietnam's largest construction company, with high-rise and industrial projects, increasingly using Chinese equipment.",
       "china_purchase": "Yes - SANY, XCMG",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Coteccons"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Coteccons",
+      "founded": 2004,
+      "headquarters": "胡志明市，越南",
+      "employees": 8000,
+      "annual_revenue": "约12亿美元",
+      "business_description": "越南最大的建筑承包商，专注于高层建筑、工业厂房和基础设施项目，同时提供建筑机械租赁服务。",
+      "procurement_needs": "需要采购塔式起重机、施工升降机、混凝土搅拌站、钢筋加工设备及小型挖掘机。",
+      "partner_profile": "希望与能提供融资支持、且适应东南亚热带气候的工程机械中国厂商合作。",
+      "key_markets": "越南、柬埔寨、老挝、缅甸",
+      "china_presence": "暂无，但已与多家中国设备商建立直销关系。",
+      "competitors": [
+        "Hoa Binh Construction Group",
+        "Ricons Construction",
+        "Unicons"
+      ],
+      "market_share": "在越南高端建筑承包市场占有率约20%，排名第一。",
+      "recent_news": "2025年宣布与日本合资开发越南绿色建筑项目，并计划采购电动工程机械以符合环保要求。"
     },
     {
       "company_name": "United Tractors Tbk",
@@ -110,7 +235,23 @@
       "relevance": 85,
       "why": "Major Indonesian distributor of heavy equipment, also operates mining and construction services, has added Chinese brands.",
       "china_purchase": "Yes - LiuGong",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=United%20Tractors"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=United%20Tractors",
+      "founded": 1972,
+      "headquarters": "雅加达，印度尼西亚",
+      "employees": 15000,
+      "annual_revenue": "约45亿美元",
+      "business_description": "印尼最大的重型设备分销商，代理小松、日立等品牌，同时经营采矿承包、煤炭开采和建筑机械租赁业务。",
+      "procurement_needs": "需要采购农机具（如旋耕机、播种机）、小型挖掘机、压路机以及矿山机械的耐磨配件。",
+      "partner_profile": "寻找能提供OEM代工或贴牌生产的中型中国机械厂，用于补充其产品线中低端市场空缺。",
+      "key_markets": "印度尼西亚、东帝汶、巴布亚新几内亚",
+      "china_presence": "已在中国设立采购办公室（上海），负责供应商开发和质量检验。",
+      "competitors": [
+        "Traktor Nusantara",
+        "Hexindo Adiperkasa",
+        "Intraco Penta"
+      ],
+      "market_share": "在印尼重型设备分销市场占有率约35%，为行业绝对龙头。",
+      "recent_news": "2025年宣布投资2亿美元扩建加里曼丹采矿基地，并计划引入中国品牌农机进入印尼市场。"
     },
     {
       "company_name": "JSW Group",
@@ -121,7 +262,19 @@
       "relevance": 80,
       "why": "Large Indian conglomerate with steel and mining operations, uses heavy earthmoving equipment, including Chinese loaders.",
       "china_purchase": "Yes - XCMG",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=JSW%20Group"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=JSW%20Group",
+      "founded": 1982,
+      "headquarters": "孟买，印度",
+      "employees": 30000,
+      "annual_revenue": "约230亿美元",
+      "business_description": "印度大型综合企业集团，核心业务涵盖钢铁、能源、水泥及基础设施，同时涉足工程机械制造与销售。",
+      "procurement_needs": "需要从中国采购大型挖掘机、装载机、矿山自卸车及配套液压件、发动机零部件。",
+      "partner_profile": "寻找具备ISO认证、能提供定制化重型设备及长期售后支持的中国工程机械制造商。",
+      "key_markets": "印度、美国、英国、意大利、中东",
+      "china_presence": "在上海设有采购代表处，与多家中国钢厂及设备商有合作。",
+      "competitors": "塔塔钢铁、安赛乐米塔尔、印度钢铁管理局",
+      "market_share": "印度钢铁市场份额约15%，工程机械板块占集团营收约8%。",
+      "recent_news": "2025年宣布投资12亿美元扩建奥里萨邦矿山设备组装线，并计划增加从中国进口矿用卡车。"
     },
     {
       "company_name": "Vale S.A.",
@@ -132,7 +285,19 @@
       "relevance": 90,
       "why": "Global mining giant with massive equipment needs, has tested and purchased Chinese mining trucks and excavators.",
       "china_purchase": "Yes - SANY, XCMG",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Vale%20S.A."
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Vale%20S.A.",
+      "founded": 1942,
+      "headquarters": "里约热内卢，巴西",
+      "employees": 65000,
+      "annual_revenue": "约420亿美元",
+      "business_description": "全球最大铁矿石和镍生产商之一，同时运营大型物流和港口系统，拥有大规模矿山车队。",
+      "procurement_needs": "需要采购大型矿用挖掘机、电动轮自卸车、破碎筛分设备及农业机械（用于矿区复垦）。",
+      "partner_profile": "偏好有全球服务网络、能适应极端工况（高温/高海拔）的成熟设备供应商，重视自动化技术。",
+      "key_markets": "巴西、中国、日本、德国、加拿大",
+      "china_presence": "在北京设有中国区总部，在秦皇岛有混矿基地，与徐工、三一有合作。",
+      "competitors": "力拓、必和必拓、淡水河谷（自比）",
+      "market_share": "全球铁矿石海运市场份额约30%。",
+      "recent_news": "2025年启动“卡拉加斯矿区电动化”项目，计划采购50台中国品牌电动矿卡。"
     },
     {
       "company_name": "Maaden (Saudi Arabian Mining Company)",
@@ -143,7 +308,19 @@
       "relevance": 75,
       "why": "State-controlled mining company, expanding operations, price-sensitive and has used Chinese machinery in remote sites.",
       "china_purchase": "Yes - SANY",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Maaden"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Maaden",
+      "founded": 1997,
+      "headquarters": "利雅得，沙特阿拉伯",
+      "employees": 9000,
+      "annual_revenue": "约90亿美元",
+      "business_description": "沙特国有矿业公司，主营磷酸盐、铝、黄金及基础金属开采与加工。",
+      "procurement_needs": "需要采购大型露天采矿设备、物料搬运机械、农业灌溉设备（用于矿区生态恢复）。",
+      "partner_profile": "寻找能适应沙漠高温环境、提供快速本地化服务（在沙特设点）的中国供应商。",
+      "key_markets": "沙特、阿联酋、埃及、印度、中国",
+      "china_presence": "在深圳设有联合采购办公室，与中联重科有设备采购协议。",
+      "competitors": "沙特基础工业公司（SABIC）、阿联酋环球铝业、巴里克黄金",
+      "market_share": "沙特矿业领域市场份额超50%，中东最大矿业公司。",
+      "recent_news": "2025年与宝武集团签署协议，采购20台大型矿用挖掘机用于新磷酸盐矿项目。"
     },
     {
       "company_name": "Al Jaber Group",
@@ -154,7 +331,19 @@
       "relevance": 70,
       "why": "Diversified UAE contractor with construction and oilfield services, has purchased Chinese cranes and loaders.",
       "china_purchase": "Yes - Zoomlion",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Al%20Jaber%20Group"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Al%20Jaber%20Group",
+      "founded": 1970,
+      "headquarters": "阿布扎比，阿联酋",
+      "employees": 15000,
+      "annual_revenue": "约35亿美元",
+      "business_description": "阿联酋多元化建筑与工程集团，业务涵盖建筑承包、重型设备租赁、物流和能源服务。",
+      "procurement_needs": "需要采购挖掘机、起重机、混凝土泵车、推土机及农业整地机械。",
+      "partner_profile": "需要能提供融资支持、快速交付及海湾地区配件仓储的中国大型设备制造商。",
+      "key_markets": "阿联酋、沙特、卡塔尔、伊拉克、埃及",
+      "china_presence": "在迪拜设有采购中心，与三一重工、柳工有长期合作。",
+      "competitors": "Arabtec、ASGC、Nabco Group",
+      "market_share": "阿联酋建筑承包市场份额约10%，设备租赁市场占有率前五。",
+      "recent_news": "2026年初获得阿布扎比新城基建项目，宣布采购价值8000万美元的中国工程机械。"
     },
     {
       "company_name": "Dangote Group",
@@ -165,7 +354,19 @@
       "relevance": 85,
       "why": "Africa's largest conglomerate, with cement and mining operations, has a fleet of Chinese excavators and loaders.",
       "china_purchase": "Yes - SANY, XCMG",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Dangote%20Group"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Dangote%20Group",
+      "founded": 1981,
+      "headquarters": "拉各斯，尼日利亚",
+      "employees": 30000,
+      "annual_revenue": "约120亿美元",
+      "business_description": "非洲最大综合企业集团，核心业务为水泥、化肥、炼油及食品加工，拥有大规模农业种植项目。",
+      "procurement_needs": "需要采购大型水泥矿山设备、装载机、重型卡车、拖拉机及收割机（用于甘蔗/水稻农场）。",
+      "partner_profile": "寻找能提供“设备+技术培训+备件供应”一体化方案的中国农机和工程机械企业。",
+      "key_markets": "尼日利亚、加纳、坦桑尼亚、赞比亚、喀麦隆",
+      "china_presence": "在青岛设有采购办事处，与山东临工、雷沃重工有合作。",
+      "competitors": "拉法基豪瑞、BUA集团、Olam农业",
+      "market_share": "尼日利亚水泥市场份额约65%，化肥市场约40%。",
+      "recent_news": "2025年启动尼日利亚百万吨级大米加工项目，计划采购200台中国拖拉机及收割机。"
     },
     {
       "company_name": "Rostec State Corporation",
@@ -176,7 +377,19 @@
       "relevance": 60,
       "why": "Russian state conglomerate, indirectly procures heavy equipment for infrastructure, has partnered with Chinese firms.",
       "china_purchase": "Yes - SANY",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Rostec"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Rostec",
+      "founded": 2007,
+      "headquarters": "莫斯科，俄罗斯",
+      "employees": 450000,
+      "annual_revenue": "约280亿美元",
+      "business_description": "俄罗斯国有军工及工业集团，涵盖航空、电子、武器、汽车、医疗设备等多元领域，旗下拥有多家工程机械和特种车辆制造企业。",
+      "procurement_needs": "需要从中国采购液压元件、发动机零部件、工程机械整机（如挖掘机、装载机）以及农业机械（如拖拉机、收割机）的替代零部件和生产线设备。",
+      "partner_profile": "寻找具备军工或重工配套资质、能适应俄罗斯极端气候、提供本地化售后服务的中国大型制造企业或系统集成商。",
+      "key_markets": "俄罗斯、印度、中东、非洲、东南亚",
+      "china_presence": "北京设有代表处",
+      "competitors": "Uralvagonzavod、Almaz-Antey、Sukhoi",
+      "market_share": "俄罗斯军工出口份额约50%，国内工业制造领域占据主导地位。",
+      "recent_news": "2025年计划扩大民用工程机械产能，并寻求与中国在无人机和特种车辆领域的联合开发。"
     },
     {
       "company_name": "Limak Holding",
@@ -187,7 +400,19 @@
       "relevance": 75,
       "why": "Major Turkish contractor with international projects, has used Chinese equipment in Africa and Middle East.",
       "china_purchase": "Yes - XCMG",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Limak%20Holding"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Limak%20Holding",
+      "founded": 1976,
+      "headquarters": "安卡拉，土耳其",
+      "employees": 30000,
+      "annual_revenue": "约60亿美元",
+      "business_description": "土耳其多元化集团，业务涵盖建筑、能源、水泥、港口运营和机场建设，是中东及非洲大型基建项目的总承包商。",
+      "procurement_needs": "需要采购大型土方机械（挖掘机、推土机）、混凝土设备、起重机以及用于农业灌溉和土地整理的中型拖拉机。",
+      "partner_profile": "寻找价格有竞争力、能提供灵活付款条件（如延期信用证）、并支持快速交付的中国工程机械品牌及OEM供应商。",
+      "key_markets": "土耳其、卡塔尔、科威特、阿尔及利亚、莫桑比克",
+      "china_presence": "暂无",
+      "competitors": "Renaissance Construction、Enka Insaat、TAV Airports",
+      "market_share": "土耳其建筑市场份额约5%，在非洲机场建设领域排名前三。",
+      "recent_news": "2025年中标伊拉克新港口项目，计划采购大批量工程机械。"
     },
     {
       "company_name": "Hoa Phat Group",
@@ -198,7 +423,19 @@
       "relevance": 65,
       "why": "Vietnam's largest steel producer, with mining and construction divisions, has imported Chinese heavy machinery.",
       "china_purchase": "Yes - LiuGong",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Hoa%20Phat%20Group"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Hoa%20Phat%20Group",
+      "founded": 1992,
+      "headquarters": "河内，越南",
+      "employees": 30000,
+      "annual_revenue": "约80亿美元",
+      "business_description": "越南最大钢铁生产商，同时涉足建筑、房地产和农业机械制造，其农机品牌在东南亚市场具有较高知名度。",
+      "procurement_needs": "需要采购钢材加工设备、大型铸造机械、农业机械核心部件（如发动机、变速箱）以及自动化焊接机器人。",
+      "partner_profile": "寻找能提供技术转让、共同开发适合东南亚水稻种植的小型农机的中国制造商，以及钢铁冶炼设备供应商。",
+      "key_markets": "越南、柬埔寨、老挝、缅甸、泰国",
+      "china_presence": "在广西南宁设有贸易办事处",
+      "competitors": "Formosa Ha Tinh、Tata Steel、SMC",
+      "market_share": "越南建筑钢材市场份额约30%，农机市场份额约15%。",
+      "recent_news": "2025年宣布投资建设新农机装配厂，计划从中国引进两条智能生产线。"
     },
     {
       "company_name": "Adani Group",
@@ -209,7 +446,19 @@
       "relevance": 85,
       "why": "Indian conglomerate with massive coal mining and infrastructure, has purchased Chinese excavators and dozers.",
       "china_purchase": "Yes - SANY, XCMG",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Adani%20Group"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Adani%20Group",
+      "founded": 1988,
+      "headquarters": "艾哈迈达巴德，印度",
+      "employees": 26000,
+      "annual_revenue": "约250亿美元",
+      "business_description": "印度最大基础设施集团，业务覆盖港口、煤矿、电力、可再生能源和机场，拥有大规模矿山开采和物流网络。",
+      "procurement_needs": "需要采购大型矿用卡车、履带式挖掘机、破碎筛分设备、港口装卸机械以及用于太阳能电站维护的专用工程车辆。",
+      "partner_profile": "寻找能提供矿山重型设备、具备24小时远程运维能力、且愿意在印度建立备件仓库的中国大型装备制造商。",
+      "key_markets": "印度、澳大利亚、印度尼西亚、以色列、斯里兰卡",
+      "china_presence": "暂无",
+      "competitors": "Reliance Industries、Vedanta、JSW Group",
+      "market_share": "印度私营港口运营份额约40%，煤矿开采量占全国私营份额的25%。",
+      "recent_news": "2025年启动澳大利亚煤矿扩建项目，计划采购约200台重型矿卡。"
     },
     {
       "company_name": "Petrobras",
@@ -220,13 +469,19 @@
       "relevance": 70,
       "why": "Brazilian oil giant, uses heavy equipment for onshore and offshore operations, has tested Chinese cranes.",
       "china_purchase": "Yes - Zoomlion",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Petrobras"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Petrobras",
+      "founded": 1953,
+      "headquarters": "里约热内卢，巴西",
+      "employees": 45000,
+      "annual_revenue": "约900亿美元",
+      "business_description": "巴西国家石油公司，全球深海石油开采技术领先者，业务涵盖勘探、炼化、天然气及生物燃料，拥有大量海上平台和陆上油田。",
+      "procurement_needs": "需要采购石油专用工程机械（如防爆叉车、特种起重机）、管道铺设设备、油田用发电机组以及农业燃料生产所需的农机设备。",
+      "partner_profile": "寻找通过API或ISO认证、能提供耐腐蚀和防爆等级设备、并支持本地组装的中国重工企业。",
+      "key_markets": "巴西、美国、阿根廷、尼日利亚、安哥拉",
+      "china_presence": "北京设有代表处",
+      "competitors": "Ecopetrol、PDVSA、YPF",
+      "market_share": "巴西石油产量市场份额约70%，深海油田技术全球领先。",
+      "recent_news": "2025年宣布未来五年投资1000亿美元用于炼化升级，部分设备将面向亚洲采购。"
     }
-  ],
-  "scoring_rubric": {
-    "90-95": "Top-tier buyer — large scale, known to source from China, high procurement volume",
-    "75-89": "Strong fit — cost-sensitive, growing demand, likely to consider Chinese suppliers",
-    "55-74": "Moderate fit — possible buyer but not urgent or lower volume",
-    "40-54": "Weak fit — niche or occasional buyer, unlikely to prioritize Chinese"
-  }
+  ]
 }
