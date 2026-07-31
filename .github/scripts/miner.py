@@ -180,6 +180,7 @@ def call_deepseek(messages, max_tokens=1500, temperature=0.3):
 
 
 # ── AI SCORE ─────────────────────────────────────────────
+def ai_score_leads(leads: list[dict], industry: str) -> list[dict]:
     """Use DeepSeek to score leads by purchase intent and enrich with buyer profile."""
     if not leads:
         return []
