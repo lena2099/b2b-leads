@@ -1,6 +1,7 @@
 {
-  "industry": "Robotics & Automation",
-  "generated_at": "2026-07-31T09:27:33Z",
+  "industry": "机器人&自动化设备",
+  "total": 20,
+  "updated": "2026-07-31T11:51:16.400398+00:00",
   "leads": [
     {
       "company_name": "Ford Motor Company",
@@ -11,7 +12,19 @@
       "relevance": 85,
       "why": "High-volume manufacturing with intense cost pressure and a history of sourcing global automation to stay competitive.",
       "china_purchase": "No - no public record",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Ford%20Motor%20Company"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Ford%20Motor%20Company",
+      "founded": 1903,
+      "headquarters": "迪尔伯恩，美国",
+      "employees": 177000,
+      "annual_revenue": "1762亿美元",
+      "business_description": "全球领先的汽车制造商，生产销售福特和林肯品牌乘用车、卡车及商用车，并布局电动化与自动驾驶技术。",
+      "procurement_needs": "采购汽车制造产线机器人（焊接、喷涂、装配）、AGV/AMR物流机器人、视觉检测系统及自动化集成设备。",
+      "partner_profile": "寻找具备汽车行业产线自动化集成经验、通过IATF 16949认证、能提供本地化服务与快速响应的中国设备供应商。",
+      "key_markets": "美国、加拿大、英国、德国、中国",
+      "china_presence": "福特中国（上海）有限公司，南京工程研发中心",
+      "competitors": "通用汽车、丰田汽车、Stellantis",
+      "market_share": "美国汽车市场份额约13%，全球约5%",
+      "recent_news": "2025年宣布投资30亿美元扩建田纳西州电动皮卡工厂，引入新一代柔性自动化产线。"
     },
     {
       "company_name": "Volkswagen AG",
@@ -22,7 +35,19 @@
       "relevance": 80,
       "why": "Massive global production footprint and ongoing EV transition require cost-effective automation solutions.",
       "china_purchase": "No - no public record",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Volkswagen%20AG"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Volkswagen%20AG",
+      "founded": 1937,
+      "headquarters": "沃尔夫斯堡，德国",
+      "employees": 684000,
+      "annual_revenue": "3220亿欧元",
+      "business_description": "欧洲最大汽车集团，旗下拥有大众、奥迪、保时捷、斯柯达等品牌，覆盖乘用车、商用车及金融服务。",
+      "procurement_needs": "采购整车及零部件产线机器人、动力电池装配自动化设备、智能仓储物流系统及工业4.0解决方案。",
+      "partner_profile": "偏好具有欧洲项目交付经验、熟悉CE认证、能提供模块化自动化单元和数字化工厂解决方案的中国供应商。",
+      "key_markets": "德国、中国、美国、巴西、墨西哥",
+      "china_presence": "大众汽车（中国）投资有限公司，合肥大众安徽工厂",
+      "competitors": "丰田汽车、Stellantis、现代汽车",
+      "market_share": "全球汽车销量约11%，欧洲市场占有率约25%",
+      "recent_news": "2025年与地平线合作开发智能驾驶域控制器，同时加速中国区电动化产线改造。"
     },
     {
       "company_name": "Toyota Motor Corporation",
@@ -33,7 +58,19 @@
       "relevance": 75,
       "why": "Lean manufacturing and cost discipline make them open to competitive Chinese robotics for non-core tasks.",
       "china_purchase": "No - no public record",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Toyota%20Motor%20Corporation"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Toyota%20Motor%20Corporation",
+      "founded": 1937,
+      "headquarters": "丰田市，日本",
+      "employees": 375000,
+      "annual_revenue": "3100亿美元",
+      "business_description": "全球最大汽车制造商之一，以精益生产著称，产品涵盖混动、纯电、氢燃料电池车及商用车。",
+      "procurement_needs": "采购高精度装配机器人、柔性制造单元、质量检测自动化设备及人机协作机器人。",
+      "partner_profile": "寻找能适应丰田精益生产体系（TPS）、具备高良率设备制造能力、愿意深度定制化开发的中国合作伙伴。",
+      "key_markets": "日本、美国、中国、泰国、印度尼西亚",
+      "china_presence": "丰田汽车（中国）投资有限公司，常熟研发中心",
+      "competitors": "大众汽车、本田汽车、现代汽车",
+      "market_share": "全球汽车销量约12%，日本国内市场份额约45%",
+      "recent_news": "2025年宣布在九州新建电池工厂，导入全自动电极与组装产线。"
     },
     {
       "company_name": "Magna International Inc.",
@@ -44,7 +81,19 @@
       "relevance": 82,
       "why": "Global Tier 1 with thin margins and high volume, constantly seeking lower-cost automation for assembly and welding.",
       "china_purchase": "No - no public record",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Magna%20International%20Inc."
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Magna%20International%20Inc.",
+      "founded": 1957,
+      "headquarters": "奥罗拉，加拿大",
+      "employees": 179000,
+      "annual_revenue": "428亿美元",
+      "business_description": "全球第三大汽车零部件供应商，提供车身、底盘、外饰、座椅、动力总成及整车代工服务。",
+      "procurement_needs": "采购汽车零部件焊接/装配机器人工作站、视觉引导抓取系统、自动化检测设备及智能拧紧系统。",
+      "partner_profile": "需要具备汽车零部件行业案例、能提供交钥匙工程、具备全球化服务网络的中国自动化集成商。",
+      "key_markets": "美国、德国、中国、墨西哥、韩国",
+      "china_presence": "麦格纳汽车系统（上海）有限公司，在华拥有多个工厂",
+      "competitors": "博世、采埃孚、佛瑞亚",
+      "market_share": "全球汽车零部件供应商排名第3，北美市场份额约15%",
+      "recent_news": "2025年获得某欧洲豪华品牌电动车平台电池壳体订单，投资新建自动化产线。"
     },
     {
       "company_name": "Robert Bosch GmbH",
@@ -55,7 +104,19 @@
       "relevance": 78,
       "why": "Diverse manufacturing operations and cost optimization initiatives make them a candidate for Chinese robots in secondary processes.",
       "china_purchase": "No - no public record",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Robert%20Bosch%20GmbH"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Robert%20Bosch%20GmbH",
+      "founded": 1886,
+      "headquarters": "斯图加特，德国",
+      "employees": 421000,
+      "annual_revenue": "916亿欧元",
+      "business_description": "全球领先的技术与服务供应商，业务涵盖汽车与智能交通技术、工业技术、消费品及能源与建筑技术。",
+      "procurement_needs": "采购精密装配机器人、传感器自动化生产线、电子元件贴装与检测设备、工业机器人控制器及驱动系统。",
+      "partner_profile": "寻求在精密电子制造自动化领域有专长、通过ISO 9001/14001认证、具备联合研发能力的中国供应商。",
+      "key_markets": "德国、中国、美国、印度、日本",
+      "china_presence": "博世（中国）投资有限公司，苏州、南京、长沙设有工厂",
+      "competitors": "大陆集团、电装、西门子",
+      "market_share": "全球汽车零部件供应商排名第1，汽车电子市场份额约20%",
+      "recent_news": "2025年宣布投资10亿欧元在苏州建设新能源汽车核心部件自动化工厂。"
     },
     {
       "company_name": "Samsung Electronics Co., Ltd.",
@@ -66,7 +127,19 @@
       "relevance": 80,
       "why": "High-volume electronics assembly with extreme cost sensitivity and existing supply chain ties to China.",
       "china_purchase": "No - no public record",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Samsung%20Electronics%20Co.%2C%20Ltd."
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Samsung%20Electronics%20Co.%2C%20Ltd.",
+      "founded": 1969,
+      "headquarters": "水原市，韩国",
+      "employees": 270000,
+      "annual_revenue": "2000亿美元",
+      "business_description": "全球领先的消费电子与半导体制造商，产品涵盖智能手机、电视、存储芯片及家用电器。",
+      "procurement_needs": "需要采购用于半导体产线、电子产品装配的精密工业机器人、AGV/AMR及视觉检测自动化设备。",
+      "partner_profile": "寻找具备半导体/电子行业案例、高精度控制能力、可提供全球售后服务的自动化集成商与设备供应商。",
+      "key_markets": "韩国、美国、中国、印度、越南",
+      "china_presence": "苏州、深圳、西安设有生产基地及研发中心",
+      "competitors": "Apple, Intel, LG Electronics",
+      "market_share": "全球智能手机市场份额约20%，半导体存储市场份额约40%",
+      "recent_news": "2025年宣布在韩国平泽新建先进半导体封装线，引入全自动化物流系统。"
     },
     {
       "company_name": "Foxconn (Hon Hai Precision Industry Co., Ltd.)",
@@ -77,7 +150,19 @@
       "relevance": 95,
       "why": "Already a major buyer of automation and has publicly deployed Chinese robots in their factories for cost reduction.",
       "china_purchase": "Yes - Foxconn has used robots from Chinese vendors like Siasun and Estun in various facilities.",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Foxconn"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Foxconn",
+      "founded": 1974,
+      "headquarters": "新北市，中国台湾",
+      "employees": 800000,
+      "annual_revenue": "1800亿美元",
+      "business_description": "全球最大电子代工服务商，为苹果等品牌提供iPhone、服务器、游戏机等产品的组装制造服务。",
+      "procurement_needs": "大规模采购用于3C装配的六轴机器人、协作机器人、自动化测试设备及智能仓储物流系统。",
+      "partner_profile": "偏好能提供整线自动化解决方案、具备快速响应能力、成本控制优秀的中国设备供应商。",
+      "key_markets": "中国大陆、美国、印度、越南、墨西哥",
+      "china_presence": "深圳、郑州、成都、烟台等数十个制造园区",
+      "competitors": "Pegatron, Quanta Computer, Compal Electronics",
+      "market_share": "全球电子代工市场份额约30%",
+      "recent_news": "2025年宣布在印度泰米尔纳德邦扩建iPhone产线，同步引入自动化组装机器人。"
     },
     {
       "company_name": "DHL Supply Chain",
@@ -88,7 +173,19 @@
       "relevance": 70,
       "why": "Warehouse automation is a priority, and Chinese AMRs and robotic arms offer cost-effective solutions for sorting and packing.",
       "china_purchase": "No - no public record",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=DHL%20Supply%20Chain"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=DHL%20Supply%20Chain",
+      "founded": 1969,
+      "headquarters": "波恩，德国",
+      "employees": 400000,
+      "annual_revenue": "800亿欧元",
+      "business_description": "全球领先的合同物流与供应链解决方案提供商，提供仓储、运输、配送及增值服务。",
+      "procurement_needs": "采购仓储自动化设备，包括AGV/AMR、自动分拣系统、机械臂码垛机及WMS/WCS软件集成方案。",
+      "partner_profile": "寻找有大型物流中心成功案例、可提供软硬件一体化方案、具备全球部署能力的自动化设备厂商。",
+      "key_markets": "德国、美国、中国、英国、荷兰",
+      "china_presence": "上海、香港设有亚太区总部及多个物流中心",
+      "competitors": "Kuehne+Nagel, DB Schenker, XPO Logistics",
+      "market_share": "全球合同物流市场份额约10%",
+      "recent_news": "2025年宣布在德国莱比锡枢纽部署500台自主移动机器人，提升包裹分拣效率。"
     },
     {
       "company_name": "XPO Logistics, Inc.",
@@ -99,7 +196,19 @@
       "relevance": 65,
       "why": "Large-scale distribution centers need affordable robotic palletizing and picking solutions to compete with rivals.",
       "china_purchase": "No - no public record",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=XPO%20Logistics%2C%20Inc."
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=XPO%20Logistics%2C%20Inc.",
+      "founded": 1989,
+      "headquarters": "格林威治，美国",
+      "employees": 100000,
+      "annual_revenue": "150亿美元",
+      "business_description": "北美领先的物流运输与供应链服务公司，提供零担运输、货运经纪及最后一公里配送服务。",
+      "procurement_needs": "采购用于货运分拣的自动化设备、叉车AGV、输送线系统及车队管理自动化技术。",
+      "partner_profile": "寻求能提供高性价比物流自动化设备、有北美市场服务经验、支持快速部署的供应商。",
+      "key_markets": "美国、加拿大、墨西哥、英国、法国",
+      "china_presence": "上海设有采购代表处",
+      "competitors": "FedEx Logistics, UPS Supply Chain, C.H. Robinson",
+      "market_share": "北美零担运输市场份额约8%",
+      "recent_news": "2025年推出AI驱动的智能分拣中心，在德克萨斯州部署自动化装卸系统。"
     },
     {
       "company_name": "Nestlé S.A.",
@@ -110,7 +219,19 @@
       "relevance": 72,
       "why": "Food packaging and palletizing are repetitive tasks where Chinese robots offer significant cost savings over European brands.",
       "china_purchase": "No - no public record",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Nestl%C3%A9%20S.A."
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Nestl%C3%A9%20S.A.",
+      "founded": 1866,
+      "headquarters": "沃韦，瑞士",
+      "employees": 270000,
+      "annual_revenue": "930亿瑞士法郎",
+      "business_description": "全球最大食品饮料公司，产品涵盖咖啡、乳制品、宠物食品、瓶装水等。",
+      "procurement_needs": "采购食品级包装自动化设备、高速分拣机器人、码垛机器人及食品生产线视觉检测系统。",
+      "partner_profile": "需要符合食品卫生标准（FDA/EU）、具备食品行业案例、能提供无菌环境自动化方案的供应商。",
+      "key_markets": "美国、中国、巴西、德国、印度",
+      "china_presence": "北京、上海、东莞、青岛等地设有30余家工厂",
+      "competitors": "PepsiCo, Unilever, Kraft Heinz",
+      "market_share": "全球包装食品市场份额约5%",
+      "recent_news": "2025年宣布投资5亿瑞士法郎升级欧洲工厂，全面部署协作机器人用于包装线。"
     },
     {
       "company_name": "Tyson Foods, Inc.",
@@ -121,7 +242,19 @@
       "relevance": 75,
       "why": "Labor shortages and high turnover in meat processing push them to adopt affordable automation, including Chinese robots.",
       "china_purchase": "No - no public record",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Tyson%20Foods%2C%20Inc."
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Tyson%20Foods%2C%20Inc.",
+      "founded": 1935,
+      "headquarters": "美国阿肯色州斯普林代尔",
+      "employees": 139000,
+      "annual_revenue": "约533亿美元",
+      "business_description": "全球最大的肉类及禽类加工企业之一，销售鸡肉、牛肉、猪肉及预制食品，旗下拥有Jimmy Dean、Hillshire Farm等品牌。",
+      "procurement_needs": "需要采购肉类加工自动化设备，如智能分割机器人、自动去骨系统、视觉检测与分拣机器人、包装自动化流水线。",
+      "partner_profile": "寻找有食品加工行业经验、能提供定制化机器人解决方案、具备北美服务能力且符合食品安全认证（如NSF/CE）的供应商。",
+      "key_markets": "美国、中国、墨西哥、加拿大、英国",
+      "china_presence": "在上海设有办事处，并在中国有合资工厂（如江苏泰森食品）。",
+      "competitors": "JBS S.A.、Cargill Protein、Pilgrim's Pride",
+      "market_share": "美国鸡肉市场份额约20%，牛肉约15%，为美国最大肉类生产商之一。",
+      "recent_news": "2025年宣布投资2亿美元在田纳西州新建自动化鸡肉加工厂，采用AI视觉和机器人切割技术。"
     },
     {
       "company_name": "ThyssenKrupp AG",
@@ -132,7 +265,19 @@
       "relevance": 68,
       "why": "Heavy metal fabrication and welding tasks are ideal for cost-effective Chinese industrial robots.",
       "china_purchase": "No - no public record",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=ThyssenKrupp%20AG"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=ThyssenKrupp%20AG",
+      "founded": 1999,
+      "headquarters": "德国埃森",
+      "employees": 100000,
+      "annual_revenue": "约350亿欧元",
+      "business_description": "德国工业巨头，业务涵盖钢铁、电梯、汽车零部件、工业解决方案等，销售电梯系统、汽车转向系统、材料服务及工厂工程设备。",
+      "procurement_needs": "需要采购工业机器人（焊接、装配、搬运）、自动化输送系统、智能仓储设备、电梯部件装配机器人及检测设备。",
+      "partner_profile": "寻找具备工业4.0能力、有大型机械制造项目经验、能提供高精度机器人及自动化集成方案的中国供应商，要求有国际认证（CE/ISO）。",
+      "key_markets": "德国、美国、中国、印度、巴西",
+      "china_presence": "在中国设有多个生产基地和采购中心，如上海、常州、大连等。",
+      "competitors": "Siemens AG、Mitsubishi Heavy Industries、KONE Corporation",
+      "market_share": "全球电梯市场排名前五，欧洲钢铁市场份额领先，但整体业务处于转型期。",
+      "recent_news": "2025年宣布剥离钢铁业务，聚焦于电梯和工业解决方案，并加大在自动化领域的投资。"
     },
     {
       "company_name": "Nucor Corporation",
@@ -143,7 +288,19 @@
       "relevance": 70,
       "why": "Steel processing and material handling require robust robots, and Chinese vendors offer competitive pricing for high-volume use.",
       "china_purchase": "No - no public record",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Nucor%20Corporation"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Nucor%20Corporation",
+      "founded": 1940,
+      "headquarters": "美国北卡罗来纳州夏洛特",
+      "employees": 32000,
+      "annual_revenue": "约350亿美元",
+      "business_description": "美国最大的钢铁生产商（以电弧炉为主），销售钢材、钢板、钢梁、钢筋及钢管产品，同时生产钢铁加工设备。",
+      "procurement_needs": "需要采购钢铁产线自动化设备，如连铸连轧机器人、自动取样与检测系统、无人天车、智能物流与仓储自动化系统。",
+      "partner_profile": "寻找有冶金行业自动化经验、能提供重载机器人及耐高温设备、具备北美本地服务能力的供应商。",
+      "key_markets": "美国、加拿大、墨西哥、巴西、欧洲",
+      "china_presence": "暂无正式分公司，但通过贸易商采购中国设备。",
+      "competitors": "Steel Dynamics Inc.、U.S. Steel、ArcelorMittal",
+      "market_share": "美国粗钢产量市场份额约20%，为北美最大电弧炉钢企。",
+      "recent_news": "2025年宣布在肯塔基州新建一座全自动化微型钢厂，采用AI控制轧制过程。"
     },
     {
       "company_name": "Pfizer Inc.",
@@ -154,7 +311,19 @@
       "relevance": 55,
       "why": "Pharma automation is highly regulated, but secondary packaging and logistics could use Chinese robots for cost savings.",
       "china_purchase": "No - no public record",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Pfizer%20Inc."
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Pfizer%20Inc.",
+      "founded": 1849,
+      "headquarters": "美国纽约州纽约市",
+      "employees": 88000,
+      "annual_revenue": "约580亿美元",
+      "business_description": "全球领先的制药企业，销售处方药、疫苗（如Comirnaty新冠疫苗）和肿瘤药物，覆盖多个治疗领域。",
+      "procurement_needs": "需要采购制药自动化设备，如无菌灌装机器人、药品包装自动化线、实验室自动化系统、智能仓储与物流机器人。",
+      "partner_profile": "寻找符合GMP/FDA认证、有制药行业洁净室自动化经验、能提供高精度和可追溯性系统的供应商。",
+      "key_markets": "美国、中国、日本、德国、英国",
+      "china_presence": "在上海设有研发中心，在大连和无锡有生产基地。",
+      "competitors": "Johnson & Johnson、Roche、Merck & Co.",
+      "market_share": "全球处方药市场份额约5%，疫苗领域全球领先。",
+      "recent_news": "2025年宣布与AI公司合作，在爱尔兰工厂部署机器人进行药品包装和质检。"
     },
     {
       "company_name": "Novartis International AG",
@@ -165,7 +334,19 @@
       "relevance": 50,
       "why": "Regulatory hurdles limit core production, but warehouse and lab automation could see Chinese robot adoption.",
       "china_purchase": "No - no public record",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Novartis%20International%20AG"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Novartis%20International%20AG",
+      "founded": 1996,
+      "headquarters": "瑞士巴塞尔",
+      "employees": 76000,
+      "annual_revenue": "约450亿美元",
+      "business_description": "全球性医药健康公司，销售创新药、仿制药（Sandoz）、眼科产品及细胞基因疗法，专注于肿瘤、免疫和神经科学。",
+      "procurement_needs": "需要采购制药自动化设备，如高精度灌装机器人、无菌隔离器、自动视觉检测系统、实验室自动化及智能包装线。",
+      "partner_profile": "寻找有制药行业GMP认证、能提供模块化自动化方案、具备全球服务网络和合规文档能力的中国供应商。",
+      "key_markets": "美国、中国、德国、日本、法国",
+      "china_presence": "在北京、上海设有研发中心，在苏州和中山有生产基地。",
+      "competitors": "Roche、AstraZeneca、Bristol-Myers Squibb",
+      "market_share": "全球创新药市场份额约4%，在肿瘤和罕见病领域领先。",
+      "recent_news": "2025年宣布在瑞士工厂引入协作机器人用于细胞治疗产品的自动化生产。"
     },
     {
       "company_name": "KUKA AG",
@@ -176,7 +357,19 @@
       "relevance": 90,
       "why": "As a major integrator, they already source robots globally and have partnerships with Chinese manufacturers like Midea (their parent).",
       "china_purchase": "Yes - KUKA is owned by Midea Group (Chinese) and integrates Chinese robots in some solutions.",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=KUKA%20AG"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=KUKA%20AG",
+      "founded": 1898,
+      "headquarters": "奥格斯堡，德国",
+      "employees": 15000,
+      "annual_revenue": "约40亿欧元",
+      "business_description": "全球领先的工业机器人及自动化解决方案供应商，提供机器人本体、控制器、软件及系统集成服务，广泛应用于汽车、电子、消费品等行业。",
+      "procurement_needs": "需要从中国采购高性价比的机器人零部件（减速器、伺服电机、传感器）、机器人本体代工、以及自动化产线配套设备。",
+      "partner_profile": "寻找具备精密制造能力、通过ISO认证、有机器人行业配套经验的中国供应商，能提供稳定批量供货和快速响应技术支持。",
+      "key_markets": "德国、中国、美国、韩国、意大利",
+      "china_presence": "库卡机器人（上海）有限公司，中国区总部及制造基地（佛山）",
+      "competitors": "ABB、发那科、安川电机",
+      "market_share": "全球工业机器人市场份额约10%，中国市场份额约12%（外资品牌中前三）。",
+      "recent_news": "2025年宣布与美的集团协同，在顺德新建机器人超级工厂，产能提升至10万台/年。"
     },
     {
       "company_name": "FANUC Corporation",
@@ -187,7 +380,19 @@
       "relevance": 60,
       "why": "They are a competitor, but they also buy components and could source Chinese robots for low-end applications in Asia.",
       "china_purchase": "No - no public record",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=FANUC%20Corporation"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=FANUC%20Corporation",
+      "founded": 1956,
+      "headquarters": "山梨县忍野村，日本",
+      "employees": 8000,
+      "annual_revenue": "约7000亿日元（约50亿美元）",
+      "business_description": "全球最大的工业机器人制造商之一，产品涵盖机器人、CNC数控系统、注塑机及工厂自动化解决方案，以高精度高可靠性著称。",
+      "procurement_needs": "需要从中国采购伺服电机零部件、精密铸件、线束组件、以及机器人控制柜的电子元器件。",
+      "partner_profile": "偏好技术实力强、成本控制优秀、能配合严格质量审核（如FANUC认证）的长期战略供应商，尤其看重交货准时率。",
+      "key_markets": "日本、中国、美国、德国、泰国",
+      "china_presence": "上海发那科机器人有限公司（中国总部），另在广州、武汉设有基地",
+      "competitors": "ABB、安川电机、库卡",
+      "market_share": "全球工业机器人市场份额约17%，中国市场份额约15%（常年第一）。",
+      "recent_news": "2025年推出新一代协作机器人CRX系列，并宣布在中国扩大伺服电机本地采购比例至30%。"
     },
     {
       "company_name": "Rockwell Automation, Inc.",
@@ -198,7 +403,19 @@
       "relevance": 65,
       "why": "They provide automation solutions and may integrate Chinese robots for cost-sensitive clients in North America.",
       "china_purchase": "No - no public record",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Rockwell%20Automation%2C%20Inc."
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Rockwell%20Automation%2C%20Inc.",
+      "founded": 1903,
+      "headquarters": "密尔沃基，美国",
+      "employees": 28000,
+      "annual_revenue": "约90亿美元",
+      "business_description": "全球领先的工业自动化和数字化转型企业，提供PLC、变频器、运动控制、工业网络及FactoryTalk软件平台，专注智能制造。",
+      "procurement_needs": "需要从中国采购工业控制柜组件、PCB板、连接器、传感器、以及边缘计算硬件设备。",
+      "partner_profile": "寻找具备电子制造服务（EMS）能力、有UL/CE认证、能提供ODM定制开发的中国合作伙伴，重视软件集成能力。",
+      "key_markets": "美国、中国、德国、印度、巴西",
+      "china_presence": "罗克韦尔自动化（中国）有限公司，上海总部，大连/深圳设有研发中心",
+      "competitors": "西门子、施耐德电气、ABB",
+      "market_share": "全球工业自动化市场份额约5%，在北美市场排名第一。",
+      "recent_news": "2025年宣布与中控技术合作，在中国推出本地化边缘控制解决方案，并加大在华采购力度。"
     },
     {
       "company_name": "Hyundai Motor Company",
@@ -209,7 +426,19 @@
       "relevance": 72,
       "why": "Korean automakers face cost competition and have been increasing automation in their plants, with potential to test Chinese robots.",
       "china_purchase": "No - no public record",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Hyundai%20Motor%20Company"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Hyundai%20Motor%20Company",
+      "founded": 1967,
+      "headquarters": "首尔，韩国",
+      "employees": 72000,
+      "annual_revenue": "约1200亿美元",
+      "business_description": "韩国最大汽车制造商，近年大力投资机器人技术（波士顿动力母公司），在汽车制造产线中大规模部署工业机器人及智能物流设备。",
+      "procurement_needs": "需要从中国采购汽车焊装机器人配套夹具、AGV小车、视觉检测系统、以及电池产线自动化设备。",
+      "partner_profile": "寻求具备汽车行业项目经验、能提供交钥匙工程的中国自动化集成商，要求有全球服务能力和成本竞争力。",
+      "key_markets": "美国、韩国、中国、印度、欧洲",
+      "china_presence": "现代汽车（中国）投资有限公司，北京/上海/烟台设有研发及采购中心",
+      "competitors": "丰田汽车、大众汽车、特斯拉",
+      "market_share": "全球汽车市场份额约4.5%（2025年），在韩国本土市场份额第一。",
+      "recent_news": "2025年宣布与现代重工合作，在韩国蔚山工厂引入中国产协作机器人进行零部件装配试点。"
     },
     {
       "company_name": "General Motors Company",
@@ -220,13 +449,19 @@
       "relevance": 78,
       "why": "GM's aggressive EV investment and cost-cutting initiatives make them a strong candidate for lower-cost Chinese robots in body shops.",
       "china_purchase": "No - no public record",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=General%20Motors%20Company"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=General%20Motors%20Company",
+      "founded": 1908,
+      "headquarters": "底特律，美国",
+      "employees": 164000,
+      "annual_revenue": "约1700亿美元",
+      "business_description": "美国最大汽车制造商，旗下雪佛兰、凯迪拉克等品牌，正全面转型电动化，在北美及全球工厂大规模部署机器人焊接、涂装和电池装配线。",
+      "procurement_needs": "需要从中国采购电池模组PACK自动化产线、机器人末端执行器、视觉引导系统及冲压自动化周边设备。",
+      "partner_profile": "偏好有汽车OEM一级供应商经验、具备国际化交付能力（北美/墨西哥建点）的中国设备商，重视安全认证和售后响应。",
+      "key_markets": "美国、加拿大、中国、墨西哥、巴西",
+      "china_presence": "通用汽车（中国）投资有限公司，上海总部，另在武汉/沈阳有合资工厂",
+      "competitors": "福特汽车、丰田汽车、大众汽车",
+      "market_share": "全球汽车市场份额约6%（2025年），美国本土市场份额约16%。",
+      "recent_news": "2025年宣布与宁德时代合作，在北美新建电池工厂，并同步采购中国产自动化装配线。"
     }
-  ],
-  "scoring_rubric": {
-    "90_95": "Actively deploying, large scale, public RFQ or known to evaluate Chinese vendors",
-    "75_89": "Strong fit - industry + scale + cost pressure align",
-    "55_74": "Moderate fit - possible buyer but not urgent",
-    "40_54": "Weak fit - could buy but unlikely to prioritize Chinese"
-  }
+  ]
 }
