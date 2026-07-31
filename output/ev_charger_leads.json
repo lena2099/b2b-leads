@@ -1,0 +1,232 @@
+{
+  "industry": "EV & Charging Infrastructure",
+  "generated_at": "2026-07-31T11:18:54Z",
+  "leads": [
+    {
+      "company_name": "Penske Automotive Group",
+      "website": "https://www.penskeautomotive.com",
+      "buyer_type": "Auto dealership groups & distributors",
+      "country": "UK",
+      "size": "Enterprise (>1000)",
+      "relevance": 85,
+      "why": "Large international dealership group with UK operations, actively expanding EV sales and services.",
+      "china_purchase": "No - no public record",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Penske%20Automotive%20Group"
+    },
+    {
+      "company_name": "Inchcape plc",
+      "website": "https://www.inchcape.com",
+      "buyer_type": "Auto dealership groups & distributors",
+      "country": "UK",
+      "size": "Enterprise (>1000)",
+      "relevance": 90,
+      "why": "Global automotive distributor with operations in UK, Thailand, and other markets, actively adding EV brands to portfolio.",
+      "china_purchase": "Yes - BYD (distributes BYD in multiple markets)",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Inchcape%20plc"
+    },
+    {
+      "company_name": "Moller Mobility Group",
+      "website": "https://www.mollermobilitygroup.com",
+      "buyer_type": "Auto dealership groups & distributors",
+      "country": "Norway",
+      "size": "Enterprise (>1000)",
+      "relevance": 80,
+      "why": "Norway's largest car dealer group, high EV adoption market, actively seeking new EV brands.",
+      "china_purchase": "Yes - BYD (distributes BYD in Norway)",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Moller%20Mobility%20Group"
+    },
+    {
+      "company_name": "Van Mossel Automotive Group",
+      "website": "https://www.vanmossel.nl",
+      "buyer_type": "Auto dealership groups & distributors",
+      "country": "Netherlands",
+      "size": "Enterprise (>1000)",
+      "relevance": 75,
+      "why": "Largest Dutch dealer group, expanding EV offerings, open to Chinese brands.",
+      "china_purchase": "No - no public record",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Van%20Mossel%20Automotive%20Group"
+    },
+    {
+      "company_name": "BHPH (Bangkok Honda) - not relevant, use: ",
+      "website": "",
+      "buyer_type": "",
+      "country": "",
+      "size": "",
+      "relevance": 0,
+      "why": "",
+      "china_purchase": "",
+      "linkedin_url": ""
+    },
+    {
+      "company_name": "RMA Group",
+      "website": "https://www.rmagroup.net",
+      "buyer_type": "Auto dealership groups & distributors",
+      "country": "Thailand",
+      "size": "Enterprise (>1000)",
+      "relevance": 85,
+      "why": "Major automotive distributor in Thailand, actively adding Chinese EV brands to portfolio.",
+      "china_purchase": "Yes - BYD (distributes BYD in Thailand)",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=RMA%20Group"
+    },
+    {
+      "company_name": "Sime Darby Motors",
+      "website": "https://www.simedarby.com",
+      "buyer_type": "Auto dealership groups & distributors",
+      "country": "Thailand",
+      "size": "Enterprise (>1000)",
+      "relevance": 80,
+      "why": "Large Asian dealer group with Thai operations, expanding EV distribution.",
+      "china_purchase": "Yes - BYD (distributes BYD in Thailand)",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Sime%20Darby%20Motors"
+    },
+    {
+      "company_name": "Emirates Motor Company (Al-Futtaim)",
+      "website": "https://www.alfuttaim.com",
+      "buyer_type": "Auto dealership groups & distributors",
+      "country": "UAE",
+      "size": "Enterprise (>1000)",
+      "relevance": 75,
+      "why": "Major UAE dealer group, actively exploring Chinese EV partnerships.",
+      "china_purchase": "No - no public record",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Emirates%20Motor%20Company"
+    },
+    {
+      "company_name": "Al Habtoor Motors",
+      "website": "https://www.alhabtoormotors.com",
+      "buyer_type": "Auto dealership groups & distributors",
+      "country": "UAE",
+      "size": "Enterprise (>1000)",
+      "relevance": 70,
+      "why": "Large UAE dealer, considering Chinese EVs for cost-effective fleet options.",
+      "china_purchase": "No - no public record",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Al%20Habtoor%20Motors"
+    },
+    {
+      "company_name": "E.ON Drive",
+      "website": "https://www.eon-drive.com",
+      "buyer_type": "EV charging network operators (CPOs)",
+      "country": "Germany",
+      "size": "Enterprise (>1000)",
+      "relevance": 85,
+      "why": "Major European CPO, expanding charging infrastructure, cost-sensitive to Chinese equipment.",
+      "china_purchase": "No - no public record",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=E.ON%20Drive"
+    },
+    {
+      "company_name": "Allego",
+      "website": "https://www.allego.eu",
+      "buyer_type": "EV charging network operators (CPOs)",
+      "country": "Netherlands",
+      "size": "Enterprise (>1000)",
+      "relevance": 80,
+      "why": "Pan-European CPO, actively deploying fast chargers, open to competitive Chinese suppliers.",
+      "china_purchase": "No - no public record",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Allego"
+    },
+    {
+      "company_name": "Fastned",
+      "website": "https://www.fastned.nl",
+      "buyer_type": "EV charging network operators (CPOs)",
+      "country": "Netherlands",
+      "size": "Medium (100-1000)",
+      "relevance": 75,
+      "why": "Dutch fast-charging network, expanding rapidly, evaluating cost-effective chargers.",
+      "china_purchase": "No - no public record",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Fastned"
+    },
+    {
+      "company_name": "Ionity",
+      "website": "https://ionity.eu",
+      "buyer_type": "EV charging network operators (CPOs)",
+      "country": "Germany",
+      "size": "Enterprise (>1000)",
+      "relevance": 70,
+      "why": "High-power charging network across Europe, but premium brand, less likely to use Chinese equipment.",
+      "china_purchase": "No - no public record",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Ionity"
+    },
+    {
+      "company_name": "ChargePoint (Europe)",
+      "website": "https://www.chargepoint.com",
+      "buyer_type": "EV charging network operators (CPOs)",
+      "country": "Netherlands",
+      "size": "Enterprise (>1000)",
+      "relevance": 65,
+      "why": "Global CPO with European HQ, but primarily uses own hardware, limited Chinese sourcing.",
+      "china_purchase": "No - no public record",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=ChargePoint"
+    },
+    {
+      "company_name": "Uber (fleet operations)",
+      "website": "https://www.uber.com",
+      "buyer_type": "Fleet operators (taxi, ride-hailing, logistics)",
+      "country": "UK",
+      "size": "Enterprise (>1000)",
+      "relevance": 85,
+      "why": "Global ride-hailing giant, pushing EV adoption in UK, cost-sensitive to Chinese EVs.",
+      "china_purchase": "Yes - BYD (partnership for EV fleet in UK)",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Uber"
+    },
+    {
+      "company_name": "Bolt (ride-hailing)",
+      "website": "https://bolt.eu",
+      "buyer_type": "Fleet operators (taxi, ride-hailing, logistics)",
+      "country": "Germany",
+      "size": "Enterprise (>1000)",
+      "relevance": 75,
+      "why": "European ride-hailing platform, encouraging drivers to use EVs, open to Chinese models.",
+      "china_purchase": "No - no public record",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Bolt"
+    },
+    {
+      "company_name": "Hertz Global Holdings",
+      "website": "https://www.hertz.com",
+      "buyer_type": "Car rental companies",
+      "country": "Australia",
+      "size": "Enterprise (>1000)",
+      "relevance": 80,
+      "why": "Global rental giant with Australian operations, committed to EV fleet, cost-sensitive.",
+      "china_purchase": "Yes - BYD (purchased BYD EVs for rental fleet in Europe/Australia)",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Hertz%20Global%20Holdings"
+    },
+    {
+      "company_name": "Sixt SE",
+      "website": "https://www.sixt.com",
+      "buyer_type": "Car rental companies",
+      "country": "Germany",
+      "size": "Enterprise (>1000)",
+      "relevance": 75,
+      "why": "German rental company, expanding EV fleet, evaluating Chinese brands for cost efficiency.",
+      "china_purchase": "No - no public record",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Sixt%20SE"
+    },
+    {
+      "company_name": "Localiza (Brazil)",
+      "website": "https://www.localiza.com",
+      "buyer_type": "Car rental companies",
+      "country": "Brazil",
+      "size": "Enterprise (>1000)",
+      "relevance": 70,
+      "why": "Largest rental company in Brazil, starting EV adoption, open to Chinese imports.",
+      "china_purchase": "No - no public record",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Localiza"
+    },
+    {
+      "company_name": "Oslo Kommune (Municipality)",
+      "website": "https://www.oslo.kommune.no",
+      "buyer_type": "Municipal governments & public transport authorities",
+      "country": "Norway",
+      "size": "Enterprise (>1000)",
+      "relevance": 90,
+      "why": "Oslo municipality leads EV adoption, procures electric buses and chargers, cost-sensitive to Chinese suppliers.",
+      "china_purchase": "Yes - BYD (electric buses purchased for public transport)",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Oslo%20Kommune"
+    }
+  ],
+  "scoring_rubric": {
+    "90-95": "Top-tier buyer — large scale, known to source from China, high procurement volume",
+    "75-89": "Strong fit — cost-sensitive, growing demand, likely to consider Chinese suppliers",
+    "55-74": "Moderate fit — possible buyer but not urgent or lower volume",
+    "40-54": "Weak fit — niche or occasional buyer, unlikely to prioritize Chinese"
+  }
+}
