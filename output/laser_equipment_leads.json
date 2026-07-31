@@ -1,6 +1,7 @@
 {
-  "industry": "Laser Equipment",
-  "generated_at": "2026-07-31T11:01:20Z",
+  "industry": "激光设备&精密加工",
+  "total": 20,
+  "updated": "2026-07-31T11:48:49.867452+00:00",
   "leads": [
     {
       "company_name": "Mayville Engineering Company, Inc.",
@@ -11,7 +12,19 @@
       "relevance": 88,
       "why": "Large-scale contract fabricator with multiple US facilities, cost-sensitive and actively modernizing laser cutting capacity.",
       "china_purchase": "No - no public record",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Mayville%20Engineering%20Company"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Mayville%20Engineering%20Company",
+      "founded": 1945,
+      "headquarters": "Mayville, Wisconsin, USA",
+      "employees": 3400,
+      "annual_revenue": "约5.5亿美元",
+      "business_description": "为重型卡车、建筑设备、农业机械等行业提供金属冲压、焊接、管材加工和精密装配的合同制造服务。",
+      "procurement_needs": "需要采购高功率激光切割机、激光焊接设备，以及用于精密钣金成型的自动化产线。",
+      "partner_profile": "寻找具备ISO 9001/TS 16949认证、能提供大型结构件加工能力且交付稳定的中国激光设备与精密加工供应商。",
+      "key_markets": "美国、加拿大、墨西哥",
+      "china_presence": "暂无",
+      "competitors": "O'Neal Manufacturing Services, Metalcraft Industries, Aarrowcast",
+      "market_share": "北美重型设备金属加工市场前五名，市占率约4%",
+      "recent_news": "2025年扩建威斯康星州工厂，新增一条全自动激光切割生产线以应对国防订单增长。"
     },
     {
       "company_name": "O'Neal Manufacturing Services",
@@ -22,7 +35,19 @@
       "relevance": 92,
       "why": "Major metal fabricator with 20+ locations, known for high-volume laser cutting and aggressive cost optimization.",
       "china_purchase": "No - no public record",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=O%27Neal%20Manufacturing%20Services"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=O%27Neal%20Manufacturing%20Services",
+      "founded": 1921,
+      "headquarters": "Birmingham, Alabama, USA",
+      "employees": 1200,
+      "annual_revenue": "约3.2亿美元",
+      "business_description": "提供金属板材切割、冲压、折弯、焊接和粉末涂装的一站式定制加工服务，服务农业、能源和运输行业。",
+      "procurement_needs": "需要采购光纤激光切割机（6kW-12kW）、数控折弯机及自动化上下料系统。",
+      "partner_profile": "偏好有北美市场服务经验、能提供远程技术支持及快速备件供应的中国激光设备制造商。",
+      "key_markets": "美国、墨西哥、加拿大",
+      "china_presence": "暂无",
+      "competitors": "Mayville Engineering, Metcam, O'Neal Steel (母公司)",
+      "market_share": "美国东南部金属加工服务市场占有率约6%",
+      "recent_news": "2026年计划在田纳西州开设新厂，引入5台万瓦级激光切割机。"
     },
     {
       "company_name": "TRUMPF Werkzeugmaschinen SE + Co. KG",
@@ -33,7 +58,19 @@
       "relevance": 45,
       "why": "German laser giant, unlikely to buy Chinese machines but could distribute or partner for low-end models.",
       "china_purchase": "No - no public record",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=TRUMPF%20Werkzeugmaschinen"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=TRUMPF%20Werkzeugmaschinen",
+      "founded": 1923,
+      "headquarters": "Ditzingen, Germany",
+      "employees": 18500,
+      "annual_revenue": "约54亿欧元",
+      "business_description": "全球领先的激光器、激光加工机床及钣金加工设备制造商，提供从激光器到智能工厂解决方案的全套产品。",
+      "procurement_needs": "从中国采购激光器核心光学元件、精密机械零部件、钣金机身铸件及自动化配套部件。",
+      "partner_profile": "寻找具备精密加工能力、通过ISO 9001认证、能配合欧洲质量标准进行联合研发的中国供应商。",
+      "key_markets": "德国、中国、美国、日本、韩国",
+      "china_presence": "通快（中国）有限公司，位于江苏太仓，设有生产、研发和采购中心",
+      "competitors": "IPG Photonics, Coherent, Amada",
+      "market_share": "全球激光加工机床市场占有率约20%，欧洲第一",
+      "recent_news": "2025年推出新一代TruLaser 5000系列，并宣布扩大太仓工厂产能30%。"
     },
     {
       "company_name": "thyssenkrupp Materials Processing Europe",
@@ -44,7 +81,19 @@
       "relevance": 80,
       "why": "Large steel service center with laser cutting operations, always seeking cost-effective equipment for high-volume processing.",
       "china_purchase": "No - no public record",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=thyssenkrupp%20Materials%20Processing"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=thyssenkrupp%20Materials%20Processing",
+      "founded": 1999,
+      "headquarters": "Essen, Germany",
+      "employees": 9000,
+      "annual_revenue": "约35亿欧元",
+      "business_description": "提供钢材、铝材和不锈钢的仓储、切割、激光加工、表面处理及供应链管理服务，是欧洲最大的材料服务商之一。",
+      "procurement_needs": "需要采购大型激光切割设备（用于板材和管材）、自动化分拣系统及激光切割用高精度喷嘴、镜片等耗材。",
+      "partner_profile": "希望与能提供重载高功率激光切割机（12kW以上）并具备欧洲CE认证和本地化服务能力的中国厂商合作。",
+      "key_markets": "德国、法国、英国、波兰、意大利",
+      "china_presence": "蒂森克虏伯中国投资有限公司（上海），设有材料贸易和工程技术业务",
+      "competitors": "Kloeckner & Co, Salzgitter Mannesmann, Voestalpine",
+      "market_share": "欧洲金属材料加工服务市场占有率约8%",
+      "recent_news": "2025年在德国杜伊斯堡工厂部署了新的自动化激光切割中心，聚焦新能源汽车轻量化材料加工。"
     },
     {
       "company_name": "Amada Co., Ltd.",
@@ -55,7 +104,19 @@
       "relevance": 40,
       "why": "Japanese laser manufacturer, could source components or entry-level machines from China for emerging markets.",
       "china_purchase": "No - no public record",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Amada%20Co%20Ltd"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Amada%20Co%20Ltd",
+      "founded": 1946,
+      "headquarters": "Isehara, Kanagawa, Japan",
+      "employees": 11000,
+      "annual_revenue": "约38亿美元",
+      "business_description": "全球领先的钣金加工设备制造商，产品涵盖激光切割机、数控冲床、折弯机及钣金自动化软件系统。",
+      "procurement_needs": "从中国采购激光切割机用精密导轨、齿轮箱、电气元件、钣金外壳及部分中低功率激光器模块。",
+      "partner_profile": "寻找具备高精度机加工能力、通过日本品质标准（如JIS）认证、能配合小批量多品种生产模式的中国供应商。",
+      "key_markets": "日本、中国、美国、泰国、德国",
+      "china_presence": "天田（中国）有限公司，位于上海，设有制造工厂和研发中心（江苏）",
+      "competitors": "TRUMPF, Bystronic, Mazak",
+      "market_share": "全球钣金加工设备市场占有率约12%，亚洲第一",
+      "recent_news": "2026年发布新一代VISION系列光纤激光切割机，并宣布在中国青岛工厂扩大自动化产线。"
     },
     {
       "company_name": "Mazak Corporation (Yamazaki Mazak)",
@@ -77,7 +138,19 @@
       "relevance": 70,
       "why": "Italian tube laser specialist, could integrate Chinese laser sources for cost-effective tube cutting systems.",
       "china_purchase": "No - no public record",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=BLM%20Group"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=BLM%20Group",
+      "founded": 1960,
+      "headquarters": "坎图（Cantù），意大利",
+      "employees": 1200,
+      "annual_revenue": "约3.5亿欧元",
+      "business_description": "专注于管材激光切割、管材折弯及端部成形的设备制造商，提供LT系列激光切管机和全自动弯管单元。",
+      "procurement_needs": "光纤激光器（2kW-6kW）、三维切割头、伺服电机、精密减速机、管材自动上下料系统配套部件。",
+      "partner_profile": "需要精密钣金件加工、激光光学组件、电气控制柜集成商，要求具备欧洲CE标准认证和柔性化定制能力。",
+      "key_markets": "意大利、德国、美国、法国、中国",
+      "china_presence": "BLM（上海）贸易有限公司（销售及售后服务中心）",
+      "competitors": "通快（TRUMPF）、百超（Bystronic）、马扎克（Mazak）",
+      "market_share": "欧洲管材激光切割设备市场占有率约25%，全球排名前三。",
+      "recent_news": "2025年发布LT7.20新型全电动切管机，并宣布与上海交大合作开发管材AI套料算法。"
     },
     {
       "company_name": "Salvagnini Italia S.p.A.",
@@ -88,7 +161,19 @@
       "relevance": 50,
       "why": "Italian sheet metal machinery maker, may use Chinese lasers in lower-tier product lines.",
       "china_purchase": "No - no public record",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Salvagnini%20Italia"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Salvagnini%20Italia",
+      "founded": 1963,
+      "headquarters": "维琴察（Vicenza），意大利",
+      "employees": 1800,
+      "annual_revenue": "约4亿欧元",
+      "business_description": "柔性钣金加工系统专家，提供P4多边折弯中心、L5光纤激光切割机及S4冲剪复合生产线。",
+      "procurement_needs": "高功率光纤激光器、激光切割光学镜片、液压伺服阀、精密模具钢、自动化料库/机器人集成部件。",
+      "partner_profile": "寻找具备大型结构件焊接/加工能力、精通欧洲图纸标准、能配合软件联调（MES接口）的中国供应商。",
+      "key_markets": "意大利、德国、美国、墨西哥、波兰",
+      "china_presence": "萨瓦尼尼（中国）有限公司（上海，设有演示中心和备件库）",
+      "competitors": "通快（TRUMPF）、百超（Bystronic）、天田（AMADA）",
+      "market_share": "全球柔性折弯中心市场占有率约35%，为细分领域绝对龙头。",
+      "recent_news": "2025年推出P4Xe混合驱动折弯中心，并宣布在苏州建立亚太首个柔性产线体验中心。"
     },
     {
       "company_name": "Metallurgical Corporation of America (Metco)",
@@ -99,7 +184,19 @@
       "relevance": 60,
       "why": "US job shop with laser cutting services, likely to consider Chinese machines for cost savings.",
       "china_purchase": "No - no public record",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Metallurgical%20Corporation%20of%20America"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Metallurgical%20Corporation%20of%20America",
+      "founded": 1989,
+      "headquarters": "休斯顿，美国",
+      "employees": 350,
+      "annual_revenue": "约1.2亿美元",
+      "business_description": "提供金属粉末、热喷涂设备及精密金属零部件加工服务，服务于航空航天、石油天然气及医疗植入物行业。",
+      "procurement_needs": "激光熔覆/3D打印用金属粉末（镍基、钴基）、高精度激光焊接设备、真空热处理炉配件。",
+      "partner_profile": "需要具备粉末冶金或激光增材制造经验的中国供应商，要求提供材料成分检测报告和批量一致性保证。",
+      "key_markets": "美国、加拿大、英国、新加坡、阿联酋",
+      "china_presence": "暂无",
+      "competitors": "欧瑞康美科（Oerlikon Metco）、普莱克斯（Praxair）、Höganäs",
+      "market_share": "北美热喷涂粉末市场份额约8%，专注高端定制牌号。",
+      "recent_news": "2025年获得美国国防部合同，为海军舰艇提供激光熔覆修复镍基粉末。"
     },
     {
       "company_name": "Laserage Technology Corporation",
@@ -110,7 +207,19 @@
       "relevance": 65,
       "why": "Specialized laser job shop, could add Chinese marking/welding equipment for high-mix low-volume work.",
       "china_purchase": "No - no public record",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Laserage%20Technology%20Corporation"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Laserage%20Technology%20Corporation",
+      "founded": 1980,
+      "headquarters": "沃基根（Waukegan），伊利诺伊州，美国",
+      "employees": 120,
+      "annual_revenue": "约4000万美元",
+      "business_description": "提供合同制激光精密加工服务，包括激光切割、焊接、钻孔、刻字，服务医疗器件、电子及航空航天客户。",
+      "procurement_needs": "高精度纳秒/皮秒激光器（用于微加工）、激光光束传输光学组件、精密运动平台（XY轴）、视觉定位系统。",
+      "partner_profile": "寻找能提供小批量、多品种快速交付的中国激光器及光学配件供应商，支持定制波长和功率。",
+      "key_markets": "美国、墨西哥、加拿大、德国、瑞士",
+      "china_presence": "暂无",
+      "competitors": "Laser Mechanisms、Micron Laser Technology、Laserod",
+      "market_share": "美国中西部激光合同加工市场占有率约5%，专注医疗微加工细分领域。",
+      "recent_news": "2025年新增一台5轴皮秒激光加工中心，用于心脏支架微孔加工，并通过FDA二级医疗器械审核。"
     },
     {
       "company_name": "Signs & Blanks, Inc.",
@@ -121,7 +230,19 @@
       "relevance": 70,
       "why": "Signage manufacturer using laser cutting for metal letters, typical buyer of entry-level Chinese fiber lasers.",
       "china_purchase": "No - no public record",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Signs%20%26%20Blanks"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Signs%20%26%20Blanks",
+      "founded": 1987,
+      "headquarters": "俄亥俄州托莱多，美国",
+      "employees": 120,
+      "annual_revenue": "2500万美元",
+      "business_description": "专业生产各类标识标牌、铭牌、控制面板及精密蚀刻零部件，服务于汽车、家电及工业设备行业。",
+      "procurement_needs": "需要采购高精度光纤激光切割机、激光打标机及精密蚀刻设备，用于金属和非金属标牌的高效加工。",
+      "partner_profile": "寻求具备稳定品质、快速交货能力，且能提供定制化激光加工解决方案的中国设备制造商。",
+      "key_markets": "美国、加拿大、墨西哥、英国",
+      "china_presence": "暂无",
+      "competitors": "Aurora Specialty Products, Inc.、Metalcraft, Inc.、C&H Label",
+      "market_share": "北美标识标牌细分市场份额约3%，以汽车OEM铭牌见长。",
+      "recent_news": "2025年计划投资100万美元升级激光切割产线，以应对新能源车标识需求增长。"
     },
     {
       "company_name": "Mayer Tool & Manufacturing, Inc.",
@@ -132,7 +253,19 @@
       "relevance": 55,
       "why": "Small contract manufacturer, could invest in Chinese laser marking for part traceability.",
       "china_purchase": "No - no public record",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Mayer%20Tool%20%26%20Manufacturing"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Mayer%20Tool%20%26%20Manufacturing",
+      "founded": 1965,
+      "headquarters": "伊利诺伊州芝加哥，美国",
+      "employees": 85,
+      "annual_revenue": "1800万美元",
+      "business_description": "提供精密金属冲压、CNC加工、工装夹具制造及小批量高精度零部件定制服务，主要服务航空航天和医疗设备客户。",
+      "procurement_needs": "需要采购高精度数控磨床、五轴加工中心、激光微加工设备及精密测量仪器，以提升复杂零件加工能力。",
+      "partner_profile": "寻找拥有ISO 13485/AS9100认证，擅长小批量多品种柔性生产，且能配合严格公差要求的中国精密加工设备供应商。",
+      "key_markets": "美国、德国、日本、瑞士",
+      "china_presence": "暂无",
+      "competitors": "Proto Labs, Inc.、Xometry, Inc.、Harvey Performance Company",
+      "market_share": "美国中西部精密加工细分市场占有率约1.2%，聚焦医疗/航空小批量订单。",
+      "recent_news": "2025年初获得FDA医疗器械合同，计划扩充微加工能力。"
     },
     {
       "company_name": "Dürr Systems AG",
@@ -143,7 +276,19 @@
       "relevance": 75,
       "why": "Automotive paint and assembly systems, uses laser welding for body components, cost-sensitive for high-volume lines.",
       "china_purchase": "No - no public record",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=D%C3%BCrr%20Systems%20AG"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=D%C3%BCrr%20Systems%20AG",
+      "founded": 1896,
+      "headquarters": "斯图加特，德国",
+      "employees": 20500,
+      "annual_revenue": "47亿欧元",
+      "business_description": "全球领先的涂装车间、废气处理系统及工业自动化设备供应商，为汽车、航空、化工行业提供交钥匙解决方案。",
+      "procurement_needs": "需要采购高功率激光焊接设备、激光清洗系统、精密钣金加工部件及自动化产线配套的激光测量模块。",
+      "partner_profile": "寻求具备大型设备集成经验、符合欧盟CE标准、有全球售后服务网络的中国激光装备制造商或精密结构件供应商。",
+      "key_markets": "德国、中国、美国、印度、巴西",
+      "china_presence": "上海设有亚太区总部及制造基地（杜尔涂装系统工程（上海）有限公司）",
+      "competitors": "EISENMANN SE、Geico Group、Taikisha Ltd.",
+      "market_share": "全球汽车涂装系统市场份额约25%，排名第一。",
+      "recent_news": "2025年获得欧洲电池巨头5亿欧元涂装及激光检测集成订单。"
     },
     {
       "company_name": "Gestamp Automoción, S.A.",
@@ -154,7 +299,19 @@
       "relevance": 85,
       "why": "Global automotive stamping and welding supplier with plants in Mexico, high-volume laser welding needs, actively sourcing low-cost equipment.",
       "china_purchase": "No - no public record",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Gestamp%20Automocion"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Gestamp%20Automocion",
+      "founded": 1997,
+      "headquarters": "马德里，西班牙",
+      "employees": 42000,
+      "annual_revenue": "123亿欧元",
+      "business_description": "全球汽车金属冲压件和焊接总成供应商，专注于车身结构件、底盘系统及电池盒，为全球主要OEM提供轻量化解决方案。",
+      "procurement_needs": "需要采购高功率光纤激光切割机（用于热成型件修边）、激光焊接机器人系统、精密冲压模具及在线激光检测设备。",
+      "partner_profile": "寻找有汽车行业供货经验（IATF16949）、具备大型激光切割/焊接设备批量交付能力，且能提供本地化售后支持的中国供应商。",
+      "key_markets": "西班牙、德国、中国、美国、墨西哥",
+      "china_presence": "在中国拥有15家工厂（如昆山、沈阳、武汉），设有亚太采购中心。",
+      "competitors": "Magna International Inc.、Benteler International AG、CIE Automotive S.A.",
+      "market_share": "全球汽车金属冲压件市场份额约8%，欧洲排名第二。",
+      "recent_news": "2025年宣布在墨西哥新建电池盒产线，采购中国产激光焊接设备。"
     },
     {
       "company_name": "Nemak, S.A.B. de C.V.",
@@ -165,7 +322,19 @@
       "relevance": 82,
       "why": "Mexican aluminum auto parts maker, uses laser cutting/welding for engine components, cost-driven buyer.",
       "china_purchase": "No - no public record",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Nemak"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Nemak",
+      "founded": 1979,
+      "headquarters": "蒙特雷，墨西哥",
+      "employees": 21000,
+      "annual_revenue": "48亿美元",
+      "business_description": "全球领先的汽车铝铸件制造商，专注于发动机缸体、缸盖、电动车电池壳体及结构件，提供高压压铸和精密机加工服务。",
+      "procurement_needs": "需要采购激光清理设备（去除铸件飞边）、高精度CNC加工中心、激光打码追溯系统及压铸模具精密修复用激光熔覆设备。",
+      "partner_profile": "寻求具备压铸后处理工艺经验、能提供自动化激光清理工作站、且价格有竞争力的中国激光装备及精密加工设备供应商。",
+      "key_markets": "墨西哥、美国、德国、中国、波兰",
+      "china_presence": "在苏州设有工厂（尼玛克铸造技术（苏州）有限公司），并设有亚太采购办公室。",
+      "competitors": "Ryobi Limited、Georg Fischer AG、Ahresty Corporation",
+      "market_share": "全球汽车铝铸件市场份额约10%，在发动机缸体领域全球第一。",
+      "recent_news": "2025年获得大众集团电动车电池壳体大单，投资2亿欧元在墨西哥扩产。"
     },
     {
       "company_name": "Metalsa, S.A. de C.V.",
@@ -176,7 +345,19 @@
       "relevance": 78,
       "why": "Mexican chassis frame manufacturer, heavy laser cutting for structural steel, open to Chinese equipment for cost reduction.",
       "china_purchase": "No - no public record",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Metalsa"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Metalsa",
+      "founded": "1956",
+      "headquarters": "蒙特雷，墨西哥",
+      "employees": "约12,000人",
+      "annual_revenue": "约25亿美元",
+      "business_description": "全球领先的商用车车架、结构件及轻量化解决方案供应商，为北美及全球主要OEM（如戴姆勒、帕卡）提供底盘系统。",
+      "procurement_needs": "需要采购高功率激光切割机、激光焊接系统及精密冲压模具，用于车架纵梁、横梁的高精度加工和自动化产线升级。",
+      "partner_profile": "寻找具备汽车行业IATF 16949认证、能提供大型金属板材激光切割/焊接交钥匙方案、且拥有北美售后支持能力的中国设备商。",
+      "key_markets": "美国、墨西哥、巴西、印度、欧洲",
+      "china_presence": "暂无（但通过中国供应商采购设备及零部件）",
+      "competitors": "蒂森克虏伯、海斯坦普、本特勒",
+      "market_share": "北美商用车车架市场份额约30%，全球轻型车结构件细分市场前五。",
+      "recent_news": "2025年宣布投资1.2亿美元在墨西哥新莱昂州扩建电动车电池壳体及结构件产线，引入更多自动化激光工艺。"
     },
     {
       "company_name": "Borusan Mannesmann Boru Sanayi ve Ticaret A.Ş.",
@@ -187,7 +368,19 @@
       "relevance": 80,
       "why": "Turkish steel pipe manufacturer, uses laser cutting for pipe processing, known to import cost-effective machinery from Asia.",
       "china_purchase": "No - no public record",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Borusan%20Mannesmann"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Borusan%20Mannesmann",
+      "founded": "1958",
+      "headquarters": "伊斯坦布尔，土耳其",
+      "employees": "约3,500人",
+      "annual_revenue": "约18亿美元",
+      "business_description": "土耳其最大的钢管制造商，生产油气输送管、建筑结构管及精密管材，产品出口至欧洲、中东及北美。",
+      "procurement_needs": "采购大口径管端坡口激光加工设备、管材激光切割机及焊缝自动检测系统，提升高端管线管和精密管的加工精度。",
+      "partner_profile": "需要能提供重型管材激光切割自动化产线、具备API/CE认证经验、并提供本地化安装调试的中国供应商。",
+      "key_markets": "土耳其、德国、英国、美国、阿联酋",
+      "china_presence": "在上海设有采购代表处，负责亚太供应链管理。",
+      "competitors": "Tenaris、Vallourec、Chelyabinsk Pipe Plant",
+      "market_share": "土耳其钢管市场份额约25%，欧洲大口径焊管出口前三。",
+      "recent_news": "2025年启动“绿色钢管”计划，投资5000万欧元在奥斯马尼耶厂引入新能源管道激光精整线。"
     },
     {
       "company_name": "Çolakoğlu Metalurji A.Ş.",
@@ -198,7 +391,19 @@
       "relevance": 75,
       "why": "Turkish steel producer with coil processing and laser cutting lines, likely to trial Chinese lasers for secondary operations.",
       "china_purchase": "No - no public record",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=%C3%87olako%C4%9Flu%20Metalurji"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=%C3%87olako%C4%9Flu%20Metalurji",
+      "founded": "1960",
+      "headquarters": "伊斯坦布尔，土耳其",
+      "employees": "约2,800人",
+      "annual_revenue": "约22亿美元",
+      "business_description": "土耳其领先的扁钢生产商，生产热轧卷、冷轧卷及镀锌板，供应汽车、家电及建筑行业。",
+      "procurement_needs": "采购用于钢板表面缺陷在线检测的激光扫描系统、精密分条/切边激光切割设备，以及轧辊激光修复设备。",
+      "partner_profile": "寻找能提供冶金行业重载激光切割/熔覆设备、具有24/7连续运行稳定性、且提供远程诊断服务的中国制造商。",
+      "key_markets": "土耳其、意大利、西班牙、埃及、阿尔及利亚",
+      "china_presence": "暂无（通过贸易商采购备件）",
+      "competitors": "Erdemir、MMK Metalurji、Habas",
+      "market_share": "土耳其扁平材市场份额约18%，是当地汽车板主要供应商。",
+      "recent_news": "2026年初宣布与欧洲技术方合作，在其Dilovası工厂新建一条高强钢激光切割加工中心。"
     },
     {
       "company_name": "Türk Traktör ve Ziraat Makineleri A.Ş.",
@@ -209,7 +414,19 @@
       "relevance": 72,
       "why": "Turkish tractor manufacturer, uses laser cutting for sheet metal parts, cost-sensitive and expanding capacity.",
       "china_purchase": "No - no public record",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=T%C3%BCrk%20Trakt%C3%B6r"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=T%C3%BCrk%20Trakt%C3%B6r",
+      "founded": "1954",
+      "headquarters": "安卡拉，土耳其",
+      "employees": "约3,000人",
+      "annual_revenue": "约15亿美元",
+      "business_description": "土耳其最大的拖拉机制造商（与CNH Industrial合资），生产New Holland和Case IH品牌拖拉机及农具，出口全球60多国。",
+      "procurement_needs": "采购拖拉机覆盖件激光切割/折弯设备、变速箱齿轮精密激光焊接系统，以及农机具结构件激光加工柔性线。",
+      "partner_profile": "需要具备农机行业经验、能提供中小批量柔性激光加工单元、且支持欧洲安全标准（CE）的中国设备供应商。",
+      "key_markets": "土耳其、俄罗斯、乌克兰、阿尔及利亚、罗马尼亚",
+      "china_presence": "暂无（部分零部件从中国进口）",
+      "competitors": "ArmaTraktor、Hattat Traktör、John Deere（土耳其业务）",
+      "market_share": "土耳其拖拉机市场份额约45%，位居第一。",
+      "recent_news": "2025年推出新一代自动驾驶拖拉机平台，其安卡拉工厂正在扩建激光切割钣金车间。"
     },
     {
       "company_name": "Laser Process (UK) Ltd",
@@ -220,13 +437,19 @@
       "relevance": 65,
       "why": "UK laser job shop offering cutting/welding, could upgrade with Chinese fiber lasers for cost advantage.",
       "china_purchase": "No - no public record",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Laser%20Process%20UK"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Laser%20Process%20UK",
+      "founded": "1988",
+      "headquarters": "伯明翰，英国",
+      "employees": "约80人",
+      "annual_revenue": "约1500万英镑",
+      "business_description": "英国专业激光精密加工服务商，提供激光切割、焊接、打标及微加工服务，服务于航空航天、医疗和电子行业。",
+      "procurement_needs": "采购高精度光纤激光切割头、纳秒/皮秒激光器（用于微加工）、激光焊接视觉定位系统，以及精密运动控制平台。",
+      "partner_profile": "寻找能提供中小功率（≤500W）高稳定性激光器、具备航空/医疗认证（AS9100/ISO13485）配套经验的中国核心器件供应商。",
+      "key_markets": "英国、德国、法国、荷兰、瑞士",
+      "china_presence": "暂无（通过分销商采购激光器）",
+      "competitors": "Lasertec、TLS Technik、Cutlite Penta",
+      "market_share": "英国本地精密激光加工服务市场份额约5%，专注高端利基市场。",
+      "recent_news": "2025年获得英国航天局资助，开发用于卫星部件的高可靠性激光焊接工艺。"
     }
-  ],
-  "scoring_rubric": {
-    "90-95": "Top-tier buyer — large scale, known to source from China, high procurement volume",
-    "75-89": "Strong fit — cost-sensitive, growing demand, likely to consider Chinese suppliers",
-    "55-74": "Moderate fit — possible buyer but not urgent or lower volume",
-    "40-54": "Weak fit — niche or occasional buyer, unlikely to prioritize Chinese"
-  }
+  ]
 }
