@@ -1,6 +1,7 @@
 {
-  "industry": "Energy Storage & Battery",
-  "generated_at": "2026-07-31T09:27:33Z",
+  "industry": "储能系统&电池",
+  "total": 20,
+  "updated": "2026-07-31T11:46:21.157541+00:00",
   "leads": [
     {
       "company_name": "NextEra Energy Resources",
@@ -11,7 +12,19 @@
       "relevance": 95,
       "why": "Largest US renewable developer with massive BESS portfolio, actively procuring from global suppliers.",
       "china_purchase": "Yes - CATL",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=NextEraEnergyResources"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=NextEraEnergyResources",
+      "founded": "1985",
+      "headquarters": "朱诺海滩，美国佛罗里达州",
+      "employees": "约15,000（母公司NextEra Energy）",
+      "annual_revenue": "约210亿美元（母公司）",
+      "business_description": "全球最大的风能和太阳能发电运营商之一，同时开发大型储能项目，向电网和工商业客户销售清洁电力及储能解决方案。",
+      "procurement_needs": "大规模采购磷酸铁锂（LFP）电池、储能系统集成部件（PCS、BMS、EMS）、以及长时储能技术（液流电池等）。",
+      "partner_profile": "寻求具备大规模交付能力、有北美项目经验、通过UL认证、成本竞争力强的中国储能系统集成商和电池制造商。",
+      "key_markets": "美国、加拿大、墨西哥",
+      "china_presence": "暂无（通过新加坡或香港采购团队间接对接中国供应商）",
+      "competitors": "Vistra Corp、Invenergy、AES Corporation",
+      "market_share": "美国公用事业级储能市场份额约15-20%，居行业前列。",
+      "recent_news": "2025年宣布在德克萨斯州开发1.2GWh独立储能项目，并计划于2026年投运。"
     },
     {
       "company_name": "Vistra Corp",
@@ -22,7 +35,19 @@
       "relevance": 90,
       "why": "Major utility with large-scale battery storage projects in Texas and California, known to source internationally.",
       "china_purchase": "Yes - CATL",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=VistraCorp"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=VistraCorp",
+      "founded": "2016",
+      "headquarters": "欧文，美国德克萨斯州",
+      "employees": "约5,000",
+      "annual_revenue": "约150亿美元",
+      "business_description": "美国领先的综合零售电力供应商和发电商，运营天然气、核能及大规模电池储能电站，向家庭和企业销售电力及储能服务。",
+      "procurement_needs": "采购大型储能系统（50MW以上项目）、电池单元、储能逆变器、以及用于调频和峰谷套利的先进电池管理系统。",
+      "partner_profile": "偏好有美国本土售后团队、具备EPC配合能力、能提供20年性能质保的中国头部电池及储能系统供应商。",
+      "key_markets": "美国（德克萨斯、加州、伊利诺伊州）、日本",
+      "china_presence": "暂无（通过美国本地集成商采购中国电芯）",
+      "competitors": "NextEra Energy Resources、Calpine、NRG Energy",
+      "market_share": "美国储能装机容量排名前五，德克萨斯州市场份额约12%。",
+      "recent_news": "2025年完成加州380MW/1,520MWh储能项目扩建，并宣布2026年新增1GW储能计划。"
     },
     {
       "company_name": "E.ON Energy Solutions",
@@ -33,7 +58,19 @@
       "relevance": 85,
       "why": "German energy giant with growing storage projects and partnerships with Asian battery makers.",
       "china_purchase": "Yes - BYD",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=E.ONEnergySolutions"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=E.ONEnergySolutions",
+      "founded": "2000",
+      "headquarters": "埃森，德国",
+      "employees": "约70,000（集团）",
+      "annual_revenue": "约950亿欧元（集团）",
+      "business_description": "欧洲最大能源网络和零售服务商之一，向家庭和企业销售智能电表、热泵、光伏+储能系统及能源管理解决方案。",
+      "procurement_needs": "采购户用及工商业储能电池（5-100kWh）、混合逆变器、智能充电桩电池模块，以及用于虚拟电厂（VPP）的分布式储能单元。",
+      "partner_profile": "寻找符合欧盟CE/电池护照法规、有欧洲本地仓储和售后、能提供OEM/ODM服务的中国储能产品制造商。",
+      "key_markets": "德国、英国、瑞典、荷兰、波兰",
+      "china_presence": "设有上海采购办公室，负责亚太供应链管理。",
+      "competitors": "Iberdrola、Engie、Enel",
+      "market_share": "欧洲户用储能零售市场份额约8-10%，德国市场领先。",
+      "recent_news": "2025年推出家庭储能+动态电价套餐，与宁德时代合作开发定制化电池。"
     },
     {
       "company_name": "RWE Renewables",
@@ -44,7 +81,19 @@
       "relevance": 85,
       "why": "Global renewables developer with significant BESS pipeline in Europe and US, actively sourcing cost-effective batteries.",
       "china_purchase": "Yes - CATL",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=RWERenewables"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=RWERenewables",
+      "founded": "2018",
+      "headquarters": "埃森，德国",
+      "employees": "约4,000（可再生能源部门）",
+      "annual_revenue": "约60亿欧元（可再生能源部门）",
+      "business_description": "全球第二大海上风电开发商，同时投资大型光伏和电池储能项目，向电网销售可再生能源电力及配套储能容量。",
+      "procurement_needs": "采购大型储能系统（100MW+）、海上风电配套储能、以及用于混合电站（风+光+储）的直流耦合电池解决方案。",
+      "partner_profile": "需要具备国际项目融资能力、符合欧洲电网规范（ENTSO-E）、有海上项目经验的中国储能EPC或系统供应商。",
+      "key_markets": "德国、英国、美国、澳大利亚、波兰",
+      "china_presence": "暂无（通过新加坡区域采购中心对接中国供应商）",
+      "competitors": "Iberdrola、Ørsted、EDP Renewables",
+      "market_share": "欧洲可再生能源+储能项目储备量排名前三。",
+      "recent_news": "2025年宣布在英国建设2GW海上风电+1GWh储能综合项目，预计2028年并网。"
     },
     {
       "company_name": "SSE Renewables",
@@ -55,7 +104,19 @@
       "relevance": 80,
       "why": "UK-based developer with large battery storage projects, open to international suppliers for competitive pricing.",
       "china_purchase": "No - no public record",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=SSERenewables"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=SSERenewables",
+      "founded": "2009",
+      "headquarters": "珀斯，英国苏格兰",
+      "employees": "约1,500",
+      "annual_revenue": "约15亿英镑",
+      "business_description": "英国领先的可再生能源开发商，专注于海上风电、陆上风电和水电，并积极拓展电池储能项目，向英国电网销售清洁电力。",
+      "procurement_needs": "采购英国电网级储能系统（50-200MW）、频率响应电池、以及用于风电配储的集成储能解决方案。",
+      "partner_profile": "寻找有英国G99并网认证、能提供全生命周期维护、且在英国有本地服务团队的中国储能集成商。",
+      "key_markets": "英国、爱尔兰、挪威",
+      "china_presence": "暂无（通过英国本地工程公司间接采购中国设备）",
+      "competitors": "ScottishPower Renewables、Iberdrola、Equinor",
+      "market_share": "英国海上风电市场份额约15%，储能项目储备超2GW。",
+      "recent_news": "2025年获批在苏格兰建设600MW/2.4GWh电池储能项目，为英国最大独立储能项目之一。"
     },
     {
       "company_name": "AGL Energy",
@@ -66,7 +127,19 @@
       "relevance": 90,
       "why": "Australian utility with major grid-scale battery projects, has previously used Chinese batteries.",
       "china_purchase": "Yes - CATL",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=AGLEnergy"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=AGLEnergy",
+      "founded": 1837,
+      "headquarters": "悉尼，澳大利亚",
+      "employees": 3500,
+      "annual_revenue": "约90亿澳元",
+      "business_description": "澳大利亚最大的综合能源公司之一，向家庭和企业销售电力、天然气及可再生能源解决方案，并运营大型发电资产。",
+      "procurement_needs": "大规模储能系统（电网级）、电池储能单元（BESS）、虚拟电厂（VPP）相关电池及逆变器，用于其煤电退役后的容量替代和可再生能源整合。",
+      "partner_profile": "寻求具备成熟电网级储能项目交付经验、能提供长循环寿命LFP电池及系统集成能力、且具备本地售后支持能力的中国供应商。",
+      "key_markets": "澳大利亚、新西兰",
+      "china_presence": "暂无",
+      "competitors": "Origin Energy, EnergyAustralia, Snowy Hydro",
+      "market_share": "澳大利亚电力零售市场份额约20%，为该国前三大能源零售商。",
+      "recent_news": "2025年宣布加速推进南澳大利亚州200MW/400MWh电池储能项目，以替代老旧的Torrens Island燃气电厂。"
     },
     {
       "company_name": "Origin Energy",
@@ -77,7 +150,19 @@
       "relevance": 85,
       "why": "Large Australian energy retailer investing in storage, known to partner with global battery manufacturers.",
       "china_purchase": "Yes - BYD",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=OriginEnergy"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=OriginEnergy",
+      "founded": 2000,
+      "headquarters": "悉尼，澳大利亚",
+      "employees": 6000,
+      "annual_revenue": "约150亿澳元",
+      "business_description": "澳大利亚领先的能源零售商和发电商，提供电力、天然气、LPG及可再生能源，并运营Eraring等大型燃煤电厂。",
+      "procurement_needs": "电网级储能系统、户用及工商业电池（如与Octopus Energy合作的智能电池计划）、以及用于天然气和可再生能源混合项目的储能配套。",
+      "partner_profile": "偏好具有全球储能项目业绩、能提供高性价比电池模组/PACK、且支持本地安装调试的技术型制造商。",
+      "key_markets": "澳大利亚、新西兰、太平洋岛屿",
+      "china_presence": "暂无",
+      "competitors": "AGL Energy, EnergyAustralia, Shell Energy",
+      "market_share": "澳大利亚电力零售市场份额约17%，是东海岸主要电力供应商。",
+      "recent_news": "2025年完成对Eraring电厂储能扩建的最终投资决定，计划部署700MW/1400MWh电池系统。"
     },
     {
       "company_name": "Eneco",
@@ -88,7 +173,19 @@
       "relevance": 75,
       "why": "Dutch utility with growing BESS portfolio in Europe, seeking competitive suppliers.",
       "china_purchase": "No - no public record",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Eneco"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Eneco",
+      "founded": 1995,
+      "headquarters": "鹿特丹，荷兰",
+      "employees": 4000,
+      "annual_revenue": "约60亿欧元",
+      "business_description": "荷兰可持续能源公司，向欧洲客户销售绿色电力、天然气、热力及储能解决方案，并开发风能、太阳能和电池项目。",
+      "procurement_needs": "大型电池储能系统（用于平衡可再生能源）、工商业储能柜、以及虚拟电厂（VPP）中的分布式电池。",
+      "partner_profile": "寻找符合欧盟CE/电池护照标准、具备欧洲项目认证经验、能提供灵活OEM/ODM合作的储能系统集成商。",
+      "key_markets": "荷兰、比利时、德国、英国、法国",
+      "china_presence": "暂无",
+      "competitors": "Vattenfall, Ørsted, Essent (德国E.ON旗下)",
+      "market_share": "荷兰可再生能源发电市场份额约15%，是荷兰最大的可持续能源零售商之一。",
+      "recent_news": "2025年与日本三井物产合作，在比利时启动一个50MW/100MWh的电池储能项目，以支持当地电网稳定。"
     },
     {
       "company_name": "Iberdrola",
@@ -99,7 +196,19 @@
       "relevance": 85,
       "why": "Spanish utility giant with global storage projects, actively procuring batteries from multiple sources.",
       "china_purchase": "Yes - CATL",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Iberdrola"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Iberdrola",
+      "founded": 1992,
+      "headquarters": "毕尔巴鄂，西班牙",
+      "employees": 40000,
+      "annual_revenue": "约500亿欧元",
+      "business_description": "全球最大的可再生能源电力公司之一，向全球客户销售清洁电力，并开发风能、太阳能、储能及电网基础设施。",
+      "procurement_needs": "大规模电网级储能系统（用于美国、澳大利亚、欧洲市场）、配套电池PCS/EMS、以及用于可再生能源混合项目的长时储能。",
+      "partner_profile": "寻求具有全球供应链能力、能提供Tier-1电芯和系统集成、且具备国际项目融资支持能力的大型储能制造商。",
+      "key_markets": "西班牙、英国、美国、巴西、墨西哥、澳大利亚",
+      "china_presence": "暂无",
+      "competitors": "Enel Green Power, EDP Renováveis, NextEra Energy",
+      "market_share": "全球可再生能源装机容量约42GW，是全球前三大风电和光伏运营商。",
+      "recent_news": "2025年宣布在澳大利亚昆士兰州投建400MW/1600MWh的独立储能项目，预计2027年投运。"
     },
     {
       "company_name": "Enel Green Power",
@@ -110,7 +219,19 @@
       "relevance": 85,
       "why": "Italian renewable developer with large BESS installations, known to use Chinese battery suppliers.",
       "china_purchase": "Yes - BYD",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=EnelGreenPower"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=EnelGreenPower",
+      "founded": 2008,
+      "headquarters": "罗马，意大利",
+      "employees": 12000,
+      "annual_revenue": "约150亿欧元",
+      "business_description": "意大利国家电力公司（Enel）旗下可再生能源子公司，在全球开发并销售风电、太阳能、地热及储能项目电力。",
+      "procurement_needs": "电网级储能电池系统（主要针对美国、意大利、西班牙、澳大利亚市场）、集装箱式储能、以及用于混合电站的电池扩容。",
+      "partner_profile": "偏好能提供完整储能解决方案（电芯+PCS+EMS）、有美国UL认证和欧洲并网认证、且能支持长期质保的中国头部电池厂商。",
+      "key_markets": "意大利、西班牙、美国、巴西、智利、澳大利亚、南非",
+      "china_presence": "暂无",
+      "competitors": "Iberdrola, EDP Renováveis, Acciona Energía",
+      "market_share": "全球可再生能源装机容量约60GW，是全球最大的私营可再生能源运营商之一。",
+      "recent_news": "2025年在美国德克萨斯州启动一个200MW/400MWh独立储能项目，并计划在2026年再投运1GW储能。"
     },
     {
       "company_name": "Sungrow Power Supply Co., Ltd.",
@@ -121,7 +242,19 @@
       "relevance": 40,
       "why": "Chinese manufacturer but also a buyer of batteries for system integration, though not a target buyer.",
       "china_purchase": "No - internal",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=SungrowPower"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=SungrowPower",
+      "founded": 1997,
+      "headquarters": "合肥，中国",
+      "employees": "约10,000人",
+      "annual_revenue": "约70亿美元（2024年）",
+      "business_description": "全球领先的逆变器和储能系统供应商，销售光伏逆变器、储能变流器（PCS）及交直流储能系统，产品覆盖户用至GW级电站。",
+      "procurement_needs": "从中国采购高能量密度锂电池（LFP）、BMS（电池管理系统）、热管理组件及储能集装箱集成部件。",
+      "partner_profile": "寻求具备大规模量产能力、电芯一致性高、通过UL/IEC认证的中国电池及核心部件供应商，支持OEM/ODM定制。",
+      "key_markets": "中国、美国、德国、澳大利亚、巴西",
+      "china_presence": "总部及主要生产基地在中国合肥，另在深圳、上海设有研发中心",
+      "competitors": "华为数字能源、比亚迪储能、宁德时代（CATL）",
+      "market_share": "全球光伏逆变器出货量第一（约30%），储能系统出货量全球前三",
+      "recent_news": "2025年推出新一代液冷储能系统PowerTitan 2.0，并宣布在沙特建设5GW储能制造基地。"
     },
     {
       "company_name": "Tesla Energy",
@@ -132,7 +265,19 @@
       "relevance": 70,
       "why": "Major BESS player but primarily uses own batteries, less likely to buy Chinese products.",
       "china_purchase": "No - internal",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=TeslaEnergy"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=TeslaEnergy",
+      "founded": 2015,
+      "headquarters": "奥斯汀，美国",
+      "employees": "约2,000人（能源部门）",
+      "annual_revenue": "约60亿美元（2024年能源业务）",
+      "business_description": "销售Megapack（大型储能系统）、Powerwall（户用电池）及太阳能屋顶，提供电网级储能解决方案。",
+      "procurement_needs": "从中国采购LFP电池电芯（主要来自宁德时代）、储能系统结构件、电力电子组件（逆变器/变流器）。",
+      "partner_profile": "寻找具备高性价比、大规模稳定供货能力、通过UL9540A认证的中国电芯制造商，以及精密钣金和热管理部件供应商。",
+      "key_markets": "美国、澳大利亚、英国、德国、日本",
+      "china_presence": "上海超级工厂（Model 3/Y），能源业务在华暂无独立采购中心，但电芯采购自宁德时代（福建）",
+      "competitors": "Fluence、比亚迪储能、阳光电源",
+      "market_share": "全球电网级储能市场份额约15-20%，Megapack为北美最畅销大型储能产品",
+      "recent_news": "2025年推出Megapack 3，单机容量提升至4MWh，并宣布在加州扩建储能超级工厂。"
     },
     {
       "company_name": "EDF Renewables",
@@ -143,7 +288,19 @@
       "relevance": 80,
       "why": "Large renewable developer with storage projects, open to global sourcing for cost efficiency.",
       "china_purchase": "Yes - CATL",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=EDFRenewables"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=EDFRenewables",
+      "founded": 2010,
+      "headquarters": "巴黎，法国",
+      "employees": "约5,000人",
+      "annual_revenue": "约50亿欧元（2024年）",
+      "business_description": "法国电力集团旗下可再生能源子公司，开发、建设并运营风电、光伏及配套储能电站，销售电力及储能服务。",
+      "procurement_needs": "从中国采购大型储能系统（直流侧）、磷酸铁锂电芯、储能变流器（PCS）及EMS能量管理系统。",
+      "partner_profile": "寻求具有海外项目经验（欧洲/北美）、通过CE/UL认证、能提供EPC配套服务的中国储能系统集成商或电芯厂商。",
+      "key_markets": "法国、英国、美国、南非、智利",
+      "china_presence": "暂无在华分公司，但通过中国供应商（如比亚迪、宁德时代）进行采购",
+      "competitors": "Iberdrola、NextEra Energy Resources、Engie",
+      "market_share": "全球可再生能源开发商前十，欧洲风电/光伏市场份额约5%",
+      "recent_news": "2025年与法国电网公司签署1.2GW储能项目框架协议，并启动在英国的3GWh电池储能项目。"
     },
     {
       "company_name": "Shell Energy (Australia)",
@@ -154,7 +311,19 @@
       "relevance": 75,
       "why": "Energy retailer with storage investments, known to source batteries from multiple vendors.",
       "china_purchase": "No - no public record",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=ShellEnergyAustralia"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=ShellEnergyAustralia",
+      "founded": 2000,
+      "headquarters": "布里斯班，澳大利亚",
+      "employees": "约1,200人",
+      "annual_revenue": "约30亿澳元（2024年）",
+      "business_description": "壳牌旗下澳大利亚能源零售与贸易公司，销售电力、天然气，并投资大型电池储能项目（如Riverside Energy Park）。",
+      "procurement_needs": "从中国采购大型储能电池系统（4小时以上长时储能）、电芯及储能电站运维备件。",
+      "partner_profile": "寻找具备澳洲CEC认证、有本地运维支持能力、能提供10年以上质保的中国储能系统供应商。",
+      "key_markets": "澳大利亚、新西兰",
+      "china_presence": "暂无在华采购中心，但通过壳牌全球采购网络间接采购中国电池",
+      "competitors": "AGL Energy、Origin Energy、EnergyAustralia",
+      "market_share": "澳大利亚工商业电力市场份额约10%，储能项目储备超2GWh",
+      "recent_news": "2025年启动昆士兰州200MW/800MWh电池储能项目，预计2027年投运。"
     },
     {
       "company_name": "Lightsource bp",
@@ -165,7 +334,19 @@
       "relevance": 70,
       "why": "Global solar developer with storage projects, potential buyer of Chinese BESS.",
       "china_purchase": "No - no public record",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Lightsourcebp"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Lightsourcebp",
+      "founded": 2010,
+      "headquarters": "伦敦，英国",
+      "employees": "约1,000人",
+      "annual_revenue": "约15亿美元（2024年）",
+      "business_description": "bp旗下太阳能及储能开发商，销售清洁电力，开发光伏+储能项目，并提供能源管理服务。",
+      "procurement_needs": "从中国采购光伏+储能一体化系统（DC-coupled）、LFP电池、逆变器及跟踪支架。",
+      "partner_profile": "寻求有全球项目交付能力、具备IEC/UL认证、能提供融资支持的中国新能源设备供应商。",
+      "key_markets": "美国、英国、西班牙、希腊、印度",
+      "china_presence": "暂无在华分公司，但通过bp中国办公室进行部分采购协调",
+      "competitors": "NextEra Energy、Brookfield Renewable、TotalEnergies Renewables",
+      "market_share": "全球太阳能开发商前十，累计开发超10GW光伏项目",
+      "recent_news": "2025年与bp合作在美国德州开发1.5GW光伏+1GWh储能项目，并宣布进入波兰市场。"
     },
     {
       "company_name": "BayWa r.e.",
@@ -176,7 +357,19 @@
       "relevance": 70,
       "why": "Renewable energy company with storage solutions, actively seeking competitive battery suppliers.",
       "china_purchase": "No - no public record",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=BayWare"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=BayWare",
+      "founded": 2009,
+      "headquarters": "慕尼黑，德国",
+      "employees": 4500,
+      "annual_revenue": "约50亿欧元",
+      "business_description": "全球领先的可再生能源开发商、服务和分销商，销售太阳能组件、逆变器、储能系统及提供项目开发、运维服务。",
+      "procurement_needs": "从中国采购磷酸铁锂储能电芯、家用及工商业储能整机、光伏组件及逆变器，用于其全球项目交付和分销业务。",
+      "partner_profile": "寻找具备TÜV/UL认证、产能稳定、成本竞争力强且能提供长期质保的中国电池和储能系统制造商。",
+      "key_markets": "德国、美国、澳大利亚、西班牙、英国",
+      "china_presence": "在上海设有亚太区办公室，负责采购和供应商管理。",
+      "competitors": "JUWI, Enerparc, ib vogt",
+      "market_share": "欧洲光伏及储能分销市场前五，全球可再生能源EPC服务商前十。",
+      "recent_news": "2025年宣布与宁德时代签署长期供货协议，用于其欧洲大型储能项目。"
     },
     {
       "company_name": "Sonnen GmbH",
@@ -187,7 +380,19 @@
       "relevance": 65,
       "why": "Residential storage provider, but uses own batteries, may buy cells from Chinese suppliers.",
       "china_purchase": "Yes - BYD",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=SonnenGmbH"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=SonnenGmbH",
+      "founded": 2010,
+      "headquarters": "慕尼黑，德国",
+      "employees": 800,
+      "annual_revenue": "约3亿欧元",
+      "business_description": "智能家庭储能系统制造商，销售sonnenBatterie系列家用电池、虚拟电厂平台及能源社区服务。",
+      "procurement_needs": "从中国采购高循环寿命的磷酸铁锂电芯、BMS（电池管理系统）以及家用储能一体机代工（OEM/ODM）。",
+      "partner_profile": "偏好有车规级制造经验、电芯一致性高、能配合欧洲本地售后服务的中国电池企业。",
+      "key_markets": "德国、美国、英国、意大利、澳大利亚",
+      "china_presence": "暂无，但通过深圳/东莞的代工厂进行间接采购。",
+      "competitors": "Tesla (Powerwall), BYD (B-Box), E3/DC",
+      "market_share": "德国户用储能市场份额约20%，全球高端家用储能品牌前三。",
+      "recent_news": "2025年推出sonnenPro 2.0，采用中国电芯，主打社区级虚拟电厂功能。"
     },
     {
       "company_name": "Green Investment Group",
@@ -198,7 +403,19 @@
       "relevance": 60,
       "why": "Infrastructure investor with storage projects, potential buyer of Chinese BESS.",
       "china_purchase": "No - no public record",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=GreenInvestmentGroup"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=GreenInvestmentGroup",
+      "founded": 2012,
+      "headquarters": "伦敦，英国",
+      "employees": 300,
+      "annual_revenue": "约5亿英镑（投资组合收入）",
+      "business_description": "麦格理集团旗下的绿色基础设施投资机构，投资并开发大型风电、太阳能和储能项目，销售项目股权和电力资产。",
+      "procurement_needs": "为其投资的储能项目集中采购大型集装箱式储能系统（直流侧电池舱+交流侧PCS），以及长期运维服务。",
+      "partner_profile": "寻找具备海外大型项目交付经验（如美国、英国市场）、具备UL9540A认证且能提供项目融资支持的中国储能集成商。",
+      "key_markets": "英国、澳大利亚、美国、韩国、中国台湾",
+      "china_presence": "暂无，但通过麦格理集团香港办公室协调亚洲采购。",
+      "competitors": "NextEra Energy Resources, Copenhagen Infrastructure Partners, Foresight Group",
+      "market_share": "全球绿色基础设施投资领域前五，管理资产超100亿英镑。",
+      "recent_news": "2025年宣布收购英国1.2GW储能项目组合，计划2026年启动设备招标。"
     },
     {
       "company_name": "Powercor",
@@ -209,7 +426,19 @@
       "relevance": 75,
       "why": "Australian distribution utility with storage projects, open to global suppliers.",
       "china_purchase": "No - no public record",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Powercor"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Powercor",
+      "founded": 1995,
+      "headquarters": "墨尔本，澳大利亚",
+      "employees": 1800,
+      "annual_revenue": "约20亿澳元",
+      "business_description": "澳大利亚维多利亚州最大的配电网络运营商，销售电网接入服务、分布式能源管理方案及社区电池储能项目。",
+      "procurement_needs": "从中国采购配电网级储能系统（2-10MWh）、智能电表、变压器及电网侧电池储能设备。",
+      "partner_profile": "需要符合澳大利亚CEC列名、具备高防护等级（IP65+）且能适应极端高温环境的中国储能设备供应商。",
+      "key_markets": "澳大利亚（维多利亚州）",
+      "china_presence": "暂无，通过本地分销商采购。",
+      "competitors": "AusNet Services, CitiPower, United Energy",
+      "market_share": "维州配电市场份额约50%，澳洲电网侧储能试点项目主要参与者。",
+      "recent_news": "2025年启动“社区电池计划”，采购50MWh分布式储能设备用于缓解电网拥堵。"
     },
     {
       "company_name": "Acciona Energía",
@@ -220,13 +449,19 @@
       "relevance": 80,
       "why": "Spanish renewable developer with storage projects, known to source from Chinese manufacturers.",
       "china_purchase": "Yes - Gotion",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=AccionaEnergia"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=AccionaEnergia",
+      "founded": 1994,
+      "headquarters": "马德里，西班牙",
+      "employees": 5000,
+      "annual_revenue": "约35亿欧元",
+      "business_description": "西班牙跨国可再生能源巨头，销售风电、光伏电站电力，并提供储能系统解决方案及绿电采购协议（PPA）。",
+      "procurement_needs": "从中国采购大型储能系统（50MW+）、电池电芯、PCS及用于其全球风光储一体化项目的配套设备。",
+      "partner_profile": "寻找具备全球交付能力、有海外电站配套业绩、且能提供20年以上性能保证的中国储能系统集成商。",
+      "key_markets": "西班牙、墨西哥、智利、澳大利亚、美国",
+      "china_presence": "在上海设有亚太采购代表处，负责设备询价和供应商审核。",
+      "competitors": "Iberdrola, Enel Green Power, EDP Renewables",
+      "market_share": "全球可再生能源开发商前十，西班牙市场份额第一。",
+      "recent_news": "2025年宣布在智利建设1GWh储能项目，采用中国电芯，预计2026年投运。"
     }
-  ],
-  "scoring_rubric": {
-    "90_95": "Large-scale BESS deployment, publicly sourcing, known to work with Chinese suppliers",
-    "75_89": "Strong fit - utility/solar with growing storage needs",
-    "55_74": "Moderate fit",
-    "40_54": "Possible but not priority"
-  }
+  ]
 }
