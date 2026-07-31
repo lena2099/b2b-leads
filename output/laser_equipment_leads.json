@@ -1,7 +1,7 @@
 {
   "industry": "激光设备&精密加工",
   "total": 20,
-  "updated": "2026-07-31T11:48:49.867452+00:00",
+  "updated": "2026-07-31T12:04:57Z",
   "leads": [
     {
       "company_name": "Mayville Engineering Company, Inc.",
@@ -121,13 +121,25 @@
     {
       "company_name": "Mazak Corporation (Yamazaki Mazak)",
       "website": "https://www.mazak.com",
-      "buyer_type": "Automotive parts manufacturers",
-      "country": "Japan",
-      "size": "Enterprise (>1000)",
-      "relevance": 55,
-      "why": "Machine tool builder with laser products, may buy Chinese laser sources for cost-competitive models.",
+      "buyer_type": "设备制造商（OEM）",
+      "country": "日本",
+      "size": "大型（年营收>10亿美元）",
+      "relevance": "高——其激光加工机业务需持续采购中国高性价比的光学与激光核心部件",
+      "why": "中国在光纤激光器、光学元件及精密钣金领域具备成本与供应链优势，马扎克在华工厂有本地化采购需求。",
       "china_purchase": "No - no public record",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Mazak%20Corporation"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Mazak%20Corporation",
+      "founded": "1919",
+      "headquarters": "Niwa-gun, Aichi Prefecture, Japan",
+      "employees": "约10,500人（全球）",
+      "annual_revenue": "约50亿美元（集团）",
+      "business_description": "全球领先的数控机床（CNC车床、加工中心、激光加工机）制造商，提供从单机到自动化产线及智能制造解决方案（iSMART Factory）。",
+      "procurement_needs": "高功率光纤激光器、激光切割头、精密光学镜片、数控系统配件、钣金结构件、精密铸锻件、伺服电机及驱动部件。",
+      "partner_profile": "具备ISO9001/14001认证，拥有精密加工能力（公差±0.005mm以内），能配合JIT交货，有激光设备配套经验或日系客户合作背景的供应商。",
+      "key_markets": "日本,美国,中国,德国,印度,巴西,泰国",
+      "china_presence": "山崎马扎克（中国）有限公司（上海总部），大连、宁夏小巨人机床（银川）设有生产基地，覆盖全国销售服务网络。",
+      "competitors": "DMG MORI, Okuma, Trumpf, Amada, Haas Automation, 大族激光（在激光切割领域）",
+      "market_share": "全球数控机床市场份额约5-6%（全球前三），激光加工机领域全球前五。",
+      "recent_news": "2025年，马扎克发布新一代AI自适应控制激光切割系统（MAZATROL SmoothAi），并宣布扩大中国大连工厂的自动化产线产能，以应对新能源汽车零部件加工需求。"
     },
     {
       "company_name": "BLM Group",
