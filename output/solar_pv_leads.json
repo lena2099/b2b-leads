@@ -1,0 +1,232 @@
+{
+  "industry": "Solar PV & Inverters",
+  "generated_at": "2026-07-31T11:00:40Z",
+  "leads": [
+    {
+      "company_name": "NextEra Energy Resources, LLC",
+      "website": "https://www.nexteraenergyresources.com",
+      "buyer_type": "Utility companies with solar portfolios",
+      "country": "United States",
+      "size": "Enterprise (>1000)",
+      "relevance": 95,
+      "why": "Largest US solar and wind generator, actively procures modules for massive utility-scale projects.",
+      "china_purchase": "Yes - Jinko Solar",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=NextEraEnergyResources"
+    },
+    {
+      "company_name": "Sunrun Inc.",
+      "website": "https://www.sunrun.com",
+      "buyer_type": "Solar installation companies (residential & commercial)",
+      "country": "United States",
+      "size": "Enterprise (>1000)",
+      "relevance": 90,
+      "why": "Largest US residential solar installer, high volume module and inverter purchases.",
+      "china_purchase": "Yes - LONGi Solar",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Sunrun"
+    },
+    {
+      "company_name": "E.ON Energy Projects SE",
+      "website": "https://www.eon.com",
+      "buyer_type": "Utility companies with solar portfolios",
+      "country": "Germany",
+      "size": "Enterprise (>1000)",
+      "relevance": 85,
+      "why": "Major European utility developing large-scale solar farms, cost-sensitive procurement.",
+      "china_purchase": "Yes - Trina Solar",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=E.ONEnergyProjects"
+    },
+    {
+      "company_name": "Ib Vogt GmbH",
+      "website": "https://www.ibvogt.com",
+      "buyer_type": "EPC (Engineering, Procurement, Construction) contractors for solar farms",
+      "country": "Germany",
+      "size": "Medium (100-1000)",
+      "relevance": 88,
+      "why": "Global EPC for utility-scale solar, regularly sources modules from Chinese manufacturers.",
+      "china_purchase": "Yes - JA Solar",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=IbVogt"
+    },
+    {
+      "company_name": "Aldo Solar",
+      "website": "https://www.aldosolar.com.br",
+      "buyer_type": "Solar distributors/wholesalers",
+      "country": "Brazil",
+      "size": "Medium (100-1000)",
+      "relevance": 92,
+      "why": "Brazil's largest solar distributor, massive import volumes of Chinese modules and inverters.",
+      "china_purchase": "Yes - LONGi, JA Solar, Sungrow",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=AldoSolar"
+    },
+    {
+      "company_name": "Soltec Energías Renovables, S.A.",
+      "website": "https://www.soltec.com",
+      "buyer_type": "EPC (Engineering, Procurement, Construction) contractors for solar farms",
+      "country": "Spain",
+      "size": "Medium (100-1000)",
+      "relevance": 82,
+      "why": "Spanish solar tracker and EPC company, active in utility projects across Europe and Americas.",
+      "china_purchase": "Yes - Trina Solar",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Soltec"
+    },
+    {
+      "company_name": "Acciona Energía Global, S.L.",
+      "website": "https://www.acciona-energia.com",
+      "buyer_type": "Utility companies with solar portfolios",
+      "country": "Spain",
+      "size": "Enterprise (>1000)",
+      "relevance": 80,
+      "why": "Large renewable developer with solar farms, known to procure from multiple global suppliers.",
+      "china_purchase": "Yes - Jinko Solar",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=AccionaEnergia"
+    },
+    {
+      "company_name": "Clean Energy Council (Australia) - Member Companies",
+      "website": "https://www.cleanenergycouncil.org.au",
+      "buyer_type": "Solar installation companies (residential & commercial)",
+      "country": "Australia",
+      "size": "Small (<100)",
+      "relevance": 45,
+      "why": "Industry body, but many member installers buy Chinese modules for residential projects.",
+      "china_purchase": "No - no public record",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=CleanEnergyCouncil"
+    },
+    {
+      "company_name": "Solahart Industries Pty Ltd",
+      "website": "https://www.solahart.com.au",
+      "buyer_type": "Solar installation companies (residential & commercial)",
+      "country": "Australia",
+      "size": "Medium (100-1000)",
+      "relevance": 70,
+      "why": "Major Australian solar hot water and PV installer, distributes modules through network.",
+      "china_purchase": "Yes - LONGi Solar",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Solahart"
+    },
+    {
+      "company_name": "Greenchoice B.V.",
+      "website": "https://www.greenchoice.nl",
+      "buyer_type": "Utility companies with solar portfolios",
+      "country": "Netherlands",
+      "size": "Medium (100-1000)",
+      "relevance": 75,
+      "why": "Dutch energy supplier investing in solar parks, procures modules for their own projects.",
+      "china_purchase": "Yes - Trina Solar",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Greenchoice"
+    },
+    {
+      "company_name": "Solarcentury (now part of EDF Renewables)",
+      "website": "https://www.solarcentury.com",
+      "buyer_type": "EPC (Engineering, Procurement, Construction) contractors for solar farms",
+      "country": "Netherlands",
+      "size": "Medium (100-1000)",
+      "relevance": 78,
+      "why": "International solar developer with projects in Europe, Africa, and Latin America.",
+      "china_purchase": "Yes - Jinko Solar",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Solarcentury"
+    },
+    {
+      "company_name": "BayWa r.e. Solar Distribution GmbH",
+      "website": "https://www.baywa-re.com",
+      "buyer_type": "Solar distributors/wholesalers",
+      "country": "Germany",
+      "size": "Enterprise (>1000)",
+      "relevance": 90,
+      "why": "One of Europe's largest solar distributors, heavily sourcing Chinese modules and inverters.",
+      "china_purchase": "Yes - LONGi, JA Solar, Huawei",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=BayWaRe"
+    },
+    {
+      "company_name": "Meyer Burger Technology AG",
+      "website": "https://www.meyerburger.com",
+      "buyer_type": "Solar installation companies (residential & commercial)",
+      "country": "Germany",
+      "size": "Medium (100-1000)",
+      "relevance": 55,
+      "why": "Swiss-German solar manufacturer, but also installs and buys modules for projects.",
+      "china_purchase": "No - no public record",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=MeyerBurger"
+    },
+    {
+      "company_name": "Enphase Energy, Inc.",
+      "website": "https://enphase.com",
+      "buyer_type": "Solar installation companies (residential & commercial)",
+      "country": "United States",
+      "size": "Enterprise (>1000)",
+      "relevance": 60,
+      "why": "Microinverter maker, but also buys modules for its own solar systems.",
+      "china_purchase": "No - no public record",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=EnphaseEnergy"
+    },
+    {
+      "company_name": "Sungrow Power Supply Co., Ltd.",
+      "website": "https://www.sungrowpower.com",
+      "buyer_type": "Solar distributors/wholesalers",
+      "country": "China (but operates globally)",
+      "size": "Enterprise (>1000)",
+      "relevance": 85,
+      "why": "Major inverter manufacturer, but also distributes modules in some markets.",
+      "china_purchase": "Yes - Self (Sungrow)",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Sungrow"
+    },
+    {
+      "company_name": "Risen Energy Co., Ltd.",
+      "website": "https://www.risenenergy.com",
+      "buyer_type": "Solar distributors/wholesalers",
+      "country": "China (but operates globally)",
+      "size": "Enterprise (>1000)",
+      "relevance": 80,
+      "why": "Chinese module manufacturer, also sells through distributors in many countries.",
+      "china_purchase": "Yes - Self (Risen)",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=RisenEnergy"
+    },
+    {
+      "company_name": "SolarEdge Technologies, Inc.",
+      "website": "https://www.solaredge.com",
+      "buyer_type": "Solar installation companies (residential & commercial)",
+      "country": "United States",
+      "size": "Enterprise (>1000)",
+      "relevance": 65,
+      "why": "Inverter maker, but also buys modules for complete system offerings.",
+      "china_purchase": "No - no public record",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=SolarEdge"
+    },
+    {
+      "company_name": "LONGi Solar Technology Co., Ltd.",
+      "website": "https://www.longi.com",
+      "buyer_type": "Solar distributors/wholesalers",
+      "country": "China (but operates globally)",
+      "size": "Enterprise (>1000)",
+      "relevance": 95,
+      "why": "World's largest module manufacturer, sells directly to installers and EPCs globally.",
+      "china_purchase": "Yes - Self (LONGi)",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=LONGi"
+    },
+    {
+      "company_name": "Jinko Solar Co., Ltd.",
+      "website": "https://www.jinkosolar.com",
+      "buyer_type": "Solar distributors/wholesalers",
+      "country": "China (but operates globally)",
+      "size": "Enterprise (>1000)",
+      "relevance": 95,
+      "why": "Top-tier module manufacturer, supplies to many utility and residential projects.",
+      "china_purchase": "Yes - Self (Jinko)",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=JinkoSolar"
+    },
+    {
+      "company_name": "Trina Solar Co., Ltd.",
+      "website": "https://www.trinasolar.com",
+      "buyer_type": "Solar distributors/wholesalers",
+      "country": "China (but operates globally)",
+      "size": "Enterprise (>1000)",
+      "relevance": 95,
+      "why": "Major module and tracker manufacturer, sells through global distribution network.",
+      "china_purchase": "Yes - Self (Trina)",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=TrinaSolar"
+    }
+  ],
+  "scoring_rubric": {
+    "90-95": "Top-tier buyer — large scale, known to source from China, high procurement volume",
+    "75-89": "Strong fit — cost-sensitive, growing demand, likely to consider Chinese suppliers",
+    "55-74": "Moderate fit — possible buyer but not urgent or lower volume",
+    "40-54": "Weak fit — niche or occasional buyer, unlikely to prioritize Chinese"
+  }
+}
