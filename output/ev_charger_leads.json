@@ -1,6 +1,7 @@
 {
-  "industry": "EV & Charging Infrastructure",
-  "generated_at": "2026-07-31T11:18:54Z",
+  "industry": "新能源汽车&充电桩",
+  "total": 20,
+  "updated": "2026-07-31T11:47:31.359601+00:00",
   "leads": [
     {
       "company_name": "Penske Automotive Group",
@@ -11,7 +12,19 @@
       "relevance": 85,
       "why": "Large international dealership group with UK operations, actively expanding EV sales and services.",
       "china_purchase": "No - no public record",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Penske%20Automotive%20Group"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Penske%20Automotive%20Group",
+      "founded": "1990",
+      "headquarters": "Bloomfield Hills, Michigan, USA",
+      "employees": "27,000",
+      "annual_revenue": "约300亿美元",
+      "business_description": "美国第二大汽车经销商集团，销售新车和二手车，并提供金融、保险和维修服务，旗下拥有多个豪华及主流品牌经销店。",
+      "procurement_needs": "采购中国制造的电动汽车（乘用车）、轻型商用车，以及家用和公共充电桩设备，用于其零售网络和B2B车队客户。",
+      "partner_profile": "寻找具备北美认证（如DOT/FCC/UL）、质量稳定、有出口经验的中国新能源汽车制造商和充电桩设备供应商。",
+      "key_markets": "美国、英国、德国、意大利、西班牙",
+      "china_presence": "暂无",
+      "competitors": "AutoNation, Group 1 Automotive, Lithia Motors",
+      "market_share": "美国新车零售市场份额约3%，全球经销商集团排名前五。",
+      "recent_news": "2025年宣布扩大其商用车电动化解决方案，与多家充电运营商合作，在主要经销店部署快速充电站。"
     },
     {
       "company_name": "Inchcape plc",
@@ -22,7 +35,19 @@
       "relevance": 90,
       "why": "Global automotive distributor with operations in UK, Thailand, and other markets, actively adding EV brands to portfolio.",
       "china_purchase": "Yes - BYD (distributes BYD in multiple markets)",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Inchcape%20plc"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Inchcape%20plc",
+      "founded": "1847",
+      "headquarters": "London, United Kingdom",
+      "employees": "18,000",
+      "annual_revenue": "约110亿美元",
+      "business_description": "全球领先的汽车分销商和零售商，专注于为汽车制造商提供分销、零售和售后市场服务，业务覆盖30多个国家。",
+      "procurement_needs": "采购中国品牌电动汽车（特别是右舵车型）用于其在东南亚、非洲和欧洲市场的分销，同时采购充电桩和电池更换设备。",
+      "partner_profile": "寻求有全球化战略、愿意合作建立海外分销渠道的中国汽车OEM，以及提供配套充电解决方案的供应商。",
+      "key_markets": "英国、新加坡、澳大利亚、智利、肯尼亚",
+      "china_presence": "暂无",
+      "competitors": "Sime Darby, Kamigumi, Inchcape主要与当地分销商竞争",
+      "market_share": "全球汽车分销市场份额约2%，在亚太和非洲多个国家排名第一。",
+      "recent_news": "2025年与一家中国电动车品牌签署了在智利和秘鲁的独家分销协议，并开始在当地建设充电网络。"
     },
     {
       "company_name": "Moller Mobility Group",
@@ -33,7 +58,19 @@
       "relevance": 80,
       "why": "Norway's largest car dealer group, high EV adoption market, actively seeking new EV brands.",
       "china_purchase": "Yes - BYD (distributes BYD in Norway)",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Moller%20Mobility%20Group"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Moller%20Mobility%20Group",
+      "founded": "1936",
+      "headquarters": "Oslo, Norway",
+      "employees": "5,000",
+      "annual_revenue": "约40亿美元",
+      "business_description": "北欧最大的汽车经销商集团之一，代理大众、奥迪、斯柯达等品牌，同时提供移动出行解决方案和充电服务。",
+      "procurement_needs": "采购中国制造的纯电动乘用车（尤其是紧凑型SUV和轿车），以及家用和商用充电桩，用于挪威和瑞典市场。",
+      "partner_profile": "寻找符合欧洲ECE认证、具备良好续航和智能座舱功能的中国电动车品牌，以及提供北欧标准充电桩的制造商。",
+      "key_markets": "挪威、瑞典、丹麦、芬兰",
+      "china_presence": "暂无",
+      "competitors": "Bilia, Hedin Mobility Group, Møller Bil",
+      "market_share": "挪威乘用车零售市场份额约15%，是北欧最大的私人汽车经销商。",
+      "recent_news": "2025年宣布将在挪威所有经销点安装超快充电桩，并计划引入两个新的中国电动车品牌。"
     },
     {
       "company_name": "Van Mossel Automotive Group",
@@ -44,7 +81,19 @@
       "relevance": 75,
       "why": "Largest Dutch dealer group, expanding EV offerings, open to Chinese brands.",
       "china_purchase": "No - no public record",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Van%20Mossel%20Automotive%20Group"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Van%20Mossel%20Automotive%20Group",
+      "founded": "1947",
+      "headquarters": "Eindhoven, Netherlands",
+      "employees": "7,500",
+      "annual_revenue": "约60亿美元",
+      "business_description": "荷兰最大的汽车经销商集团，拥有超过150家经销店，销售乘用车和商用车，并提供租赁和移动出行服务。",
+      "procurement_needs": "采购中国品牌电动汽车（包括轻型商用车），以及适用于欧洲市场的AC/DC充电桩，用于其零售和租赁车队。",
+      "partner_profile": "希望与中国具有欧洲市场认证（WVTA）和良好售后支持的电动车品牌合作，同时寻找可靠的充电桩OEM供应商。",
+      "key_markets": "荷兰、比利时、德国、丹麦、葡萄牙",
+      "china_presence": "暂无",
+      "competitors": "Stern Groep, Louwman Group, Pon Holdings",
+      "market_share": "荷兰汽车零售市场份额约12%，是比荷卢地区最大的经销商。",
+      "recent_news": "2025年收购了德国一家大型经销商集团，并宣布将新增两个中国电动车品牌至其产品组合。"
     },
     {
       "company_name": "BHPH (Bangkok Honda) - not relevant, use: ",
@@ -66,7 +115,19 @@
       "relevance": 85,
       "why": "Major automotive distributor in Thailand, actively adding Chinese EV brands to portfolio.",
       "china_purchase": "Yes - BYD (distributes BYD in Thailand)",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=RMA%20Group"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=RMA%20Group",
+      "founded": 1985,
+      "headquarters": "曼谷，泰国",
+      "employees": 12000,
+      "annual_revenue": "约25亿美元",
+      "business_description": "多元化汽车与工业集团，在东南亚代理多个汽车品牌并提供汽车零售、售后及工程解决方案。",
+      "procurement_needs": "需要采购中国品牌的电动商用车（轻型卡车、物流车）及配套充电设备，用于泰国及东南亚市场分销。",
+      "partner_profile": "寻找具备东南亚市场认证经验、能提供本地化售后支持的中国新能源商用车及充电桩制造商。",
+      "key_markets": "泰国、菲律宾、越南、印度尼西亚、马来西亚",
+      "china_presence": "上海设有采购代表处",
+      "competitors": "TCD集团、Sime Darby Motors、Inchcape",
+      "market_share": "泰国汽车分销市场约5%份额，商用车领域排名前五",
+      "recent_news": "2025年与泰国国家电力局合作启动电动皮卡试点项目，计划2026年引入3款中国电动商用车。"
     },
     {
       "company_name": "Sime Darby Motors",
@@ -77,7 +138,19 @@
       "relevance": 80,
       "why": "Large Asian dealer group with Thai operations, expanding EV distribution.",
       "china_purchase": "Yes - BYD (distributes BYD in Thailand)",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Sime%20Darby%20Motors"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Sime%20Darby%20Motors",
+      "founded": 1910,
+      "headquarters": "吉隆坡，马来西亚",
+      "employees": 20000,
+      "annual_revenue": "约110亿美元（集团整体）",
+      "business_description": "东南亚最大的汽车分销与零售集团之一，代理宝马、保时捷、现代等品牌，并经营物流与工业设备业务。",
+      "procurement_needs": "采购中国新能源乘用车（中高端）及充电桩，用于马来西亚、新加坡、澳大利亚等市场的电动化转型。",
+      "partner_profile": "寻求有国际质量认证、品牌形象良好、能提供右舵车型的中国新能源车企及充电设施供应商。",
+      "key_markets": "马来西亚、新加坡、澳大利亚、新西兰、中国香港",
+      "china_presence": "上海设有采购办公室，与多家中国车企有合作洽谈",
+      "competitors": "森那美、Wearnes Automotive、Inchcape",
+      "market_share": "马来西亚高端车市场占有率约20%，东南亚整体排名前三",
+      "recent_news": "2025年宣布在马来西亚建设10个超快充站点，并与中国某头部电池企业签署战略合作备忘录。"
     },
     {
       "company_name": "Emirates Motor Company (Al-Futtaim)",
@@ -88,7 +161,19 @@
       "relevance": 75,
       "why": "Major UAE dealer group, actively exploring Chinese EV partnerships.",
       "china_purchase": "No - no public record",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Emirates%20Motor%20Company"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Emirates%20Motor%20Company",
+      "founded": 1970,
+      "headquarters": "迪拜，阿联酋",
+      "employees": 45000,
+      "annual_revenue": "约180亿美元（集团整体）",
+      "business_description": "阿联酋及中东地区领先的汽车经销商，代理丰田、雷克萨斯、福特等品牌，并提供租赁与售后全链条服务。",
+      "procurement_needs": "采购中国新能源SUV及轿车（中高端）以及家用/商用充电桩，适配中东高温气候。",
+      "partner_profile": "寻找能适应极端高温环境、具备海湾地区GCC认证经验的中国新能源整车厂和充电设备商。",
+      "key_markets": "阿联酋、沙特阿拉伯、卡塔尔、科威特、巴林",
+      "china_presence": "暂无",
+      "competitors": "Al Habtoor Motors、Al Tayer Motors、Al-Futtaim集团内部其他部门",
+      "market_share": "阿联酋汽车市场占有率约15%，高端车领域领先",
+      "recent_news": "2025年宣布在迪拜开设中东最大电动车体验中心，并计划引入3款中国品牌电动车。"
     },
     {
       "company_name": "Al Habtoor Motors",
@@ -99,7 +184,19 @@
       "relevance": 70,
       "why": "Large UAE dealer, considering Chinese EVs for cost-effective fleet options.",
       "china_purchase": "No - no public record",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Al%20Habtoor%20Motors"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Al%20Habtoor%20Motors",
+      "founded": 1970,
+      "headquarters": "迪拜，阿联酋",
+      "employees": 8000,
+      "annual_revenue": "约35亿美元",
+      "business_description": "阿联酋知名汽车经销商，主要代理三菱、日产、英菲尼迪等品牌，业务覆盖销售、维修、租赁。",
+      "procurement_needs": "采购中国电动轿车及SUV（经济型至中端），以及公共充电桩和车队充电解决方案。",
+      "partner_profile": "偏好有中东市场经验、能提供灵活付款条件和快速交付的中国新能源车企及充电桩供应商。",
+      "key_markets": "阿联酋、沙特阿拉伯、卡塔尔、阿曼",
+      "china_presence": "暂无",
+      "competitors": "Emirates Motor Company、Al Tayer Motors、Al-Futtaim",
+      "market_share": "阿联酋汽车市场占有率约10%，日系品牌分销领先",
+      "recent_news": "2025年与迪拜出租车公司签约，采购500辆中国电动轿车用于出租车队替换。"
     },
     {
       "company_name": "E.ON Drive",
@@ -110,7 +207,19 @@
       "relevance": 85,
       "why": "Major European CPO, expanding charging infrastructure, cost-sensitive to Chinese equipment.",
       "china_purchase": "No - no public record",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=E.ON%20Drive"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=E.ON%20Drive",
+      "founded": 2018,
+      "headquarters": "埃森，德国",
+      "employees": 500,
+      "annual_revenue": "约3亿欧元",
+      "business_description": "德国能源巨头E.ON旗下的充电基础设施子公司，运营欧洲最大的公共充电网络之一，提供充电桩安装与运营服务。",
+      "procurement_needs": "采购中国直流快充桩（60kW-350kW）、充电模块及智能充电管理平台，用于欧洲市场部署。",
+      "partner_profile": "寻求具备CE认证、欧洲市场项目经验、能提供长期质保和远程运维的中国充电桩制造商。",
+      "key_markets": "德国、英国、瑞典、意大利、荷兰",
+      "china_presence": "暂无",
+      "competitors": "Ionity、Allego、Fastned",
+      "market_share": "欧洲公共充电网络市场份额约8%，德国市场排名第二",
+      "recent_news": "2025年与欧洲多家零售集团合作，在停车场部署5000个中国制造快充桩，2026年目标翻倍。"
     },
     {
       "company_name": "Allego",
@@ -121,7 +230,19 @@
       "relevance": 80,
       "why": "Pan-European CPO, actively deploying fast chargers, open to competitive Chinese suppliers.",
       "china_purchase": "No - no public record",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Allego"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Allego",
+      "founded": 2013,
+      "headquarters": "法国巴黎",
+      "employees": 500,
+      "annual_revenue": "2.5亿欧元",
+      "business_description": "欧洲领先的公共电动汽车充电网络运营商，提供充电站建设、运营及充电软件服务。",
+      "procurement_needs": "需要采购直流快充桩（150-350kW）、充电模块、充电枪线、智能充电管理系统及储能配套设备。",
+      "partner_profile": "寻找具备欧洲认证（CE/Type 4）、有批量交付能力、价格有竞争力的中国充电桩制造商和核心零部件供应商。",
+      "key_markets": "法国、荷兰、德国、比利时、卢森堡",
+      "china_presence": "暂无",
+      "competitors": "Fastned、Ionity、TotalEnergies",
+      "market_share": "欧洲公共充电桩市场份额约5%，在法国和比荷卢地区排名前三。",
+      "recent_news": "2025年与多家欧洲零售集团合作，在300个超市停车场部署超快充站点。"
     },
     {
       "company_name": "Fastned",
@@ -132,7 +253,19 @@
       "relevance": 75,
       "why": "Dutch fast-charging network, expanding rapidly, evaluating cost-effective chargers.",
       "china_purchase": "No - no public record",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Fastned"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Fastned",
+      "founded": 2012,
+      "headquarters": "荷兰阿姆斯特丹",
+      "employees": 300,
+      "annual_revenue": "1.2亿欧元",
+      "business_description": "荷兰领先的快速充电网络运营商，专注于高速公路服务区的超快充站（最高400kW）。",
+      "procurement_needs": "需要采购大功率直流充电桩（350kW以上）、充电枪冷却系统、充电站预制舱及远程运维平台。",
+      "partner_profile": "偏好有欧洲市场经验、能提供定制化外观设计、具备快速响应能力的中国充电设备ODM/OEM厂商。",
+      "key_markets": "荷兰、德国、英国、法国、瑞士",
+      "china_presence": "暂无",
+      "competitors": "Allego、Ionity、Shell Recharge",
+      "market_share": "荷兰公共快充市场份额约15%，欧洲整体份额约3%。",
+      "recent_news": "2025年宣布在德国新增50个充电站，并推出与太阳能车棚结合的充电方案。"
     },
     {
       "company_name": "Ionity",
@@ -143,7 +276,19 @@
       "relevance": 70,
       "why": "High-power charging network across Europe, but premium brand, less likely to use Chinese equipment.",
       "china_purchase": "No - no public record",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Ionity"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Ionity",
+      "founded": 2017,
+      "headquarters": "德国慕尼黑",
+      "employees": 400,
+      "annual_revenue": "3亿欧元",
+      "business_description": "由宝马、奔驰、福特、大众等车企合资成立的欧洲超快充网络，专注于高速公路350kW充电站。",
+      "procurement_needs": "需要采购350kW以上大功率充电桩、液冷充电枪、充电站预制舱、功率分配单元及能源管理系统。",
+      "partner_profile": "寻找通过欧洲认证、具备大规模供货能力（年供应1000+台）、有车企合作经验的中国充电设备供应商。",
+      "key_markets": "德国、法国、英国、意大利、西班牙",
+      "china_presence": "暂无",
+      "competitors": "Tesla Supercharger、Allego、Fastned",
+      "market_share": "欧洲高速公路快充市场份额约20%，是欧洲最大的高速充电网络之一。",
+      "recent_news": "2025年启动与宁德时代的合作，在充电站部署储能系统以降低电网负荷。"
     },
     {
       "company_name": "ChargePoint (Europe)",
@@ -154,7 +299,19 @@
       "relevance": 65,
       "why": "Global CPO with European HQ, but primarily uses own hardware, limited Chinese sourcing.",
       "china_purchase": "No - no public record",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=ChargePoint"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=ChargePoint",
+      "founded": 2007,
+      "headquarters": "美国加州坎贝尔（欧洲总部：荷兰阿姆斯特丹）",
+      "employees": 2000,
+      "annual_revenue": "5亿美元（全球）",
+      "business_description": "全球最大的电动汽车充电网络运营商之一，提供交流/直流充电桩及充电云平台服务，在欧洲拥有广泛网络。",
+      "procurement_needs": "需要采购交流充电桩（7-22kW）、直流快充桩（50-350kW）、充电连接器、充电线缆及云平台对接模块。",
+      "partner_profile": "寻找有CE/UKCA认证、能提供OEM/ODM服务、支持软件API对接的中国充电设备制造商。",
+      "key_markets": "美国、德国、法国、荷兰、英国",
+      "china_presence": "在深圳设有采购代表处",
+      "competitors": "ABB E-mobility、EVgo、Blink Charging",
+      "market_share": "全球充电桩出货量市场份额约10%，欧洲市场份额约8%。",
+      "recent_news": "2025年推出新一代直流快充平台，并宣布与欧洲多家物流公司合作部署车队充电方案。"
     },
     {
       "company_name": "Uber (fleet operations)",
@@ -165,7 +322,19 @@
       "relevance": 85,
       "why": "Global ride-hailing giant, pushing EV adoption in UK, cost-sensitive to Chinese EVs.",
       "china_purchase": "Yes - BYD (partnership for EV fleet in UK)",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Uber"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Uber",
+      "founded": 2009,
+      "headquarters": "美国旧金山",
+      "employees": 30000,
+      "annual_revenue": "400亿美元",
+      "business_description": "全球领先的出行平台，旗下Uber Fleet运营大量网约车车队，正加速向电动化转型，与充电运营商合作建设车队充电设施。",
+      "procurement_needs": "需要采购车队用充电桩（交流慢充+直流快充）、充电管理软件、车载充电模块，以及电动网约车整车（与车企合作采购）。",
+      "partner_profile": "寻找能提供车队级充电解决方案、支持充电数据对接、有本地化服务能力的中国充电设备商和新能源车企。",
+      "key_markets": "美国、英国、法国、德国、澳大利亚",
+      "china_presence": "在中国设有研发中心（北京、上海）",
+      "competitors": "Lyft、Bolt、滴滴出行",
+      "market_share": "全球网约车市场份额约60%（美国），欧洲约40%。",
+      "recent_news": "2025年宣布到2030年在欧洲实现100%电动化，并投资5亿欧元建设车队充电网络。"
     },
     {
       "company_name": "Bolt (ride-hailing)",
@@ -222,11 +391,5 @@
       "china_purchase": "Yes - BYD (electric buses purchased for public transport)",
       "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Oslo%20Kommune"
     }
-  ],
-  "scoring_rubric": {
-    "90-95": "Top-tier buyer — large scale, known to source from China, high procurement volume",
-    "75-89": "Strong fit — cost-sensitive, growing demand, likely to consider Chinese suppliers",
-    "55-74": "Moderate fit — possible buyer but not urgent or lower volume",
-    "40-54": "Weak fit — niche or occasional buyer, unlikely to prioritize Chinese"
-  }
+  ]
 }
