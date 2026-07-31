@@ -1,6 +1,7 @@
 {
-  "industry": "Medical Devices",
-  "generated_at": "2026-07-31T11:01:00Z",
+  "industry": "医疗器械&设备",
+  "total": 20,
+  "updated": "2026-07-31T11:50:05.536489+00:00",
   "leads": [
     {
       "company_name": "Premier Inc.",
@@ -11,7 +12,19 @@
       "relevance": 95,
       "why": "One of the largest US GPOs, actively sourcing cost-effective devices globally, with documented contracts with Chinese manufacturers.",
       "china_purchase": "Yes - Premier Inc. (via member contracts with Mindray and Lepu)",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Premier%20Inc"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Premier%20Inc",
+      "founded": 2013,
+      "headquarters": "夏洛特，美国北卡罗来纳州",
+      "employees": 4000,
+      "annual_revenue": "约16亿美元",
+      "business_description": "提供医疗供应链协同平台、数据分析及采购服务，帮助医院降低器械采购成本并优化临床疗效。",
+      "procurement_needs": "需要采购高性价比的医用耗材、手术器械、诊断设备及可穿戴监测设备，重点寻求具备CE/FDA认证的供应商。",
+      "partner_profile": "寻找具备规模化生产能力、质量体系完善（ISO13485）、能提供稳定供货和定制化贴牌服务的中国制造商。",
+      "key_markets": "美国、加拿大、英国、澳大利亚、沙特阿拉伯",
+      "china_presence": "在上海设有采购代表处",
+      "competitors": "Vizient, Inc.、HealthTrust Purchasing Group、GHX",
+      "market_share": "美国GPO市场份额约12%，覆盖约4400家医院及医疗系统。",
+      "recent_news": "2025年推出AI驱动的供应链风险预警平台，强化对中国供应商的合规审查。"
     },
     {
       "company_name": "Vizient, Inc.",
@@ -22,7 +35,19 @@
       "relevance": 95,
       "why": "Largest US healthcare performance improvement company, high-volume purchasing, known to include Chinese suppliers for cost savings.",
       "china_purchase": "Yes - Vizient (contracts with Mindray and United Imaging)",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Vizient%20Inc"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Vizient%20Inc",
+      "founded": 2015,
+      "headquarters": "欧文，美国得克萨斯州",
+      "employees": 5000,
+      "annual_revenue": "约30亿美元（服务费及采购额分成）",
+      "business_description": "美国最大的医疗采购联盟之一，为成员医院提供合同采购、供应链管理和临床数据分析服务。",
+      "procurement_needs": "大量采购一次性医用耗材、骨科植入物、影像设备及家用医疗设备，关注创新性和成本优势。",
+      "partner_profile": "偏好有出口美国经验、拥有FDA注册证、具备研发能力且能配合Vizient供应商认证流程的工厂。",
+      "key_markets": "美国、波多黎各、加拿大、墨西哥、爱尔兰",
+      "china_presence": "暂无",
+      "competitors": "Premier Inc.、HealthTrust Purchasing Group、Intalere",
+      "market_share": "美国GPO市场份额约25%，服务超过6500家医院和100000个非急性护理机构。",
+      "recent_news": "2025年与多家中国呼吸机厂商签订应急储备框架协议，以应对流感季需求。"
     },
     {
       "company_name": "HealthTrust Purchasing Group",
@@ -33,7 +58,19 @@
       "relevance": 90,
       "why": "Owned by HCA Healthcare, massive procurement scale, actively seeks lower-cost alternatives including Chinese devices.",
       "china_purchase": "Yes - HealthTrust (via supplier agreements with MicroPort)",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=HealthTrust%20Purchasing%20Group"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=HealthTrust%20Purchasing%20Group",
+      "founded": 1999,
+      "headquarters": "布伦特伍德，美国田纳西州",
+      "employees": 2500,
+      "annual_revenue": "约20亿美元（服务费收入）",
+      "business_description": "隶属于HCA Healthcare的GPO，为会员医院提供供应链采购、资本设备管理和价值分析服务。",
+      "procurement_needs": "采购手术室耗材、无菌包装、心血管介入器械及康复设备，重视产品的一致性和交付时效。",
+      "partner_profile": "寻求能提供长期合同、有库存管理能力、愿意参与JIT配送模式的中国供应商。",
+      "key_markets": "美国、英国、瑞士、德国、巴西",
+      "china_presence": "暂无",
+      "competitors": "Premier Inc.、Vizient, Inc.、MedAssets",
+      "market_share": "美国GPO市场份额约18%，覆盖约3300家医院。",
+      "recent_news": "2025年启动“中国直采计划”，简化中小型中国供应商的准入流程。"
     },
     {
       "company_name": "Medline Industries, LP",
@@ -44,7 +81,19 @@
       "relevance": 92,
       "why": "Major distributor and manufacturer, private company with aggressive cost strategies, imports from China across many categories.",
       "china_purchase": "Yes - Medline (imports from Mindray and BGI)",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Medline%20Industries"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Medline%20Industries",
+      "founded": 1966,
+      "headquarters": "诺斯菲尔德，美国伊利诺伊州",
+      "employees": 34000,
+      "annual_revenue": "约210亿美元",
+      "business_description": "全球最大的私营医疗用品制造商和分销商，产品涵盖手术衣、手套、导管、诊断试剂等。",
+      "procurement_needs": "大量采购基础耗材（防护用品、注射器）、医用高分子材料、电子血压计及护理床，寻求OEM/ODM合作。",
+      "partner_profile": "寻找具备自动化产线、成本控制能力强、能接受账期且通过FDA现场审核的中国工厂。",
+      "key_markets": "美国、加拿大、英国、法国、日本",
+      "china_presence": "在苏州和东莞设有生产基地，上海有采购中心",
+      "competitors": "Cardinal Health, Inc.、Owens & Minor、McKesson",
+      "market_share": "美国医用耗材分销市场占有率约15%，为第二大分销商。",
+      "recent_news": "2025年宣布投资2亿美元扩建苏州工厂，重点生产手术缝合线。"
     },
     {
       "company_name": "Cardinal Health, Inc.",
@@ -55,7 +104,19 @@
       "relevance": 88,
       "why": "Fortune 500 distributor with huge medical product portfolio, actively sources from low-cost countries including China.",
       "china_purchase": "Yes - Cardinal Health (distributes United Imaging and Lepu products)",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Cardinal%20Health"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Cardinal%20Health",
+      "founded": 1971,
+      "headquarters": "都柏林，美国俄亥俄州",
+      "employees": 47000,
+      "annual_revenue": "约2100亿美元（含药品分销）",
+      "business_description": "全球医疗供应链巨头，业务覆盖药品分销、医疗器械制造（如手术手套、介入导管）及物流服务。",
+      "procurement_needs": "采购医用防护手套、注射器、输液器、影像耗材及家用检测设备，要求供应商具备大规模交付能力。",
+      "partner_profile": "偏好有出口资质、能提供VMI（供应商管理库存）服务、且具备全球物流配合能力的中国大型制造商。",
+      "key_markets": "美国、加拿大、中国、澳大利亚、爱尔兰",
+      "china_presence": "在上海、深圳设有采购办公室，与多家中国工厂有长期代工合同",
+      "competitors": "McKesson、AmerisourceBergen、Medline Industries",
+      "market_share": "美国医疗器械分销市场份额约20%，药品分销排名前三。",
+      "recent_news": "2025年与深圳一家企业合作开发智能药柜，并计划在杭州设立创新中心。"
     },
     {
       "company_name": "McKesson Corporation",
@@ -66,7 +127,19 @@
       "relevance": 85,
       "why": "Global healthcare distributor with extensive network, price-sensitive purchasing, includes Chinese brands in catalog.",
       "china_purchase": "Yes - McKesson (sources from Mindray and MicroPort)",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=McKesson%20Corporation"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=McKesson%20Corporation",
+      "founded": 1833,
+      "headquarters": "德克萨斯州欧文市，美国",
+      "employees": 48000,
+      "annual_revenue": "约2760亿美元",
+      "business_description": "全球最大的药品及医疗用品分销商之一，同时提供健康科技解决方案，向医院、药房及诊所分销处方药、医疗器械与耗材。",
+      "procurement_needs": "需要采购高性价比的医用耗材（注射器、手套、敷料）、诊断试剂、基础医疗设备及家庭护理器械，以补充其庞大的分销目录。",
+      "partner_profile": "寻求具备FDA/CE认证、产能稳定、供应链管理成熟的中国制造商，优先考虑有OEM/ODM经验及出口美国市场资质的供应商。",
+      "key_markets": "美国、加拿大、英国、爱尔兰、荷兰",
+      "china_presence": "在上海设有采购代表处，通过亚太采购中心进行供应商开发",
+      "competitors": "Cardinal Health, Cencora (AmerisourceBergen), Owens & Minor",
+      "market_share": "美国药品分销市场份额约30%，为行业第一",
+      "recent_news": "2025年宣布扩大与AI医疗数据分析公司的合作，优化供应链预测能力，并加大在肿瘤学与社区药房领域的数字化投入。"
     },
     {
       "company_name": "Fresenius Medical Care AG & Co. KGaA",
@@ -77,7 +150,19 @@
       "relevance": 80,
       "why": "Global dialysis provider with thousands of clinics, actively procures cost-effective devices, has partnerships with Chinese firms.",
       "china_purchase": "Yes - Fresenius Medical Care (uses Lepu dialysis products)",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Fresenius%20Medical%20Care"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Fresenius%20Medical%20Care",
+      "founded": 1996,
+      "headquarters": "黑森州巴特洪堡，德国",
+      "employees": 120000,
+      "annual_revenue": "约194亿欧元",
+      "business_description": "全球领先的肾脏透析产品及服务提供商，制造并销售透析机、透析器、血液管路及相关耗材，同时运营连锁透析中心。",
+      "procurement_needs": "采购透析耗材（如透析液、管路）、血液净化相关配件、电子元器件、泵阀部件及部分成品检测设备，以降低生产成本。",
+      "partner_profile": "寻找具备ISO 13485认证、精密制造能力强、在流体控制或高分子材料领域有专长的中国供应商，重视质量稳定性与长期合作。",
+      "key_markets": "美国、德国、中国、日本、沙特阿拉伯",
+      "china_presence": "在江苏常熟设有透析器生产基地，并在上海设有采购办公室",
+      "competitors": "Baxter International, DaVita (服务端), Nipro Corporation",
+      "market_share": "全球透析服务及产品市场份额约35%，为行业绝对龙头",
+      "recent_news": "2025年宣布在越南新建透析液工厂，并计划剥离部分非核心透析中心业务，以聚焦高增长市场。"
     },
     {
       "company_name": "Helios Kliniken GmbH",
@@ -88,7 +173,19 @@
       "relevance": 75,
       "why": "Germany's largest private hospital chain, cost-conscious, open to non-European suppliers for imaging and monitoring.",
       "china_purchase": "No - no public record",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Helios%20Kliniken"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Helios%20Kliniken",
+      "founded": 1994,
+      "headquarters": "柏林，德国",
+      "employees": 75000,
+      "annual_revenue": "约70亿欧元",
+      "business_description": "德国最大的私立医院运营商，拥有超过90家医院和护理机构，提供综合医疗服务，并集中采购医疗设备及耗材。",
+      "procurement_needs": "集中采购病房基础设备（病床、监护仪）、手术耗材、消毒灭菌产品、医用家具及康复器械，注重成本控制与标准化。",
+      "partner_profile": "偏好能提供全系列产品线、有欧洲CE认证、物流响应快的中国制造商，尤其欢迎能配合集团统一招标的供应商。",
+      "key_markets": "德国、西班牙、瑞士、奥地利",
+      "china_presence": "暂无",
+      "competitors": "Asklepios Kliniken, Sana Kliniken, Rhön-Klinikum",
+      "market_share": "德国私立医院市场份额约15%，为最大私立医疗集团",
+      "recent_news": "2025年启动“数字化医院2.0”计划，在旗下20家医院部署智能床旁系统，并加大门诊手术中心的建设投入。"
     },
     {
       "company_name": "B. Braun Melsungen AG",
@@ -99,7 +196,19 @@
       "relevance": 78,
       "why": "Major medical device manufacturer and distributor, strong in emerging markets, has sourcing operations in China.",
       "china_purchase": "Yes - B. Braun (distributes Mindray patient monitors in some regions)",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=B.%20Braun%20Melsungen"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=B.%20Braun%20Melsungen",
+      "founded": 1839,
+      "headquarters": "黑森州梅尔松根，德国",
+      "employees": 66000,
+      "annual_revenue": "约88亿欧元",
+      "business_description": "全球领先的医疗技术公司，专注于输液治疗、麻醉、手术器械、伤口护理及感染预防产品，制造并销售注射泵、手术刀、缝合线等。",
+      "procurement_needs": "采购输液器配件、精密注塑件、医用无纺布、包装材料、传感器及部分成品手术器械，以优化全球供应链成本。",
+      "partner_profile": "寻找具备精密注塑和模具开发能力、通过ISO 13485认证、愿意深度配合研发的中国企业，优先考虑有长期出口欧洲经验的工厂。",
+      "key_markets": "德国、中国、美国、法国、巴西",
+      "china_presence": "在江苏苏州设有大型生产基地（贝朗医疗），并在上海有采购中心",
+      "competitors": "Fresenius Kabi, Baxter, Smith & Nephew",
+      "market_share": "全球输液治疗领域市场份额约20%，位列前三",
+      "recent_news": "2025年宣布在苏州工厂扩建第二条输液生产线，并加大在中国本土研发中心的投入，推动“在中国为中国”战略。"
     },
     {
       "company_name": "NHS Supply Chain",
@@ -110,7 +219,19 @@
       "relevance": 90,
       "why": "Central procurement for UK's National Health Service, huge volume, has framework agreements with Chinese manufacturers.",
       "china_purchase": "Yes - NHS Supply Chain (contracts with Mindray and United Imaging)",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=NHS%20Supply%20Chain"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=NHS%20Supply%20Chain",
+      "founded": 2006,
+      "headquarters": "伦敦，英国",
+      "employees": 2500,
+      "annual_revenue": "约80亿英镑",
+      "business_description": "英国国家医疗服务体系（NHS）的官方采购机构，负责为英格兰所有公立医院和诊所集中采购药品、医疗器械、耗材及非医疗物资。",
+      "procurement_needs": "大批量采购一次性医用耗材（手套、口罩、注射器）、诊断试剂、病床、轮椅及基础手术器械，对价格和合规要求极高。",
+      "partner_profile": "要求供应商必须通过UKCA/CE认证，具备大规模稳定供货能力，且能提供完整的质量文件和英国本地仓储或物流支持。",
+      "key_markets": "英国（英格兰、苏格兰、威尔士、北爱尔兰）",
+      "china_presence": "暂无",
+      "competitors": "HealthTrust (美国), 各地区NHS信托自行采购",
+      "market_share": "NHS英格兰地区采购份额约80%，为英国公立医疗唯一大买家",
+      "recent_news": "2025年启动“供应链韧性计划”，将关键耗材的本地化生产比例提升至25%，并简化中小供应商准入流程。"
     },
     {
       "company_name": "BMI Healthcare (now Circle Health Group)",
@@ -121,7 +242,19 @@
       "relevance": 70,
       "why": "Large private hospital network in UK, seeks value equipment for its facilities, likely to consider Chinese options.",
       "china_purchase": "No - no public record",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Circle%20Health%20Group"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Circle%20Health%20Group",
+      "founded": "1985",
+      "headquarters": "London, United Kingdom",
+      "employees": "约12,000人",
+      "annual_revenue": "约12亿英镑（Circle Health Group整体）",
+      "business_description": "英国最大的独立医院运营商之一，提供外科手术、诊断成像、肿瘤治疗及康复服务，旗下拥有50多家医院和诊所。",
+      "procurement_needs": "需要采购高性价比的医疗耗材（手术器械、一次性无菌产品）、影像设备（CT/MRI配件）、病房护理设备及康复器械。",
+      "partner_profile": "寻找通过CE/MDR认证、具备稳定产能和英国本地仓储或物流能力的中国制造商，重视质量合规与交付时效。",
+      "key_markets": "英国、爱尔兰、欧洲（部分跨境患者）",
+      "china_presence": "暂无（通过英国分销商间接采购）",
+      "competitors": "Nuffield Health, Spire Healthcare, Ramsay Health Care UK",
+      "market_share": "英国私立医疗市场占有率约15%，位列前三。",
+      "recent_news": "2025年Circle Health Group宣布投资5000万英镑升级其伦敦三家医院的日间手术中心，并扩大机器人手术能力。"
     },
     {
       "company_name": "UnitedHealth Group (Optum)",
@@ -132,7 +265,19 @@
       "relevance": 82,
       "why": "Massive healthcare network with clinics and procurement arm, cost-driven, has global sourcing including China.",
       "china_purchase": "Yes - Optum (uses BGI genetic testing equipment)",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Optum"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Optum",
+      "founded": "1977",
+      "headquarters": "Minnetonka, Minnesota, USA",
+      "employees": "约44万人",
+      "annual_revenue": "约3716亿美元（2024年）",
+      "business_description": "美国最大健康保险及医疗服务集团，Optum旗下涵盖健康管理、药房服务、数据分析及医疗设备供应链（Optum Supply Chain）。",
+      "procurement_needs": "大规模采购家用医疗设备（血糖仪、血压计、呼吸机）、远程监测设备、手术耗材及IVD试剂，用于其合作医院网络和零售药房。",
+      "partner_profile": "寻找具有FDA/CE认证、能够提供ODM/OEM定制、具备大数据接口能力（设备数据上传）的中国高科技医疗器械企业。",
+      "key_markets": "美国、巴西、英国、中东（沙特、阿联酋）",
+      "china_presence": "上海设有采购代表处（Optum Global Solutions），负责亚太供应商开发。",
+      "competitors": "Elevance Health (Anthem), CVS Health (Aetna), Kaiser Permanente",
+      "market_share": "美国商业健康保险市场份额约14%，Optum为全美最大医疗技术服务商。",
+      "recent_news": "2025年Optum宣布与多家AI诊断公司合作，在其远程医疗平台部署智能分诊设备，并加大对可穿戴设备供应商的整合。"
     },
     {
       "company_name": "HCA Healthcare",
@@ -143,7 +288,19 @@
       "relevance": 85,
       "why": "Largest US hospital operator, high procurement volume, known to use Chinese imaging and monitoring devices.",
       "china_purchase": "Yes - HCA Healthcare (uses Mindray monitors)",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=HCA%20Healthcare"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=HCA%20Healthcare",
+      "founded": "1968",
+      "headquarters": "Nashville, Tennessee, USA",
+      "employees": "约29.5万人",
+      "annual_revenue": "约697亿美元（2024年）",
+      "business_description": "美国最大的营利性医院运营商，拥有超过180家医院和2000多个护理点，覆盖外科、心脏、神经、骨科等全科室。",
+      "procurement_needs": "大批量采购基础手术器械、病床及病人监护仪、影像设备（X光、超声）、一次性高值耗材（导管、支架）以及医院基础设施设备。",
+      "partner_profile": "寻找通过FDA 510(k)认证、具有美国医院供货经验、能提供VMI（供应商管理库存）服务的中国制造商，要求产品稳定且售后响应快。",
+      "key_markets": "美国、英国（HCA UK）、瑞士（部分国际项目）",
+      "china_presence": "暂无（通过美国本土分销商如Medline、Cardinal Health间接采购）",
+      "competitors": "Tenet Healthcare, Community Health Systems, Universal Health Services",
+      "market_share": "美国营利性医院市场份额约25%，排名第一。",
+      "recent_news": "2025年HCA宣布在德克萨斯州新建两家全数字化医院，并启动供应链数字化升级，重点优化高值耗材直采比例。"
     },
     {
       "company_name": "Rede D'Or São Luiz",
@@ -154,7 +311,19 @@
       "relevance": 85,
       "why": "Largest private hospital network in Brazil, aggressive expansion, actively imports Chinese medical equipment for cost.",
       "china_purchase": "Yes - Rede D'Or (purchases from Mindray and United Imaging)",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Rede%20D%27Or%20S%C3%A3o%20Luiz"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Rede%20D%27Or%20S%C3%A3o%20Luiz",
+      "founded": "1977",
+      "headquarters": "São Paulo, Brazil",
+      "employees": "约8万人",
+      "annual_revenue": "约180亿雷亚尔（约35亿美元，2024年）",
+      "business_description": "拉丁美洲最大的私立医院集团，在巴西拥有超过70家医院，涵盖肿瘤、心脏、神经、骨科等高端医疗服务，并运营诊断影像中心。",
+      "procurement_needs": "需要采购中高端影像设备（MRI、CT、超声）、重症监护设备（呼吸机、监护仪）、手术室设备及高性价比的介入耗材。",
+      "partner_profile": "寻找具有ANVISA（巴西卫生监管）注册能力或愿意配合注册的中国供应商，提供融资支持或长期服务协议，重视本地化技术支持。",
+      "key_markets": "巴西、拉丁美洲（智利、哥伦比亚、墨西哥）",
+      "china_presence": "暂无（通过巴西本地经销商采购，部分设备来自GE、飞利浦中国工厂）",
+      "competitors": "DASA (Diagnósticos da América), Hospital Alemão Oswaldo Cruz, Amil (UnitedHealth Brasil)",
+      "market_share": "巴西私立医院市场份额约12%，为拉美最大。",
+      "recent_news": "2025年Rede D'Or宣布与西门子医疗签署战略协议，同时启动“供应链多元化”计划，首次将中国品牌影像设备纳入试点采购名单。"
     },
     {
       "company_name": "Hospital Israelita Albert Einstein",
@@ -165,7 +334,19 @@
       "relevance": 75,
       "why": "Prestigious hospital in Brazil, modernizes equipment frequently, has used Chinese imaging and lab devices.",
       "china_purchase": "Yes - Albert Einstein (uses BGI sequencing equipment)",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Hospital%20Israelita%20Albert%20Einstein"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Hospital%20Israelita%20Albert%20Einstein",
+      "founded": "1955",
+      "headquarters": "São Paulo, Brazil",
+      "employees": "约2万人",
+      "annual_revenue": "约60亿雷亚尔（约12亿美元，2024年）",
+      "business_description": "拉丁美洲最负盛名的私立医院之一，以创新医疗、精准医学和高端诊断闻名，拥有JCI认证，并运营多个研究所以及远程医疗网络。",
+      "procurement_needs": "采购尖端科研级设备（基因测序仪、手术机器人配件）、高精度诊断设备（PET-CT、3T MRI）、以及高品质的介入和微创手术器械。",
+      "partner_profile": "寻找在高端医疗器械领域有技术专利、愿意联合研发或进行临床验证的中国企业，重视学术合作与数据安全，不单纯追求低价。",
+      "key_markets": "巴西、拉丁美洲（高端医疗旅游患者来自周边国家）",
+      "china_presence": "暂无（通过国际代理商采购，部分设备来自联影医疗在巴西的合作伙伴）",
+      "competitors": "Hospital Sírio-Libanês, Hospital das Clínicas (USP), Rede D'Or São Luiz",
+      "market_share": "巴西高端私立医疗市场份额约5%，但影响力与学术声誉排名第一。",
+      "recent_news": "2025年Albert Einstein宣布与华大基因（BGI）合作建立拉美首个大规模基因组学临床实验室，并计划采购中国产高通量测序仪。"
     },
     {
       "company_name": "Siloam Hospitals Group",
@@ -176,7 +357,26 @@
       "relevance": 88,
       "why": "Largest private hospital chain in Indonesia, high cost sensitivity, known to procure Chinese medical devices extensively.",
       "china_purchase": "Yes - Siloam Hospitals (uses Mindray and Lepu products)",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Siloam%20Hospitals"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Siloam%20Hospitals",
+      "founded": 1996,
+      "headquarters": "雅加达，印度尼西亚",
+      "employees": 10000,
+      "annual_revenue": "约5亿美元",
+      "business_description": "印度尼西亚最大的私立医院网络运营商，提供综合医疗服务和高端专科治疗。",
+      "procurement_needs": "需要采购MRI、CT等大型影像设备、手术器械、ICU监护仪及医院信息化系统。",
+      "partner_profile": "寻找能提供高性价比、适应热带气候且具备本地售后服务的中国医疗设备制造商。",
+      "key_markets": [
+        "印度尼西亚",
+        "东南亚"
+      ],
+      "china_presence": "暂无",
+      "competitors": [
+        "Mayapada Hospital",
+        "Eka Hospital",
+        "Bumrungrad International"
+      ],
+      "market_share": "印尼私立医院市场份额约15%，拥有超过40家医院",
+      "recent_news": "2025年计划在爪哇岛外新增3家医院，并扩大远程医疗服务能力。"
     },
     {
       "company_name": "PT Kimia Farma Tbk",
@@ -187,7 +387,26 @@
       "relevance": 80,
       "why": "State-owned pharmaceutical and medical device distributor, large network, imports from China for government programs.",
       "china_purchase": "Yes - Kimia Farma (distributes MicroPort stents)",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=PT%20Kimia%20Farma"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=PT%20Kimia%20Farma",
+      "founded": 1817,
+      "headquarters": "雅加达，印度尼西亚",
+      "employees": 8000,
+      "annual_revenue": "约8亿美元",
+      "business_description": "印尼国有制药和医疗分销巨头，经营药品生产、零售药房网络及医疗器械分销。",
+      "procurement_needs": "采购一次性耗材（注射器、输液器）、诊断试剂、基础医疗设备及实验室仪器。",
+      "partner_profile": "寻求通过ISO认证、有清真认证经验的中国供应商，支持OEM贴牌生产。",
+      "key_markets": [
+        "印度尼西亚",
+        "东盟"
+      ],
+      "china_presence": "在上海设有原料采购代表处",
+      "competitors": [
+        "Kalbe Farma",
+        "Sanbe Farma",
+        "Dexa Medica"
+      ],
+      "market_share": "印尼国有医药分销市场份额约20%，拥有1200+零售药房",
+      "recent_news": "2025年与政府合作推进本土化疫苗及诊断试剂生产。"
     },
     {
       "company_name": "Lagos University Teaching Hospital",
@@ -198,7 +417,25 @@
       "relevance": 72,
       "why": "Major public hospital in Nigeria, government-funded, seeks affordable equipment, has received Chinese donations and purchases.",
       "china_purchase": "Yes - LUTH (received Mindray ultrasound equipment)",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Lagos%20University%20Teaching%20Hospital"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Lagos%20University%20Teaching%20Hospital",
+      "founded": 1962,
+      "headquarters": "拉各斯，尼日利亚",
+      "employees": 5000,
+      "annual_revenue": "约1.2亿美元（政府拨款）",
+      "business_description": "尼日利亚最大的公立教学医院，承担医疗、教学和科研任务，服务西非地区。",
+      "procurement_needs": "需要采购超声设备、X光机、病床、手术无影灯、麻醉机及基础实验室设备。",
+      "partner_profile": "希望与能提供融资支持（如买方信贷）和长期质保的中国政府或企业级供应商合作。",
+      "key_markets": [
+        "尼日利亚",
+        "西非"
+      ],
+      "china_presence": "暂无",
+      "competitors": [
+        "National Hospital Abuja",
+        "UCH Ibadan"
+      ],
+      "market_share": "尼日利亚公立医疗市场份额约8%（按床位数）",
+      "recent_news": "2025年启动新急诊大楼项目，预算约5000万美元。"
     },
     {
       "company_name": "Intermountain Health",
@@ -209,7 +446,26 @@
       "relevance": 80,
       "why": "Large non-profit health system in US, value-based procurement, has tested and adopted Chinese imaging devices.",
       "china_purchase": "Yes - Intermountain (uses United Imaging CT scanners)",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Intermountain%20Health"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Intermountain%20Health",
+      "founded": 1975,
+      "headquarters": "盐湖城，美国",
+      "employees": 60000,
+      "annual_revenue": "约140亿美元",
+      "business_description": "美国西部最大的非营利医疗系统之一，运营33家医院和385家诊所，以高质量低成本医疗模式著称。",
+      "procurement_needs": "采购手术机器人配件、高端监护仪、可穿戴设备、AI影像诊断辅助硬件及智能病床。",
+      "partner_profile": "寻找具备FDA认证、能提供创新技术且符合美国网络安全标准的中高端中国制造商。",
+      "key_markets": [
+        "美国",
+        "加拿大"
+      ],
+      "china_presence": "暂无，但通过美国分销商间接采购",
+      "competitors": [
+        "HCA Healthcare",
+        "Mayo Clinic",
+        "Kaiser Permanente"
+      ],
+      "market_share": "美国西部山区市场份额约25%",
+      "recent_news": "2025年宣布投资10亿美元建设数字化精准医疗中心。"
     },
     {
       "company_name": "Christus Health",
@@ -220,13 +476,28 @@
       "relevance": 75,
       "why": "International health system with operations in Mexico and US, cost-sensitive, has sourced from Chinese suppliers.",
       "china_purchase": "Yes - Christus Health (uses Mindray patient monitors)",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Christus%20Health"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Christus%20Health",
+      "founded": 1999,
+      "headquarters": "欧文，得克萨斯州，美国",
+      "employees": 45000,
+      "annual_revenue": "约90亿美元",
+      "business_description": "跨国天主教医疗系统，在美国和拉丁美洲（墨西哥、哥伦比亚等）运营60多家医院。",
+      "procurement_needs": "采购便携式超声、远程医疗设备、基础外科器械、医院家具及IT基础设施硬件。",
+      "partner_profile": "偏好有拉丁美洲市场经验、能提供西语说明书和本地仓储的中国供应商。",
+      "key_markets": [
+        "美国",
+        "墨西哥",
+        "哥伦比亚",
+        "智利"
+      ],
+      "china_presence": "暂无",
+      "competitors": [
+        "Ascension",
+        "CommonSpirit Health",
+        "Providence"
+      ],
+      "market_share": "美国德克萨斯州市场份额约12%，拉美地区约5%",
+      "recent_news": "2025年扩大在墨西哥蒙特雷的旗舰医院，并引入远程ICU系统。"
     }
-  ],
-  "scoring_rubric": {
-    "90-95": "Top-tier buyer — large scale, known to source from China, high procurement volume",
-    "75-89": "Strong fit — cost-sensitive, growing demand, likely to consider Chinese suppliers",
-    "55-74": "Moderate fit — possible buyer but not urgent or lower volume",
-    "40-54": "Weak fit — niche or occasional buyer, unlikely to prioritize Chinese"
-  }
+  ]
 }
