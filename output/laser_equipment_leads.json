@@ -1,0 +1,232 @@
+{
+  "industry": "Laser Equipment",
+  "generated_at": "2026-07-31T11:01:20Z",
+  "leads": [
+    {
+      "company_name": "Mayville Engineering Company, Inc.",
+      "website": "https://www.mayville.com",
+      "buyer_type": "Sheet metal fabrication shops",
+      "country": "United States",
+      "size": "Medium (100-1000)",
+      "relevance": 88,
+      "why": "Large-scale contract fabricator with multiple US facilities, cost-sensitive and actively modernizing laser cutting capacity.",
+      "china_purchase": "No - no public record",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Mayville%20Engineering%20Company"
+    },
+    {
+      "company_name": "O'Neal Manufacturing Services",
+      "website": "https://www.onealmanufacturing.com",
+      "buyer_type": "Sheet metal fabrication shops",
+      "country": "United States",
+      "size": "Enterprise (>1000)",
+      "relevance": 92,
+      "why": "Major metal fabricator with 20+ locations, known for high-volume laser cutting and aggressive cost optimization.",
+      "china_purchase": "No - no public record",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=O%27Neal%20Manufacturing%20Services"
+    },
+    {
+      "company_name": "TRUMPF Werkzeugmaschinen SE + Co. KG",
+      "website": "https://www.trumpf.com",
+      "buyer_type": "Industrial equipment distributors",
+      "country": "Germany",
+      "size": "Enterprise (>1000)",
+      "relevance": 45,
+      "why": "German laser giant, unlikely to buy Chinese machines but could distribute or partner for low-end models.",
+      "china_purchase": "No - no public record",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=TRUMPF%20Werkzeugmaschinen"
+    },
+    {
+      "company_name": "thyssenkrupp Materials Processing Europe",
+      "website": "https://www.thyssenkrupp-materials-processing.com",
+      "buyer_type": "Sheet metal fabrication shops",
+      "country": "Germany",
+      "size": "Enterprise (>1000)",
+      "relevance": 80,
+      "why": "Large steel service center with laser cutting operations, always seeking cost-effective equipment for high-volume processing.",
+      "china_purchase": "No - no public record",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=thyssenkrupp%20Materials%20Processing"
+    },
+    {
+      "company_name": "Amada Co., Ltd.",
+      "website": "https://www.amada.com",
+      "buyer_type": "Industrial equipment distributors",
+      "country": "Japan",
+      "size": "Enterprise (>1000)",
+      "relevance": 40,
+      "why": "Japanese laser manufacturer, could source components or entry-level machines from China for emerging markets.",
+      "china_purchase": "No - no public record",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Amada%20Co%20Ltd"
+    },
+    {
+      "company_name": "Mazak Corporation (Yamazaki Mazak)",
+      "website": "https://www.mazak.com",
+      "buyer_type": "Automotive parts manufacturers",
+      "country": "Japan",
+      "size": "Enterprise (>1000)",
+      "relevance": 55,
+      "why": "Machine tool builder with laser products, may buy Chinese laser sources for cost-competitive models.",
+      "china_purchase": "No - no public record",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Mazak%20Corporation"
+    },
+    {
+      "company_name": "BLM Group",
+      "website": "https://www.blmgroup.com",
+      "buyer_type": "Sheet metal fabrication shops",
+      "country": "Italy",
+      "size": "Medium (100-1000)",
+      "relevance": 70,
+      "why": "Italian tube laser specialist, could integrate Chinese laser sources for cost-effective tube cutting systems.",
+      "china_purchase": "No - no public record",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=BLM%20Group"
+    },
+    {
+      "company_name": "Salvagnini Italia S.p.A.",
+      "website": "https://www.salvagnini.com",
+      "buyer_type": "Sheet metal fabrication shops",
+      "country": "Italy",
+      "size": "Enterprise (>1000)",
+      "relevance": 50,
+      "why": "Italian sheet metal machinery maker, may use Chinese lasers in lower-tier product lines.",
+      "china_purchase": "No - no public record",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Salvagnini%20Italia"
+    },
+    {
+      "company_name": "Metallurgical Corporation of America (Metco)",
+      "website": "https://www.metco.com",
+      "buyer_type": "Job shops & contract manufacturers",
+      "country": "United States",
+      "size": "Small (<100)",
+      "relevance": 60,
+      "why": "US job shop with laser cutting services, likely to consider Chinese machines for cost savings.",
+      "china_purchase": "No - no public record",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Metallurgical%20Corporation%20of%20America"
+    },
+    {
+      "company_name": "Laserage Technology Corporation",
+      "website": "https://www.laserage.com",
+      "buyer_type": "Job shops & contract manufacturers",
+      "country": "United States",
+      "size": "Small (<100)",
+      "relevance": 65,
+      "why": "Specialized laser job shop, could add Chinese marking/welding equipment for high-mix low-volume work.",
+      "china_purchase": "No - no public record",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Laserage%20Technology%20Corporation"
+    },
+    {
+      "company_name": "Signs & Blanks, Inc.",
+      "website": "https://www.signsandblanks.com",
+      "buyer_type": "Signage & metal product companies",
+      "country": "United States",
+      "size": "Small (<100)",
+      "relevance": 70,
+      "why": "Signage manufacturer using laser cutting for metal letters, typical buyer of entry-level Chinese fiber lasers.",
+      "china_purchase": "No - no public record",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Signs%20%26%20Blanks"
+    },
+    {
+      "company_name": "Mayer Tool & Manufacturing, Inc.",
+      "website": "https://www.mayertool.com",
+      "buyer_type": "Job shops & contract manufacturers",
+      "country": "United States",
+      "size": "Small (<100)",
+      "relevance": 55,
+      "why": "Small contract manufacturer, could invest in Chinese laser marking for part traceability.",
+      "china_purchase": "No - no public record",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Mayer%20Tool%20%26%20Manufacturing"
+    },
+    {
+      "company_name": "Dürr Systems AG",
+      "website": "https://www.durr.com",
+      "buyer_type": "Automotive parts manufacturers",
+      "country": "Germany",
+      "size": "Enterprise (>1000)",
+      "relevance": 75,
+      "why": "Automotive paint and assembly systems, uses laser welding for body components, cost-sensitive for high-volume lines.",
+      "china_purchase": "No - no public record",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=D%C3%BCrr%20Systems%20AG"
+    },
+    {
+      "company_name": "Gestamp Automoción, S.A.",
+      "website": "https://www.gestamp.com",
+      "buyer_type": "Automotive parts manufacturers",
+      "country": "Spain (operations in Mexico)",
+      "size": "Enterprise (>1000)",
+      "relevance": 85,
+      "why": "Global automotive stamping and welding supplier with plants in Mexico, high-volume laser welding needs, actively sourcing low-cost equipment.",
+      "china_purchase": "No - no public record",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Gestamp%20Automocion"
+    },
+    {
+      "company_name": "Nemak, S.A.B. de C.V.",
+      "website": "https://www.nemak.com",
+      "buyer_type": "Automotive parts manufacturers",
+      "country": "Mexico",
+      "size": "Enterprise (>1000)",
+      "relevance": 82,
+      "why": "Mexican aluminum auto parts maker, uses laser cutting/welding for engine components, cost-driven buyer.",
+      "china_purchase": "No - no public record",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Nemak"
+    },
+    {
+      "company_name": "Metalsa, S.A. de C.V.",
+      "website": "https://www.metalsa.com",
+      "buyer_type": "Automotive parts manufacturers",
+      "country": "Mexico",
+      "size": "Enterprise (>1000)",
+      "relevance": 78,
+      "why": "Mexican chassis frame manufacturer, heavy laser cutting for structural steel, open to Chinese equipment for cost reduction.",
+      "china_purchase": "No - no public record",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Metalsa"
+    },
+    {
+      "company_name": "Borusan Mannesmann Boru Sanayi ve Ticaret A.Ş.",
+      "website": "https://www.borusanmannesmann.com",
+      "buyer_type": "Sheet metal fabrication shops",
+      "country": "Turkey",
+      "size": "Enterprise (>1000)",
+      "relevance": 80,
+      "why": "Turkish steel pipe manufacturer, uses laser cutting for pipe processing, known to import cost-effective machinery from Asia.",
+      "china_purchase": "No - no public record",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Borusan%20Mannesmann"
+    },
+    {
+      "company_name": "Çolakoğlu Metalurji A.Ş.",
+      "website": "https://www.colakoglu.com",
+      "buyer_type": "Sheet metal fabrication shops",
+      "country": "Turkey",
+      "size": "Enterprise (>1000)",
+      "relevance": 75,
+      "why": "Turkish steel producer with coil processing and laser cutting lines, likely to trial Chinese lasers for secondary operations.",
+      "china_purchase": "No - no public record",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=%C3%87olako%C4%9Flu%20Metalurji"
+    },
+    {
+      "company_name": "Türk Traktör ve Ziraat Makineleri A.Ş.",
+      "website": "https://www.turktraktor.com.tr",
+      "buyer_type": "Automotive parts manufacturers",
+      "country": "Turkey",
+      "size": "Enterprise (>1000)",
+      "relevance": 72,
+      "why": "Turkish tractor manufacturer, uses laser cutting for sheet metal parts, cost-sensitive and expanding capacity.",
+      "china_purchase": "No - no public record",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=T%C3%BCrk%20Trakt%C3%B6r"
+    },
+    {
+      "company_name": "Laser Process (UK) Ltd",
+      "website": "https://www.laserprocess.co.uk",
+      "buyer_type": "Job shops & contract manufacturers",
+      "country": "United Kingdom",
+      "size": "Small (<100)",
+      "relevance": 65,
+      "why": "UK laser job shop offering cutting/welding, could upgrade with Chinese fiber lasers for cost advantage.",
+      "china_purchase": "No - no public record",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Laser%20Process%20UK"
+    }
+  ],
+  "scoring_rubric": {
+    "90-95": "Top-tier buyer — large scale, known to source from China, high procurement volume",
+    "75-89": "Strong fit — cost-sensitive, growing demand, likely to consider Chinese suppliers",
+    "55-74": "Moderate fit — possible buyer but not urgent or lower volume",
+    "40-54": "Weak fit — niche or occasional buyer, unlikely to prioritize Chinese"
+  }
+}
