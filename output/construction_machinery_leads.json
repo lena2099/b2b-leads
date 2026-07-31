@@ -1,0 +1,232 @@
+{
+  "industry": "Construction & Agricultural Machinery",
+  "generated_at": "2026-07-31T11:19:13Z",
+  "leads": [
+    {
+      "company_name": "PT PP (Persero) Tbk",
+      "website": "https://www.ptpp.co.id",
+      "buyer_type": "Construction companies & contractors",
+      "country": "Indonesia",
+      "size": "Enterprise (>1000)",
+      "relevance": 85,
+      "why": "State-owned construction giant with massive infrastructure projects across Indonesia, highly price-sensitive and open to Chinese equipment.",
+      "china_purchase": "Yes - SANY",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=PT%20PP%20Persero%20Tbk"
+    },
+    {
+      "company_name": "Larsen & Toubro Limited",
+      "website": "https://www.larsentoubro.com",
+      "buyer_type": "Construction companies & contractors",
+      "country": "India",
+      "size": "Enterprise (>1000)",
+      "relevance": 90,
+      "why": "India's largest EPC contractor, actively procures heavy machinery for mega projects and has used Chinese cranes and excavators.",
+      "china_purchase": "Yes - SANY, XCMG",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Larsen%20%26%20Toubro%20Limited"
+    },
+    {
+      "company_name": "Construtora Norberto Odebrecht (Novonor)",
+      "website": "https://www.novonor.com",
+      "buyer_type": "Construction companies & contractors",
+      "country": "Brazil",
+      "size": "Enterprise (>1000)",
+      "relevance": 75,
+      "why": "Major Brazilian contractor with large infrastructure and industrial projects, cost-driven and has imported Chinese machinery.",
+      "china_purchase": "Yes - XCMG",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Novonor"
+    },
+    {
+      "company_name": "Saudi Binladin Group",
+      "website": "https://www.sbg.com.sa",
+      "buyer_type": "Construction companies & contractors",
+      "country": "Saudi Arabia",
+      "size": "Enterprise (>1000)",
+      "relevance": 80,
+      "why": "One of the largest construction firms in the Middle East, involved in mega projects like NEOM, with growing Chinese equipment fleet.",
+      "china_purchase": "Yes - SANY, Zoomlion",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Saudi%20Binladin%20Group"
+    },
+    {
+      "company_name": "Arabtec Holding PJSC",
+      "website": "https://www.arabtecholding.com",
+      "buyer_type": "Construction companies & contractors",
+      "country": "UAE",
+      "size": "Enterprise (>1000)",
+      "relevance": 70,
+      "why": "Prominent UAE contractor with regional projects, known to lease and buy Chinese equipment for cost efficiency.",
+      "china_purchase": "Yes - SANY",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Arabtec%20Holding"
+    },
+    {
+      "company_name": "Julius Berger Nigeria Plc",
+      "website": "https://www.julius-berger.com",
+      "buyer_type": "Construction companies & contractors",
+      "country": "Nigeria",
+      "size": "Enterprise (>1000)",
+      "relevance": 75,
+      "why": "Leading Nigerian construction firm, heavily involved in infrastructure, has used Chinese excavators and loaders.",
+      "china_purchase": "Yes - XCMG, LiuGong",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Julius%20Berger%20Nigeria"
+    },
+    {
+      "company_name": "PJSC Kamaz",
+      "website": "https://www.kamaz.ru",
+      "buyer_type": "Heavy equipment distributors/dealers",
+      "country": "Russia",
+      "size": "Enterprise (>1000)",
+      "relevance": 65,
+      "why": "Russian truck and machinery manufacturer, also distributes construction equipment, including Chinese brands.",
+      "china_purchase": "Yes - SANY",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=PJSC%20Kamaz"
+    },
+    {
+      "company_name": "Enka Insaat ve Sanayi A.S.",
+      "website": "https://www.enka.com",
+      "buyer_type": "Construction companies & contractors",
+      "country": "Turkey",
+      "size": "Enterprise (>1000)",
+      "relevance": 80,
+      "why": "Top Turkish international contractor, active in Russia and Middle East, has purchased Chinese cranes and excavators.",
+      "china_purchase": "Yes - Zoomlion, SANY",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Enka%20Insaat"
+    },
+    {
+      "company_name": "Coteccons Construction Joint Stock Company",
+      "website": "https://www.coteccons.vn",
+      "buyer_type": "Construction companies & contractors",
+      "country": "Vietnam",
+      "size": "Enterprise (>1000)",
+      "relevance": 70,
+      "why": "Vietnam's largest construction company, with high-rise and industrial projects, increasingly using Chinese equipment.",
+      "china_purchase": "Yes - SANY, XCMG",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Coteccons"
+    },
+    {
+      "company_name": "United Tractors Tbk",
+      "website": "https://www.unitedtractors.com",
+      "buyer_type": "Heavy equipment distributors/dealers",
+      "country": "Indonesia",
+      "size": "Enterprise (>1000)",
+      "relevance": 85,
+      "why": "Major Indonesian distributor of heavy equipment, also operates mining and construction services, has added Chinese brands.",
+      "china_purchase": "Yes - LiuGong",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=United%20Tractors"
+    },
+    {
+      "company_name": "JSW Group",
+      "website": "https://www.jsw.in",
+      "buyer_type": "Mining companies",
+      "country": "India",
+      "size": "Enterprise (>1000)",
+      "relevance": 80,
+      "why": "Large Indian conglomerate with steel and mining operations, uses heavy earthmoving equipment, including Chinese loaders.",
+      "china_purchase": "Yes - XCMG",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=JSW%20Group"
+    },
+    {
+      "company_name": "Vale S.A.",
+      "website": "https://www.vale.com",
+      "buyer_type": "Mining companies",
+      "country": "Brazil",
+      "size": "Enterprise (>1000)",
+      "relevance": 90,
+      "why": "Global mining giant with massive equipment needs, has tested and purchased Chinese mining trucks and excavators.",
+      "china_purchase": "Yes - SANY, XCMG",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Vale%20S.A."
+    },
+    {
+      "company_name": "Maaden (Saudi Arabian Mining Company)",
+      "website": "https://www.maaden.com.sa",
+      "buyer_type": "Mining companies",
+      "country": "Saudi Arabia",
+      "size": "Enterprise (>1000)",
+      "relevance": 75,
+      "why": "State-controlled mining company, expanding operations, price-sensitive and has used Chinese machinery in remote sites.",
+      "china_purchase": "Yes - SANY",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Maaden"
+    },
+    {
+      "company_name": "Al Jaber Group",
+      "website": "https://www.aljabergroup.com",
+      "buyer_type": "Construction companies & contractors",
+      "country": "UAE",
+      "size": "Enterprise (>1000)",
+      "relevance": 70,
+      "why": "Diversified UAE contractor with construction and oilfield services, has purchased Chinese cranes and loaders.",
+      "china_purchase": "Yes - Zoomlion",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Al%20Jaber%20Group"
+    },
+    {
+      "company_name": "Dangote Group",
+      "website": "https://www.dangote.com",
+      "buyer_type": "Mining companies",
+      "country": "Nigeria",
+      "size": "Enterprise (>1000)",
+      "relevance": 85,
+      "why": "Africa's largest conglomerate, with cement and mining operations, has a fleet of Chinese excavators and loaders.",
+      "china_purchase": "Yes - SANY, XCMG",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Dangote%20Group"
+    },
+    {
+      "company_name": "Rostec State Corporation",
+      "website": "https://rostec.ru",
+      "buyer_type": "Government infrastructure procurement",
+      "country": "Russia",
+      "size": "Enterprise (>1000)",
+      "relevance": 60,
+      "why": "Russian state conglomerate, indirectly procures heavy equipment for infrastructure, has partnered with Chinese firms.",
+      "china_purchase": "Yes - SANY",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Rostec"
+    },
+    {
+      "company_name": "Limak Holding",
+      "website": "https://www.limak.com.tr",
+      "buyer_type": "Construction companies & contractors",
+      "country": "Turkey",
+      "size": "Enterprise (>1000)",
+      "relevance": 75,
+      "why": "Major Turkish contractor with international projects, has used Chinese equipment in Africa and Middle East.",
+      "china_purchase": "Yes - XCMG",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Limak%20Holding"
+    },
+    {
+      "company_name": "Hoa Phat Group",
+      "website": "https://www.hoaphat.com.vn",
+      "buyer_type": "Mining companies",
+      "country": "Vietnam",
+      "size": "Enterprise (>1000)",
+      "relevance": 65,
+      "why": "Vietnam's largest steel producer, with mining and construction divisions, has imported Chinese heavy machinery.",
+      "china_purchase": "Yes - LiuGong",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Hoa%20Phat%20Group"
+    },
+    {
+      "company_name": "Adani Group",
+      "website": "https://www.adani.com",
+      "buyer_type": "Mining companies",
+      "country": "India",
+      "size": "Enterprise (>1000)",
+      "relevance": 85,
+      "why": "Indian conglomerate with massive coal mining and infrastructure, has purchased Chinese excavators and dozers.",
+      "china_purchase": "Yes - SANY, XCMG",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Adani%20Group"
+    },
+    {
+      "company_name": "Petrobras",
+      "website": "https://www.petrobras.com.br",
+      "buyer_type": "Oil & gas field service companies",
+      "country": "Brazil",
+      "size": "Enterprise (>1000)",
+      "relevance": 70,
+      "why": "Brazilian oil giant, uses heavy equipment for onshore and offshore operations, has tested Chinese cranes.",
+      "china_purchase": "Yes - Zoomlion",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Petrobras"
+    }
+  ],
+  "scoring_rubric": {
+    "90-95": "Top-tier buyer — large scale, known to source from China, high procurement volume",
+    "75-89": "Strong fit — cost-sensitive, growing demand, likely to consider Chinese suppliers",
+    "55-74": "Moderate fit — possible buyer but not urgent or lower volume",
+    "40-54": "Weak fit — niche or occasional buyer, unlikely to prioritize Chinese"
+  }
+}
