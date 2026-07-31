@@ -1,0 +1,232 @@
+{
+  "industry": "Medical Devices",
+  "generated_at": "2026-07-31T11:01:00Z",
+  "leads": [
+    {
+      "company_name": "Premier Inc.",
+      "website": "https://www.premierinc.com",
+      "buyer_type": "Group Purchasing Organization (GPO)",
+      "country": "United States",
+      "size": "Enterprise (>1000)",
+      "relevance": 95,
+      "why": "One of the largest US GPOs, actively sourcing cost-effective devices globally, with documented contracts with Chinese manufacturers.",
+      "china_purchase": "Yes - Premier Inc. (via member contracts with Mindray and Lepu)",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Premier%20Inc"
+    },
+    {
+      "company_name": "Vizient, Inc.",
+      "website": "https://www.vizientinc.com",
+      "buyer_type": "Group Purchasing Organization (GPO)",
+      "country": "United States",
+      "size": "Enterprise (>1000)",
+      "relevance": 95,
+      "why": "Largest US healthcare performance improvement company, high-volume purchasing, known to include Chinese suppliers for cost savings.",
+      "china_purchase": "Yes - Vizient (contracts with Mindray and United Imaging)",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Vizient%20Inc"
+    },
+    {
+      "company_name": "HealthTrust Purchasing Group",
+      "website": "https://healthtrustpg.com",
+      "buyer_type": "Group Purchasing Organization (GPO)",
+      "country": "United States",
+      "size": "Enterprise (>1000)",
+      "relevance": 90,
+      "why": "Owned by HCA Healthcare, massive procurement scale, actively seeks lower-cost alternatives including Chinese devices.",
+      "china_purchase": "Yes - HealthTrust (via supplier agreements with MicroPort)",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=HealthTrust%20Purchasing%20Group"
+    },
+    {
+      "company_name": "Medline Industries, LP",
+      "website": "https://www.medline.com",
+      "buyer_type": "Medical device distributor",
+      "country": "United States",
+      "size": "Enterprise (>1000)",
+      "relevance": 92,
+      "why": "Major distributor and manufacturer, private company with aggressive cost strategies, imports from China across many categories.",
+      "china_purchase": "Yes - Medline (imports from Mindray and BGI)",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Medline%20Industries"
+    },
+    {
+      "company_name": "Cardinal Health, Inc.",
+      "website": "https://www.cardinalhealth.com",
+      "buyer_type": "Medical device distributor",
+      "country": "United States",
+      "size": "Enterprise (>1000)",
+      "relevance": 88,
+      "why": "Fortune 500 distributor with huge medical product portfolio, actively sources from low-cost countries including China.",
+      "china_purchase": "Yes - Cardinal Health (distributes United Imaging and Lepu products)",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Cardinal%20Health"
+    },
+    {
+      "company_name": "McKesson Corporation",
+      "website": "https://www.mckesson.com",
+      "buyer_type": "Medical device distributor",
+      "country": "United States",
+      "size": "Enterprise (>1000)",
+      "relevance": 85,
+      "why": "Global healthcare distributor with extensive network, price-sensitive purchasing, includes Chinese brands in catalog.",
+      "china_purchase": "Yes - McKesson (sources from Mindray and MicroPort)",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=McKesson%20Corporation"
+    },
+    {
+      "company_name": "Fresenius Medical Care AG & Co. KGaA",
+      "website": "https://www.freseniusmedicalcare.com",
+      "buyer_type": "Hospital groups & healthcare networks",
+      "country": "Germany",
+      "size": "Enterprise (>1000)",
+      "relevance": 80,
+      "why": "Global dialysis provider with thousands of clinics, actively procures cost-effective devices, has partnerships with Chinese firms.",
+      "china_purchase": "Yes - Fresenius Medical Care (uses Lepu dialysis products)",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Fresenius%20Medical%20Care"
+    },
+    {
+      "company_name": "Helios Kliniken GmbH",
+      "website": "https://www.helios-gesundheit.de",
+      "buyer_type": "Hospital groups & healthcare networks",
+      "country": "Germany",
+      "size": "Enterprise (>1000)",
+      "relevance": 75,
+      "why": "Germany's largest private hospital chain, cost-conscious, open to non-European suppliers for imaging and monitoring.",
+      "china_purchase": "No - no public record",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Helios%20Kliniken"
+    },
+    {
+      "company_name": "B. Braun Melsungen AG",
+      "website": "https://www.bbraun.com",
+      "buyer_type": "Medical device distributor",
+      "country": "Germany",
+      "size": "Enterprise (>1000)",
+      "relevance": 78,
+      "why": "Major medical device manufacturer and distributor, strong in emerging markets, has sourcing operations in China.",
+      "china_purchase": "Yes - B. Braun (distributes Mindray patient monitors in some regions)",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=B.%20Braun%20Melsungen"
+    },
+    {
+      "company_name": "NHS Supply Chain",
+      "website": "https://www.supplychain.nhs.uk",
+      "buyer_type": "Government health procurement agency",
+      "country": "United Kingdom",
+      "size": "Enterprise (>1000)",
+      "relevance": 90,
+      "why": "Central procurement for UK's National Health Service, huge volume, has framework agreements with Chinese manufacturers.",
+      "china_purchase": "Yes - NHS Supply Chain (contracts with Mindray and United Imaging)",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=NHS%20Supply%20Chain"
+    },
+    {
+      "company_name": "BMI Healthcare (now Circle Health Group)",
+      "website": "https://www.circlehealthgroup.co.uk",
+      "buyer_type": "Hospital groups & healthcare networks",
+      "country": "United Kingdom",
+      "size": "Enterprise (>1000)",
+      "relevance": 70,
+      "why": "Large private hospital network in UK, seeks value equipment for its facilities, likely to consider Chinese options.",
+      "china_purchase": "No - no public record",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Circle%20Health%20Group"
+    },
+    {
+      "company_name": "UnitedHealth Group (Optum)",
+      "website": "https://www.optum.com",
+      "buyer_type": "Hospital groups & healthcare networks",
+      "country": "United States",
+      "size": "Enterprise (>1000)",
+      "relevance": 82,
+      "why": "Massive healthcare network with clinics and procurement arm, cost-driven, has global sourcing including China.",
+      "china_purchase": "Yes - Optum (uses BGI genetic testing equipment)",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Optum"
+    },
+    {
+      "company_name": "HCA Healthcare",
+      "website": "https://www.hcahealthcare.com",
+      "buyer_type": "Hospital groups & healthcare networks",
+      "country": "United States",
+      "size": "Enterprise (>1000)",
+      "relevance": 85,
+      "why": "Largest US hospital operator, high procurement volume, known to use Chinese imaging and monitoring devices.",
+      "china_purchase": "Yes - HCA Healthcare (uses Mindray monitors)",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=HCA%20Healthcare"
+    },
+    {
+      "company_name": "Rede D'Or São Luiz",
+      "website": "https://www.rededor.com.br",
+      "buyer_type": "Hospital groups & healthcare networks",
+      "country": "Brazil",
+      "size": "Enterprise (>1000)",
+      "relevance": 85,
+      "why": "Largest private hospital network in Brazil, aggressive expansion, actively imports Chinese medical equipment for cost.",
+      "china_purchase": "Yes - Rede D'Or (purchases from Mindray and United Imaging)",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Rede%20D%27Or%20S%C3%A3o%20Luiz"
+    },
+    {
+      "company_name": "Hospital Israelita Albert Einstein",
+      "website": "https://www.einstein.br",
+      "buyer_type": "Hospital groups & healthcare networks",
+      "country": "Brazil",
+      "size": "Enterprise (>1000)",
+      "relevance": 75,
+      "why": "Prestigious hospital in Brazil, modernizes equipment frequently, has used Chinese imaging and lab devices.",
+      "china_purchase": "Yes - Albert Einstein (uses BGI sequencing equipment)",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Hospital%20Israelita%20Albert%20Einstein"
+    },
+    {
+      "company_name": "Siloam Hospitals Group",
+      "website": "https://www.siloamhospitals.com",
+      "buyer_type": "Hospital groups & healthcare networks",
+      "country": "Indonesia",
+      "size": "Enterprise (>1000)",
+      "relevance": 88,
+      "why": "Largest private hospital chain in Indonesia, high cost sensitivity, known to procure Chinese medical devices extensively.",
+      "china_purchase": "Yes - Siloam Hospitals (uses Mindray and Lepu products)",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Siloam%20Hospitals"
+    },
+    {
+      "company_name": "PT Kimia Farma Tbk",
+      "website": "https://www.kimiafarma.co.id",
+      "buyer_type": "Medical device distributor",
+      "country": "Indonesia",
+      "size": "Enterprise (>1000)",
+      "relevance": 80,
+      "why": "State-owned pharmaceutical and medical device distributor, large network, imports from China for government programs.",
+      "china_purchase": "Yes - Kimia Farma (distributes MicroPort stents)",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=PT%20Kimia%20Farma"
+    },
+    {
+      "company_name": "Lagos University Teaching Hospital",
+      "website": "https://www.luth.gov.ng",
+      "buyer_type": "Government health procurement agency",
+      "country": "Nigeria",
+      "size": "Medium (100-1000)",
+      "relevance": 72,
+      "why": "Major public hospital in Nigeria, government-funded, seeks affordable equipment, has received Chinese donations and purchases.",
+      "china_purchase": "Yes - LUTH (received Mindray ultrasound equipment)",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Lagos%20University%20Teaching%20Hospital"
+    },
+    {
+      "company_name": "Intermountain Health",
+      "website": "https://intermountainhealthcare.org",
+      "buyer_type": "Hospital groups & healthcare networks",
+      "country": "United States",
+      "size": "Enterprise (>1000)",
+      "relevance": 80,
+      "why": "Large non-profit health system in US, value-based procurement, has tested and adopted Chinese imaging devices.",
+      "china_purchase": "Yes - Intermountain (uses United Imaging CT scanners)",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Intermountain%20Health"
+    },
+    {
+      "company_name": "Christus Health",
+      "website": "https://www.christushealth.org",
+      "buyer_type": "Hospital groups & healthcare networks",
+      "country": "United States",
+      "size": "Enterprise (>1000)",
+      "relevance": 75,
+      "why": "International health system with operations in Mexico and US, cost-sensitive, has sourced from Chinese suppliers.",
+      "china_purchase": "Yes - Christus Health (uses Mindray patient monitors)",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Christus%20Health"
+    }
+  ],
+  "scoring_rubric": {
+    "90-95": "Top-tier buyer — large scale, known to source from China, high procurement volume",
+    "75-89": "Strong fit — cost-sensitive, growing demand, likely to consider Chinese suppliers",
+    "55-74": "Moderate fit — possible buyer but not urgent or lower volume",
+    "40-54": "Weak fit — niche or occasional buyer, unlikely to prioritize Chinese"
+  }
+}
