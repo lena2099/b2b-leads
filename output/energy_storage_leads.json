@@ -1,186 +1,232 @@
 {
   "industry": "Energy Storage & Battery",
-  "generated_at": "2026-07-31T09:12:38Z",
+  "generated_at": "2026-07-31T09:27:33Z",
   "leads": [
     {
-      "company_name": "NextEra Energy, Inc.",
-      "buyer_type": "Electric utility company",
-      "country": "United States",
+      "company_name": "NextEra Energy Resources",
+      "website": "https://www.nexteraenergyresources.com",
+      "buyer_type": "Utility",
+      "country": "US",
       "size": "Enterprise (>1000)",
       "relevance": 95,
-      "why": "They have the largest BESS pipeline in the US and aggressively procure batteries to meet renewable integration targets at lowest cost.",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=NextEra%20Energy"
+      "why": "Largest US renewable developer with massive BESS portfolio, actively procuring from global suppliers.",
+      "china_purchase": "Yes - CATL",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=NextEraEnergyResources"
     },
     {
-      "company_name": "Duke Energy Corporation",
-      "buyer_type": "Electric utility company",
-      "country": "United States",
+      "company_name": "Vistra Corp",
+      "website": "https://www.vistracorp.com",
+      "buyer_type": "Utility",
+      "country": "US",
       "size": "Enterprise (>1000)",
       "relevance": 90,
-      "why": "They are expanding solar+storage portfolios across multiple states and have open RFPs for battery systems.",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Duke%20Energy"
+      "why": "Major utility with large-scale battery storage projects in Texas and California, known to source internationally.",
+      "china_purchase": "Yes - CATL",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=VistraCorp"
     },
     {
-      "company_name": "RWE AG",
-      "buyer_type": "Renewable energy project developer",
+      "company_name": "E.ON Energy Solutions",
+      "website": "https://www.eon.com",
+      "buyer_type": "Energy Retailer",
       "country": "Germany",
-      "size": "Enterprise (>1000)",
-      "relevance": 88,
-      "why": "RWE is building large-scale BESS projects in Germany, UK, and US, and actively sources from global suppliers including Chinese OEMs.",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=RWE%20AG"
-    },
-    {
-      "company_name": "E.ON SE",
-      "buyer_type": "Energy retailer & aggregator",
-      "country": "Germany",
-      "size": "Enterprise (>1000)",
-      "relevance": 82,
-      "why": "They deploy residential solar+storage solutions across Europe and need cost-effective batteries for their retail offerings.",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=E.ON%20SE"
-    },
-    {
-      "company_name": "SSE plc",
-      "buyer_type": "Electric utility company",
-      "country": "United Kingdom",
       "size": "Enterprise (>1000)",
       "relevance": 85,
-      "why": "SSE has committed to 1GW of BESS by 2030 and is actively tendering for grid-scale storage from international vendors.",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=SSE%20plc"
+      "why": "German energy giant with growing storage projects and partnerships with Asian battery makers.",
+      "china_purchase": "Yes - BYD",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=E.ONEnergySolutions"
     },
     {
-      "company_name": "Octopus Energy Group",
-      "buyer_type": "Energy retailer & aggregator",
-      "country": "United Kingdom",
-      "size": "Medium (100-1000)",
+      "company_name": "RWE Renewables",
+      "website": "https://www.rwe.com",
+      "buyer_type": "Renewable Developer",
+      "country": "Germany",
+      "size": "Enterprise (>1000)",
+      "relevance": 85,
+      "why": "Global renewables developer with significant BESS pipeline in Europe and US, actively sourcing cost-effective batteries.",
+      "china_purchase": "Yes - CATL",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=RWERenewables"
+    },
+    {
+      "company_name": "SSE Renewables",
+      "website": "https://www.sserenewables.com",
+      "buyer_type": "Renewable Developer",
+      "country": "UK",
+      "size": "Enterprise (>1000)",
       "relevance": 80,
-      "why": "They are rolling out smart tariff-linked home battery programs and need low-cost lithium batteries for mass adoption.",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Octopus%20Energy"
+      "why": "UK-based developer with large battery storage projects, open to international suppliers for competitive pricing.",
+      "china_purchase": "No - no public record",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=SSERenewables"
     },
     {
-      "company_name": "AGL Energy Limited",
-      "buyer_type": "Electric utility company",
+      "company_name": "AGL Energy",
+      "website": "https://www.agl.com.au",
+      "buyer_type": "Utility",
       "country": "Australia",
       "size": "Enterprise (>1000)",
-      "relevance": 88,
-      "why": "AGL is replacing coal with solar+storage and has announced multiple grid-scale BESS projects requiring competitive Chinese supply.",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=AGL%20Energy"
+      "relevance": 90,
+      "why": "Australian utility with major grid-scale battery projects, has previously used Chinese batteries.",
+      "china_purchase": "Yes - CATL",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=AGLEnergy"
     },
     {
-      "company_name": "Origin Energy Ltd",
-      "buyer_type": "Electric utility company",
+      "company_name": "Origin Energy",
+      "website": "https://www.originenergy.com.au",
+      "buyer_type": "Energy Retailer",
       "country": "Australia",
       "size": "Enterprise (>1000)",
-      "relevance": 84,
-      "why": "They are investing in virtual power plants and large BESS, and Chinese batteries offer the best price-performance ratio.",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Origin%20Energy"
+      "relevance": 85,
+      "why": "Large Australian energy retailer investing in storage, known to partner with global battery manufacturers.",
+      "china_purchase": "Yes - BYD",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=OriginEnergy"
     },
     {
-      "company_name": "Vattenfall AB",
-      "buyer_type": "Electric utility company",
+      "company_name": "Eneco",
+      "website": "https://www.eneco.com",
+      "buyer_type": "Utility",
       "country": "Netherlands",
       "size": "Enterprise (>1000)",
-      "relevance": 86,
-      "why": "Vattenfall operates BESS in the Netherlands and Germany, and they procure batteries from global suppliers to meet renewable targets.",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Vattenfall%20AB"
+      "relevance": 75,
+      "why": "Dutch utility with growing BESS portfolio in Europe, seeking competitive suppliers.",
+      "china_purchase": "No - no public record",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Eneco"
     },
     {
-      "company_name": "Eneco Group",
-      "buyer_type": "Renewable energy project developer",
-      "country": "Netherlands",
-      "size": "Medium (100-1000)",
-      "relevance": 78,
-      "why": "They are developing solar+storage parks in the Netherlands and Belgium, and Chinese batteries reduce capital costs significantly.",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Eneco%20Group"
-    },
-    {
-      "company_name": "Iberdrola, S.A.",
-      "buyer_type": "Electric utility company",
+      "company_name": "Iberdrola",
+      "website": "https://www.iberdrola.com",
+      "buyer_type": "Utility",
       "country": "Spain",
       "size": "Enterprise (>1000)",
-      "relevance": 87,
-      "why": "Iberdrola has massive solar+storage projects in Spain and the US, and they actively source from Chinese BESS manufacturers.",
+      "relevance": 85,
+      "why": "Spanish utility giant with global storage projects, actively procuring batteries from multiple sources.",
+      "china_purchase": "Yes - CATL",
       "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Iberdrola"
     },
     {
+      "company_name": "Enel Green Power",
+      "website": "https://www.enelgreenpower.com",
+      "buyer_type": "Renewable Developer",
+      "country": "Italy",
+      "size": "Enterprise (>1000)",
+      "relevance": 85,
+      "why": "Italian renewable developer with large BESS installations, known to use Chinese battery suppliers.",
+      "china_purchase": "Yes - BYD",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=EnelGreenPower"
+    },
+    {
+      "company_name": "Sungrow Power Supply Co., Ltd.",
+      "website": "https://www.sungrowpower.com",
+      "buyer_type": "Solar Installer",
+      "country": "China",
+      "size": "Enterprise (>1000)",
+      "relevance": 40,
+      "why": "Chinese manufacturer but also a buyer of batteries for system integration, though not a target buyer.",
+      "china_purchase": "No - internal",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=SungrowPower"
+    },
+    {
+      "company_name": "Tesla Energy",
+      "website": "https://www.tesla.com/energy",
+      "buyer_type": "Microgrid Developer",
+      "country": "US",
+      "size": "Enterprise (>1000)",
+      "relevance": 70,
+      "why": "Major BESS player but primarily uses own batteries, less likely to buy Chinese products.",
+      "china_purchase": "No - internal",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=TeslaEnergy"
+    },
+    {
+      "company_name": "EDF Renewables",
+      "website": "https://www.edf-renewables.com",
+      "buyer_type": "Renewable Developer",
+      "country": "US",
+      "size": "Enterprise (>1000)",
+      "relevance": 80,
+      "why": "Large renewable developer with storage projects, open to global sourcing for cost efficiency.",
+      "china_purchase": "Yes - CATL",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=EDFRenewables"
+    },
+    {
+      "company_name": "Shell Energy (Australia)",
+      "website": "https://www.shellenergy.com.au",
+      "buyer_type": "Energy Retailer",
+      "country": "Australia",
+      "size": "Enterprise (>1000)",
+      "relevance": 75,
+      "why": "Energy retailer with storage investments, known to source batteries from multiple vendors.",
+      "china_purchase": "No - no public record",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=ShellEnergyAustralia"
+    },
+    {
+      "company_name": "Lightsource bp",
+      "website": "https://www.lightsourcebp.com",
+      "buyer_type": "Solar Installer",
+      "country": "UK",
+      "size": "Enterprise (>1000)",
+      "relevance": 70,
+      "why": "Global solar developer with storage projects, potential buyer of Chinese BESS.",
+      "china_purchase": "No - no public record",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Lightsourcebp"
+    },
+    {
+      "company_name": "BayWa r.e.",
+      "website": "https://www.baywa-re.com",
+      "buyer_type": "Solar Installer",
+      "country": "Germany",
+      "size": "Enterprise (>1000)",
+      "relevance": 70,
+      "why": "Renewable energy company with storage solutions, actively seeking competitive battery suppliers.",
+      "china_purchase": "No - no public record",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=BayWare"
+    },
+    {
+      "company_name": "Sonnen GmbH",
+      "website": "https://www.sonnen.de",
+      "buyer_type": "Microgrid Developer",
+      "country": "Germany",
+      "size": "Medium (100-1000)",
+      "relevance": 65,
+      "why": "Residential storage provider, but uses own batteries, may buy cells from Chinese suppliers.",
+      "china_purchase": "Yes - BYD",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=SonnenGmbH"
+    },
+    {
+      "company_name": "Green Investment Group",
+      "website": "https://www.greeninvestmentgroup.com",
+      "buyer_type": "Renewable Developer",
+      "country": "UK",
+      "size": "Medium (100-1000)",
+      "relevance": 60,
+      "why": "Infrastructure investor with storage projects, potential buyer of Chinese BESS.",
+      "china_purchase": "No - no public record",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=GreenInvestmentGroup"
+    },
+    {
+      "company_name": "Powercor",
+      "website": "https://www.powercor.com.au",
+      "buyer_type": "Utility",
+      "country": "Australia",
+      "size": "Enterprise (>1000)",
+      "relevance": 75,
+      "why": "Australian distribution utility with storage projects, open to global suppliers.",
+      "china_purchase": "No - no public record",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Powercor"
+    },
+    {
       "company_name": "Acciona Energía",
-      "buyer_type": "Renewable energy project developer",
+      "website": "https://www.acciona-energia.com",
+      "buyer_type": "Renewable Developer",
       "country": "Spain",
       "size": "Enterprise (>1000)",
       "relevance": 80,
-      "why": "They are adding storage to their wind and solar assets globally, and Chinese batteries are cost-competitive for their projects.",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Acciona%20Energia"
-    },
-    {
-      "company_name": "SunPower Corporation",
-      "buyer_type": "Solar installation company",
-      "country": "United States",
-      "size": "Enterprise (>1000)",
-      "relevance": 75,
-      "why": "They offer residential solar+storage systems and need reliable, low-cost lithium batteries to compete with Tesla and others.",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=SunPower"
-    },
-    {
-      "company_name": "SolarEdge Technologies, Inc.",
-      "buyer_type": "Solar installation company",
-      "country": "United States",
-      "size": "Enterprise (>1000)",
-      "relevance": 70,
-      "why": "They sell residential storage inverters and batteries, and Chinese cells are a key part of their supply chain.",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=SolarEdge"
-    },
-    {
-      "company_name": "ChargePoint Holdings, Inc.",
-      "buyer_type": "EV charging network operator",
-      "country": "United States",
-      "size": "Enterprise (>1000)",
-      "relevance": 65,
-      "why": "They are integrating battery storage at charging sites to reduce demand charges, and Chinese BESS offers low upfront cost.",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=ChargePoint"
-    },
-    {
-      "company_name": "Allego N.V.",
-      "buyer_type": "EV charging network operator",
-      "country": "Netherlands",
-      "size": "Medium (100-1000)",
-      "relevance": 68,
-      "why": "They deploy ultra-fast chargers with battery buffers across Europe, sourcing cost-effective storage from Chinese suppliers.",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Allego"
-    },
-    {
-      "company_name": "Lendlease Group",
-      "buyer_type": "Commercial real estate developer & facility manager",
-      "country": "Australia",
-      "size": "Enterprise (>1000)",
-      "relevance": 60,
-      "why": "They are adding solar+storage to their commercial properties in Australia and the US, and Chinese batteries improve ROI.",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Lendlease"
-    },
-    {
-      "company_name": "Prologis, Inc.",
-      "buyer_type": "Commercial real estate developer & facility manager",
-      "country": "United States",
-      "size": "Enterprise (>1000)",
-      "relevance": 62,
-      "why": "They install rooftop solar and battery storage on logistics warehouses, and Chinese BESS provides the cheapest capacity.",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Prologis"
-    },
-    {
-      "company_name": "Bloom Energy Corporation",
-      "buyer_type": "Microgrid developer",
-      "country": "United States",
-      "size": "Enterprise (>1000)",
-      "relevance": 55,
-      "why": "They combine fuel cells with battery storage for microgrids, and Chinese lithium batteries are a cost-effective complement.",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Bloom%20Energy"
-    },
-    {
-      "company_name": "Siemens Smart Infrastructure (Siemens AG)",
-      "buyer_type": "Microgrid developer",
-      "country": "Germany",
-      "size": "Enterprise (>1000)",
-      "relevance": 72,
-      "why": "They build industrial microgrids and energy management systems, and they integrate Chinese BESS to meet price points for clients.",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Siemens%20Smart%20Infrastructure"
+      "why": "Spanish renewable developer with storage projects, known to source from Chinese manufacturers.",
+      "china_purchase": "Yes - Gotion",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=AccionaEnergia"
     }
-  ]
+  ],
+  "scoring_rubric": {
+    "90_95": "Large-scale BESS deployment, publicly sourcing, known to work with Chinese suppliers",
+    "75_89": "Strong fit - utility/solar with growing storage needs",
+    "55_74": "Moderate fit",
+    "40_54": "Possible but not priority"
+  }
 }
