@@ -1,6 +1,7 @@
 {
-  "industry": "Solar PV & Inverters",
-  "generated_at": "2026-07-31T11:00:40Z",
+  "industry": "光伏组件&逆变器",
+  "total": 20,
+  "updated": "2026-07-31T11:52:33.368578+00:00",
   "leads": [
     {
       "company_name": "NextEra Energy Resources, LLC",
@@ -11,7 +12,19 @@
       "relevance": 95,
       "why": "Largest US solar and wind generator, actively procures modules for massive utility-scale projects.",
       "china_purchase": "Yes - Jinko Solar",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=NextEraEnergyResources"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=NextEraEnergyResources",
+      "founded": 1985,
+      "headquarters": "朱诺海滩，美国佛罗里达州",
+      "employees": 15300,
+      "annual_revenue": "约210亿美元（集团）",
+      "business_description": "美国最大的可再生能源发电商之一，开发和运营风电、光伏及储能项目，向公用事业和企业客户销售清洁电力。",
+      "procurement_needs": "大规模采购高效光伏组件（双面、高功率）及大型集中式逆变器/储能变流器，用于其美国及拉美的大型地面电站项目。",
+      "partner_profile": "寻求具备大规模交付能力、财务稳健、有国际认证（UL/IEC）和长期质保的一线组件及逆变器制造商。",
+      "key_markets": "美国、加拿大、墨西哥、智利",
+      "china_presence": "暂无（通过新加坡或香港采购团队间接对接）",
+      "competitors": "杜克能源、Invenergy、Clearway Energy",
+      "market_share": "美国可再生能源发电装机量排名前三，光伏开发份额约8%",
+      "recent_news": "2025年宣布在德克萨斯州新增2.5GW光伏+储能项目，并加速退役煤电资产。"
     },
     {
       "company_name": "Sunrun Inc.",
@@ -22,7 +35,19 @@
       "relevance": 90,
       "why": "Largest US residential solar installer, high volume module and inverter purchases.",
       "china_purchase": "Yes - LONGi Solar",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Sunrun"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Sunrun",
+      "founded": 2007,
+      "headquarters": "旧金山，美国加利福尼亚州",
+      "employees": 3800,
+      "annual_revenue": "约23亿美元",
+      "business_description": "美国最大的住宅光伏租赁和PPA（购电协议）服务商，为家庭用户提供光伏系统安装、电池储能及智能能源管理服务。",
+      "procurement_needs": "采购高效单晶组件（400W+）、户用混合逆变器及低压户用储能电池，要求高性价比、快速交付和本地化技术支持。",
+      "partner_profile": "偏好有美国市场经验、具备CEC列名和良好售后服务的中国制造商，支持ODM定制品牌。",
+      "key_markets": "美国（加州、德州、佛州等）、波多黎各",
+      "china_presence": "暂无，但设有亚太采购办公室（上海）",
+      "competitors": "Titan Solar、Momentum Solar、SunPower（已重组）",
+      "market_share": "美国户用光伏市场份额约15%，排名第一",
+      "recent_news": "2025年推出与特斯拉Powerwall兼容的智能家庭能源管理系统，并扩展虚拟电厂业务。"
     },
     {
       "company_name": "E.ON Energy Projects SE",
@@ -33,7 +58,19 @@
       "relevance": 85,
       "why": "Major European utility developing large-scale solar farms, cost-sensitive procurement.",
       "china_purchase": "Yes - Trina Solar",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=E.ONEnergyProjects"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=E.ONEnergyProjects",
+      "founded": 2016,
+      "headquarters": "埃森，德国",
+      "employees": 1200,
+      "annual_revenue": "约15亿欧元",
+      "business_description": "德国能源巨头E.ON旗下的项目开发部门，专注于欧洲大型地面光伏电站、陆上风电及电池储能项目的开发、建设和运营。",
+      "procurement_needs": "采购欧洲市场认证（TÜV/CE）的高效光伏组件、集中式逆变器及箱变设备，要求符合欧盟碳足迹标准。",
+      "partner_profile": "寻找有欧洲项目业绩、能提供完整合规文件（EPD、供应链追溯）且具备融资支持能力的一线供应商。",
+      "key_markets": "德国、意大利、西班牙、法国、波兰",
+      "china_presence": "暂无，通过E.ON集团采购中心（汉堡）统一采购",
+      "competitors": "RWE Renewables、Iberdrola、Enel Green Power",
+      "market_share": "欧洲光伏项目开发市场份额约4%，德国本土前三",
+      "recent_news": "2025年与欧洲投资银行签署5亿欧元融资协议，用于开发意大利和西班牙的1.2GW光伏项目组合。"
     },
     {
       "company_name": "Ib Vogt GmbH",
@@ -44,7 +81,19 @@
       "relevance": 88,
       "why": "Global EPC for utility-scale solar, regularly sources modules from Chinese manufacturers.",
       "china_purchase": "Yes - JA Solar",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=IbVogt"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=IbVogt",
+      "founded": 1981,
+      "headquarters": "柏林，德国",
+      "employees": 900,
+      "annual_revenue": "约8亿欧元",
+      "business_description": "全球领先的独立光伏项目开发商和EPC承包商，提供从项目开发、融资、建设到运维的全生命周期服务，业务遍及30多个国家。",
+      "procurement_needs": "大批量采购高效PERC/TOPCon组件（540W+）及1500V集中式逆变器，用于其全球大型地面电站项目，注重价格竞争力。",
+      "partner_profile": "寻求具备全球交付能力、可接受项目融资（银行可接受性）和灵活付款条件的中国制造商。",
+      "key_markets": "德国、西班牙、希腊、智利、澳大利亚",
+      "china_presence": "暂无，但在上海设有项目采购代表处",
+      "competitors": "Lightsource bp、Greencells、BayWa r.e.",
+      "market_share": "全球独立光伏开发商排名前20，欧洲中型EPC市场份额约3%",
+      "recent_news": "2025年完成智利阿塔卡马沙漠300MW光伏项目并网，并启动希腊1GW项目储备。"
     },
     {
       "company_name": "Aldo Solar",
@@ -55,7 +104,19 @@
       "relevance": 92,
       "why": "Brazil's largest solar distributor, massive import volumes of Chinese modules and inverters.",
       "china_purchase": "Yes - LONGi, JA Solar, Sungrow",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=AldoSolar"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=AldoSolar",
+      "founded": 2010,
+      "headquarters": "圣保罗，巴西",
+      "employees": 450,
+      "annual_revenue": "约3.5亿美元",
+      "business_description": "巴西最大的光伏组件分销商之一，向巴西全国的分销商、安装商和EPC供应组件、逆变器、支架及储能产品，并提供本地化物流服务。",
+      "procurement_needs": "大量采购高性价比的分布式光伏组件（440W-550W）和组串式逆变器（5-60kW），要求INMETRO认证和快速海运交付。",
+      "partner_profile": "寻找愿意提供巴西市场独家代理权、有库存支持能力和灵活账期的中国制造商，重视品牌推广合作。",
+      "key_markets": "巴西、智利、哥伦比亚、阿根廷",
+      "china_presence": "在深圳设有采购办事处",
+      "competitors": "Portal Solar、Solar Group、Fotovolt",
+      "market_share": "巴西分布式光伏分销市场份额约10%，排名前三",
+      "recent_news": "2025年与比亚迪储能签署合作协议，在巴西推出户用储能捆绑套餐。"
     },
     {
       "company_name": "Soltec Energías Renovables, S.A.",
@@ -121,7 +182,19 @@
       "relevance": 78,
       "why": "International solar developer with projects in Europe, Africa, and Latin America.",
       "china_purchase": "Yes - Jinko Solar",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Solarcentury"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Solarcentury",
+      "founded": 1998,
+      "headquarters": "伦敦，英国",
+      "employees": 500,
+      "annual_revenue": "约5亿欧元（并入EDF后）",
+      "business_description": "作为EDF Renewables旗下品牌，专注于分布式光伏电站开发、EPC及屋顶太阳能解决方案，同时销售高效光伏组件和储能系统。",
+      "procurement_needs": "从中国采购高效单晶PERC/TOPCon组件、智能逆变器及户用储能电池，要求高性价比和长期质保。",
+      "partner_profile": "寻求具备Tier-1资质、有欧洲认证（CE/TÜV）和稳定交付能力的中国组件及逆变器制造商，支持项目级定制。",
+      "key_markets": "英国、荷兰、法国、西班牙、智利",
+      "china_presence": "暂无独立办事处，通过EDF中国采购团队对接",
+      "competitors": "Lightsource bp、NextEnergy Capital、ib vogt",
+      "market_share": "英国分布式光伏市场占有率约8%，欧洲整体约3%",
+      "recent_news": "2025年推出“Solarcentury 360”一站式家庭光储套餐，整合EDF能源管理平台"
     },
     {
       "company_name": "BayWa r.e. Solar Distribution GmbH",
@@ -132,7 +205,19 @@
       "relevance": 90,
       "why": "One of Europe's largest solar distributors, heavily sourcing Chinese modules and inverters.",
       "china_purchase": "Yes - LONGi, JA Solar, Huawei",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=BayWaRe"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=BayWaRe",
+      "founded": 2009,
+      "headquarters": "慕尼黑，德国",
+      "employees": 3000,
+      "annual_revenue": "约40亿欧元（集团整体）",
+      "business_description": "全球领先的光伏产品分销商，向安装商和EPC供应组件、逆变器、储能系统及支架，并提供物流和融资服务。",
+      "procurement_needs": "大批量采购中国品牌组件（如晶科、隆基）及逆变器（如华为、阳光），同时寻找新兴高性价比品牌补充产品线。",
+      "partner_profile": "愿意与有欧洲库存、快速响应、支持OEM/ODM的中国制造商建立长期框架协议，重视质量认证和售后支持。",
+      "key_markets": "德国、荷兰、意大利、奥地利、美国",
+      "china_presence": "在上海设有采购代表处，负责供应商审核和物流协调",
+      "competitors": "Krannich Solar、Greensolver、Sonepar",
+      "market_share": "欧洲光伏分销市场份额约12%，德国本土约18%",
+      "recent_news": "2025年与宁德时代签署储能电池欧洲独家分销协议，扩大户储产品组合"
     },
     {
       "company_name": "Meyer Burger Technology AG",
@@ -143,7 +228,19 @@
       "relevance": 55,
       "why": "Swiss-German solar manufacturer, but also installs and buys modules for projects.",
       "china_purchase": "No - no public record",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=MeyerBurger"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=MeyerBurger",
+      "founded": 1953,
+      "headquarters": "图恩，瑞士",
+      "employees": 1200,
+      "annual_revenue": "约2亿瑞士法郎",
+      "business_description": "高端光伏组件制造商，主推异质结（HJT）技术，销售高效组件及光伏制造设备，聚焦欧洲本土生产。",
+      "procurement_needs": "从中国采购异质结电池片、银浆、靶材及部分辅材，同时采购逆变器用于配套销售。",
+      "partner_profile": "寻找具备HJT电池片量产能力、技术领先的中国供应商，要求长期稳定供应和共同研发意愿。",
+      "key_markets": "德国、瑞士、奥地利、意大利、美国",
+      "china_presence": "暂无，但曾与上海电气有设备合作历史",
+      "competitors": "REC Group、Heliene、Q CELLS",
+      "market_share": "欧洲高端组件市场约2%，HJT细分领域约8%",
+      "recent_news": "2025年获得欧盟3亿欧元补贴，扩大德国工厂产能至1.4GW"
     },
     {
       "company_name": "Enphase Energy, Inc.",
@@ -154,7 +251,19 @@
       "relevance": 60,
       "why": "Microinverter maker, but also buys modules for its own solar systems.",
       "china_purchase": "No - no public record",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=EnphaseEnergy"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=EnphaseEnergy",
+      "founded": 2006,
+      "headquarters": "弗里蒙特，美国",
+      "employees": 3000,
+      "annual_revenue": "约15亿美元",
+      "business_description": "全球领先的微型逆变器及智能能源管理系统供应商，产品覆盖户用和工商业光伏，配套电池和监控软件。",
+      "procurement_needs": "从中国采购IGBT功率模块、电容、PCB板等电子元器件，以及部分代工服务（EMS）。",
+      "partner_profile": "寻找通过IATF16949认证、具备高可靠性电子制造能力的中国供应商，支持全球多基地交付。",
+      "key_markets": "美国、荷兰、德国、澳大利亚、巴西",
+      "china_presence": "在深圳设有研发中心，与多家EMS代工厂合作",
+      "competitors": "SolarEdge、SMA Solar、Huawei",
+      "market_share": "全球微型逆变器市场份额约45%，美国户用市场约55%",
+      "recent_news": "2025年推出IQ8P微逆，支持单块组件功率达480W，并进入日本市场"
     },
     {
       "company_name": "Sungrow Power Supply Co., Ltd.",
@@ -165,7 +274,19 @@
       "relevance": 85,
       "why": "Major inverter manufacturer, but also distributes modules in some markets.",
       "china_purchase": "Yes - Self (Sungrow)",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Sungrow"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Sungrow",
+      "founded": 1997,
+      "headquarters": "合肥，中国",
+      "employees": 10000,
+      "annual_revenue": "约70亿美元",
+      "business_description": "全球最大的光伏逆变器制造商之一，产品涵盖集中式、组串式逆变器及储能系统，同时提供电站开发服务。",
+      "procurement_needs": "从中国本土采购IGBT、变压器、散热器、结构件等，部分高端芯片从欧美进口。",
+      "partner_profile": "寻找具备规模化生产能力和成本优势的国内电子元器件及结构件供应商，支持全球出货。",
+      "key_markets": "中国、美国、印度、德国、巴西",
+      "china_presence": "总部在合肥，深圳、上海设有研发和销售中心",
+      "competitors": "华为数字能源、锦浪科技、固德威",
+      "market_share": "全球光伏逆变器市场份额约23%，连续多年全球前三",
+      "recent_news": "2025年发布新一代1+X模块化集中式逆变器，效率达99.2%，并中标沙特2.6GW项目"
     },
     {
       "company_name": "Risen Energy Co., Ltd.",
@@ -176,7 +297,19 @@
       "relevance": 80,
       "why": "Chinese module manufacturer, also sells through distributors in many countries.",
       "china_purchase": "Yes - Self (Risen)",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=RisenEnergy"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=RisenEnergy",
+      "founded": 1986,
+      "headquarters": "宁波, 中国",
+      "employees": 15000,
+      "annual_revenue": "约50亿美元",
+      "business_description": "全球领先的光伏组件制造商，同时开发光伏电站项目，销售高效单晶/多晶组件及储能系统。",
+      "procurement_needs": "作为中国本土企业，主要对外采购逆变器（用于配套电站）、光伏玻璃、胶膜、银浆等辅材，以及部分海外市场所需的跟踪支架。",
+      "partner_profile": "寻找在海外市场有本地化服务能力的逆变器供应商、支架供应商，以及电站EPC合作伙伴。",
+      "key_markets": "中国、越南、西班牙、巴西、澳大利亚",
+      "china_presence": "总部位于宁波，在义乌、滁州等地设有生产基地",
+      "competitors": "晶科能源、天合光能、隆基绿能",
+      "market_share": "全球组件出货量排名前八（约5%市场份额）",
+      "recent_news": "2025年，东方日升在巴西市场推出针对分布式光伏的660W超高功率组件，并签订多个拉美电站EPC合同。"
     },
     {
       "company_name": "SolarEdge Technologies, Inc.",
@@ -187,7 +320,19 @@
       "relevance": 65,
       "why": "Inverter maker, but also buys modules for complete system offerings.",
       "china_purchase": "No - no public record",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=SolarEdge"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=SolarEdge",
+      "founded": 2006,
+      "headquarters": "米尔皮塔斯, 美国",
+      "employees": 5000,
+      "annual_revenue": "约30亿美元",
+      "business_description": "全球领先的智能逆变器与功率优化器制造商，提供直流优化逆变系统及储能解决方案，主要面向户用和工商业光伏市场。",
+      "procurement_needs": "需要从中国采购功率半导体器件（IGBT/MOSFET）、变压器、电感、PCB电路板、散热件及精密结构件。",
+      "partner_profile": "寻找通过IATF16949认证、具备高可靠性电子制造能力的中国EMS/OEM代工厂，以及关键电子元器件供应商。",
+      "key_markets": "美国、德国、荷兰、意大利、澳大利亚",
+      "china_presence": "在深圳设有研发中心，并在苏州设有代工合作工厂",
+      "competitors": "Enphase Energy、华为数字能源、SMA Solar",
+      "market_share": "全球户用逆变器市场份额约15%（北美第一）",
+      "recent_news": "2025年，SolarEdge宣布推出新一代双向直流耦合储能逆变器，并加大在欧洲工商业市场的渠道布局。"
     },
     {
       "company_name": "LONGi Solar Technology Co., Ltd.",
@@ -198,7 +343,19 @@
       "relevance": 95,
       "why": "World's largest module manufacturer, sells directly to installers and EPCs globally.",
       "china_purchase": "Yes - Self (LONGi)",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=LONGi"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=LONGi",
+      "founded": 2000,
+      "headquarters": "西安, 中国",
+      "employees": 60000,
+      "annual_revenue": "约150亿美元",
+      "business_description": "全球最大的单晶硅光伏产品制造商，销售单晶硅片、电池片、组件及氢能装备，主打高效HPBC电池技术。",
+      "procurement_needs": "需要从中国采购光伏银浆、光伏玻璃、铝边框、接线盒、封装胶膜（POE/EVA）及智能逆变器（用于配套电站）。",
+      "partner_profile": "寻找具备大规模量产能力、成本控制优秀的辅材供应商，以及面向海外电站项目的逆变器合作伙伴。",
+      "key_markets": "中国、印度、巴西、德国、美国",
+      "china_presence": "总部位于西安，在宁夏、云南、江苏等地拥有多个生产基地",
+      "competitors": "晶科能源、天合光能、晶澳科技",
+      "market_share": "全球组件出货量排名第二（约15%市场份额）",
+      "recent_news": "2025年，隆基发布基于HPBC 2.0技术的Hi-MO 10组件，量产效率突破24.8%，并宣布在沙特建合资工厂。"
     },
     {
       "company_name": "Jinko Solar Co., Ltd.",
@@ -209,7 +366,19 @@
       "relevance": 95,
       "why": "Top-tier module manufacturer, supplies to many utility and residential projects.",
       "china_purchase": "Yes - Self (Jinko)",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=JinkoSolar"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=JinkoSolar",
+      "founded": 2006,
+      "headquarters": "上饶, 中国",
+      "employees": 45000,
+      "annual_revenue": "约120亿美元",
+      "business_description": "全球组件出货量第一的光伏企业，销售N型TOPCon高效组件、电池片及储能系统，覆盖地面电站和分布式市场。",
+      "procurement_needs": "需要从中国采购高纯石英砂、光伏银浆、POE胶膜、光伏玻璃、接线盒以及大功率组串式逆变器。",
+      "partner_profile": "寻找在N型电池技术上有协同研发能力的辅材供应商，以及海外电站项目所需的逆变器及支架供应商。",
+      "key_markets": "中国、美国、欧洲（西班牙/德国）、中东（阿联酋）、东南亚",
+      "china_presence": "总部位于上饶，在浙江海宁、四川乐山、新疆等地设有生产基地",
+      "competitors": "隆基绿能、天合光能、晶澳科技",
+      "market_share": "全球组件出货量排名第一（约18%市场份额）",
+      "recent_news": "2025年，晶科能源与沙特ACWA Power签署3GW N型组件供货协议，并宣布在越南扩建10GW电池片产能。"
     },
     {
       "company_name": "Trina Solar Co., Ltd.",
@@ -220,13 +389,19 @@
       "relevance": 95,
       "why": "Major module and tracker manufacturer, sells through global distribution network.",
       "china_purchase": "Yes - Self (Trina)",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=TrinaSolar"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=TrinaSolar",
+      "founded": 1997,
+      "headquarters": "常州, 中国",
+      "employees": 40000,
+      "annual_revenue": "约110亿美元",
+      "business_description": "全球领先的光伏智慧能源整体解决方案提供商，销售210系列高功率组件、跟踪支架、储能系统及智能运维平台。",
+      "procurement_needs": "需要从中国采购大尺寸光伏玻璃、高强度铝合金型材、智能接线盒、逆变器（用于配套储能系统）及电芯。",
+      "partner_profile": "寻找具备210大尺寸配套能力、技术迭代快的辅材供应商，以及储能逆变器（PCS）和BMS合作伙伴。",
+      "key_markets": "中国、美国、西班牙、巴西、日本",
+      "china_presence": "总部位于常州，在江苏宿迁、盐城、浙江义乌等地设有生产基地",
+      "competitors": "晶科能源、隆基绿能、阿特斯",
+      "market_share": "全球组件出货量排名前四（约12%市场份额）",
+      "recent_news": "2025年，天合光能发布新一代柔性储能电池舱Elementa 3，并与欧洲能源集团签署2GWh储能系统框架协议。"
     }
-  ],
-  "scoring_rubric": {
-    "90-95": "Top-tier buyer — large scale, known to source from China, high procurement volume",
-    "75-89": "Strong fit — cost-sensitive, growing demand, likely to consider Chinese suppliers",
-    "55-74": "Moderate fit — possible buyer but not urgent or lower volume",
-    "40-54": "Weak fit — niche or occasional buyer, unlikely to prioritize Chinese"
-  }
+  ]
 }
