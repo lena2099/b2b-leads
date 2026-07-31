@@ -29,6 +29,12 @@ all_leads = [l for v in all_data.values() for l in v["leads"]]
 total = len(all_leads)
 high = sum(1 for l in all_leads if l.get("relevance", 0) >= 70)
 
+def str_or(d, key):
+    v = d.get(key, "")
+    if isinstance(v, list): return ", ".join(str(x) for x in v)
+    if isinstance(v, dict): return json.dumps(v, ensure_ascii=False)
+    return str(v) if v else ""
+
 # ── EXCEL ──
 try:
     from openpyxl import Workbook
@@ -58,12 +64,12 @@ def make_excel(leads, title, filename):
 
     for i, l in enumerate(sorted(leads, key=lambda x: x.get("relevance",0), reverse=True), 2):
         vals = [
-            l.get("company_name",""), l.get("website",""), l.get("founded",""), l.get("headquarters",""),
-            l.get("employees",""), l.get("annual_revenue",""), l.get("business_description",""),
-            l.get("procurement_needs",""), l.get("partner_profile",""), l.get("key_markets",""),
-            l.get("china_presence",""), l.get("competitors",""), l.get("market_share",""),
-            l.get("recent_news",""), l.get("buyer_type",""), l.get("country",""), l.get("size",""),
-            l.get("relevance",0), l.get("why","")
+            str_or(l,"company_name"), str_or(l,"website"), str_or(l,"founded"), str_or(l,"headquarters"),
+            str_or(l,"employees"), str_or(l,"annual_revenue"), str_or(l,"business_description"),
+            str_or(l,"procurement_needs"), str_or(l,"partner_profile"), str_or(l,"key_markets"),
+            str_or(l,"china_presence"), str_or(l,"competitors"), str_or(l,"market_share"),
+            str_or(l,"recent_news"), str_or(l,"buyer_type"), str_or(l,"country"), str_or(l,"size"),
+            l.get("relevance",0), str_or(l,"why")
         ]
         for col, val in enumerate(vals, 1):
             c = ws.cell(row=i, column=col, value=val); c.border = tb; c.alignment = Alignment(wrap_text=True, vertical="top")
@@ -133,10 +139,12 @@ footer{{text-align:center;color:#999;padding:30px;font-size:.8em}}
         for l in s:
             sc = l.get("relevance",0)
             cl = "hi" if sc>=70 else ("md" if sc>=40 else "lo")
-            cp = l.get("china_presence","")
+            news = str_or(l, "recent_news")[:80]
+            comp = str_or(l, "competitors")[:50]
+            mkt = str_or(l, "market_share")[:50]
+            cp = str_or(l, "china_presence")
             cph = f'<span class="yb">{cp[:60]}</span>' if cp and cp not in ("暂无","无","") else '<span style="color:#999;font-size:.78em">—</span>'
-            news = l.get("recent_news","")[:80]
-            html += f'<tr><td><strong>{l.get("company_name","")}</strong></td><td>{l.get("country","")}</td><td>{l.get("buyer_type","")}</td><td><span class="{cl}">{sc}</span></td><td>{l.get("size","")}</td><td style="font-size:.75em">{l.get("competitors","")[:50]}</td><td style="font-size:.75em">{l.get("market_share","")[:50]}</td><td>{cph}</td><td style="font-size:.75em">{news}</td></tr>'
+            html += f'<tr><td><strong>{l.get("company_name","")}</strong></td><td>{l.get("country","")}</td><td>{l.get("buyer_type","")}</td><td><span class="{cl}">{sc}</span></td><td>{l.get("size","")}</td><td style="font-size:.75em">{comp}</td><td style="font-size:.75em">{mkt}</td><td>{cph}</td><td style="font-size:.75em">{news}</td></tr>'
         html += "</table></div>"
     html += f'</div><footer>{tx["ft"]}</footer></body></html>'
     return html
