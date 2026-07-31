@@ -1,0 +1,232 @@
+{
+  "industry": "Telecom Equipment & IoT",
+  "generated_at": "2026-07-31T11:19:30Z",
+  "leads": [
+    {
+      "company_name": "Telecomunicações Brasileiras S.A. (Telebras)",
+      "website": "https://www.telebras.com.br",
+      "buyer_type": "Telecom operator",
+      "country": "Brazil",
+      "size": "Enterprise (>1000)",
+      "relevance": 90,
+      "why": "State-owned telecom operator with a mandate to expand broadband in underserved areas, heavily reliant on cost-effective Chinese equipment.",
+      "china_purchase": "Yes - Huawei, ZTE",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Telebras"
+    },
+    {
+      "company_name": "Vivo (Telefônica Brasil S.A.)",
+      "website": "https://www.vivo.com.br",
+      "buyer_type": "Telecom operator",
+      "country": "Brazil",
+      "size": "Enterprise (>1000)",
+      "relevance": 85,
+      "why": "Largest mobile operator in Brazil, known to use Huawei equipment in its 4G/5G network expansion.",
+      "china_purchase": "Yes - Huawei",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Vivo"
+    },
+    {
+      "company_name": "PT Telekomunikasi Indonesia (Telkom Indonesia)",
+      "website": "https://www.telkom.co.id",
+      "buyer_type": "Telecom operator",
+      "country": "Indonesia",
+      "size": "Enterprise (>1000)",
+      "relevance": 95,
+      "why": "National telecom giant, extensive deployment of Huawei and ZTE in core and access networks.",
+      "china_purchase": "Yes - Huawei, ZTE",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Telkom%20Indonesia"
+    },
+    {
+      "company_name": "PT XL Axiata Tbk",
+      "website": "https://www.xl.co.id",
+      "buyer_type": "Telecom operator",
+      "country": "Indonesia",
+      "size": "Enterprise (>1000)",
+      "relevance": 80,
+      "why": "Major mobile operator, uses Huawei for RAN and core network upgrades.",
+      "china_purchase": "Yes - Huawei",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=XL%20Axiata"
+    },
+    {
+      "company_name": "MTN Nigeria Communications Plc",
+      "website": "https://www.mtn.ng",
+      "buyer_type": "Telecom operator",
+      "country": "Nigeria",
+      "size": "Enterprise (>1000)",
+      "relevance": 90,
+      "why": "Largest telecom operator in Nigeria, historically partnered with Huawei for network infrastructure.",
+      "china_purchase": "Yes - Huawei",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=MTN%20Nigeria"
+    },
+    {
+      "company_name": "Airtel Nigeria (Bharti Airtel Nigeria)",
+      "website": "https://www.airtel.com.ng",
+      "buyer_type": "Telecom operator",
+      "country": "Nigeria",
+      "size": "Enterprise (>1000)",
+      "relevance": 75,
+      "why": "Major mobile operator, uses ZTE and Huawei for network rollout in cost-sensitive markets.",
+      "china_purchase": "Yes - ZTE, Huawei",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Airtel%20Nigeria"
+    },
+    {
+      "company_name": "stc (Saudi Telecom Company)",
+      "website": "https://www.stc.com.sa",
+      "buyer_type": "Telecom operator",
+      "country": "Saudi Arabia",
+      "size": "Enterprise (>1000)",
+      "relevance": 85,
+      "why": "National telecom operator, has deployed Huawei 5G equipment in its network.",
+      "china_purchase": "Yes - Huawei",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=stc%20Saudi"
+    },
+    {
+      "company_name": "Mobily (Etihad Etisalat)",
+      "website": "https://www.mobily.com.sa",
+      "buyer_type": "Telecom operator",
+      "country": "Saudi Arabia",
+      "size": "Enterprise (>1000)",
+      "relevance": 70,
+      "why": "Major mobile operator, known to use Huawei for 5G trials and deployment.",
+      "china_purchase": "Yes - Huawei",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Mobily"
+    },
+    {
+      "company_name": "True Corporation Public Company Limited",
+      "website": "https://www.truecorp.co.th",
+      "buyer_type": "Telecom operator",
+      "country": "Thailand",
+      "size": "Enterprise (>1000)",
+      "relevance": 80,
+      "why": "Large converged telecom operator, uses Huawei and ZTE for network infrastructure.",
+      "china_purchase": "Yes - Huawei, ZTE",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=True%20Corporation"
+    },
+    {
+      "company_name": "Advanced Info Service (AIS)",
+      "website": "https://www.ais.th",
+      "buyer_type": "Telecom operator",
+      "country": "Thailand",
+      "size": "Enterprise (>1000)",
+      "relevance": 75,
+      "why": "Leading mobile operator, has partnered with Huawei for 5G network development.",
+      "china_purchase": "Yes - Huawei",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=AIS%20Thailand"
+    },
+    {
+      "company_name": "Maxis Berhad",
+      "website": "https://www.maxis.com.my",
+      "buyer_type": "Telecom operator",
+      "country": "Malaysia",
+      "size": "Enterprise (>1000)",
+      "relevance": 70,
+      "why": "Major mobile operator, uses Huawei equipment in its network, especially for 5G.",
+      "china_purchase": "Yes - Huawei",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Maxis"
+    },
+    {
+      "company_name": "CelcomDigi Berhad",
+      "website": "https://www.celcomdigi.com",
+      "buyer_type": "Telecom operator",
+      "country": "Malaysia",
+      "size": "Enterprise (>1000)",
+      "relevance": 65,
+      "why": "Merged entity of Celcom and Digi, uses ZTE and Huawei for network expansion.",
+      "china_purchase": "Yes - ZTE, Huawei",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=CelcomDigi"
+    },
+    {
+      "company_name": "PLDT Inc.",
+      "website": "https://www.pldt.com",
+      "buyer_type": "Telecom operator",
+      "country": "Philippines",
+      "size": "Enterprise (>1000)",
+      "relevance": 75,
+      "why": "Largest telecom operator in the Philippines, has used Huawei for network modernization.",
+      "china_purchase": "Yes - Huawei",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=PLDT"
+    },
+    {
+      "company_name": "Globe Telecom, Inc.",
+      "website": "https://www.globe.com.ph",
+      "buyer_type": "Telecom operator",
+      "country": "Philippines",
+      "size": "Enterprise (>1000)",
+      "relevance": 70,
+      "why": "Major mobile operator, has deployed Huawei 5G equipment in select areas.",
+      "china_purchase": "Yes - Huawei",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Globe%20Telecom"
+    },
+    {
+      "company_name": "Vodacom South Africa",
+      "website": "https://www.vodacom.co.za",
+      "buyer_type": "Telecom operator",
+      "country": "South Africa",
+      "size": "Enterprise (>1000)",
+      "relevance": 80,
+      "why": "Leading mobile operator, uses Huawei for 5G and core network infrastructure.",
+      "china_purchase": "Yes - Huawei",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Vodacom%20South%20Africa"
+    },
+    {
+      "company_name": "Telkom SA SOC Ltd",
+      "website": "https://www.telkom.co.za",
+      "buyer_type": "Telecom operator",
+      "country": "South Africa",
+      "size": "Enterprise (>1000)",
+      "relevance": 65,
+      "why": "Fixed-line and mobile operator, known to use ZTE and Huawei for network upgrades.",
+      "china_purchase": "Yes - ZTE, Huawei",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Telkom%20SA"
+    },
+    {
+      "company_name": "América Móvil (Claro Brasil)",
+      "website": "https://www.americamovil.com",
+      "buyer_type": "Telecom operator",
+      "country": "Mexico",
+      "size": "Enterprise (>1000)",
+      "relevance": 75,
+      "why": "Parent of Claro, uses Huawei equipment in its Latin American networks including Mexico.",
+      "china_purchase": "Yes - Huawei",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=America%20Movil"
+    },
+    {
+      "company_name": "Telcel (Radiomóvil Dipsa)",
+      "website": "https://www.telcel.com",
+      "buyer_type": "Telecom operator",
+      "country": "Mexico",
+      "size": "Enterprise (>1000)",
+      "relevance": 70,
+      "why": "Dominant mobile operator in Mexico, has deployed Huawei 4G/5G equipment.",
+      "china_purchase": "Yes - Huawei",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Telcel"
+    },
+    {
+      "company_name": "Nexus Technologies (Nigeria) Ltd",
+      "website": "https://www.nexus.com.ng",
+      "buyer_type": "System integrator",
+      "country": "Nigeria",
+      "size": "Medium (100-1000)",
+      "relevance": 55,
+      "why": "IT and security integrator, resells Hikvision and Dahua surveillance systems to enterprises.",
+      "china_purchase": "Yes - Hikvision, Dahua",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Nexus%20Technologies%20Nigeria"
+    },
+    {
+      "company_name": "PT Integrasi Jaringan (IJN)",
+      "website": "https://www.ijn.co.id",
+      "buyer_type": "ISP",
+      "country": "Indonesia",
+      "size": "Medium (100-1000)",
+      "relevance": 50,
+      "why": "Regional ISP, uses Quectel modules and Huawei routers for last-mile connectivity.",
+      "china_purchase": "Yes - Quectel, Huawei",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=PT%20Integrasi%20Jaringan"
+    }
+  ],
+  "scoring_rubric": {
+    "90-95": "Top-tier buyer — large scale, known to source from China, high procurement volume",
+    "75-89": "Strong fit — cost-sensitive, growing demand, likely to consider Chinese suppliers",
+    "55-74": "Moderate fit — possible buyer but not urgent or lower volume",
+    "40-54": "Weak fit — niche or occasional buyer, unlikely to prioritize Chinese"
+  }
+}
