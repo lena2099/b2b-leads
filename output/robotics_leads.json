@@ -1,0 +1,186 @@
+{
+  "industry": "Robotics & Automation",
+  "generated_at": "2026-07-31T09:12:38Z",
+  "leads": [
+    {
+      "company_name": "Ford Motor Company",
+      "buyer_type": "Automotive manufacturer",
+      "country": "United States",
+      "size": "Enterprise (>1000)",
+      "relevance": 90,
+      "why": "High volume assembly lines require cost-effective robots for welding, painting, and material handling, where Chinese OEMs offer aggressive pricing.",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Ford%20Motor%20Company"
+    },
+    {
+      "company_name": "Volkswagen AG",
+      "buyer_type": "Automotive manufacturer",
+      "country": "Germany",
+      "size": "Enterprise (>1000)",
+      "relevance": 85,
+      "why": "Under cost pressure in EV transition, they are open to second-tier automation suppliers for non-critical stations.",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Volkswagen%20AG"
+    },
+    {
+      "company_name": "Toyota Motor Corporation",
+      "buyer_type": "Automotive manufacturer",
+      "country": "Japan",
+      "size": "Enterprise (>1000)",
+      "relevance": 75,
+      "why": "While traditionally conservative, their global plants in emerging markets increasingly trial Chinese robots for simple tasks.",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Toyota%20Motor%20Corporation"
+    },
+    {
+      "company_name": "Magna International Inc.",
+      "buyer_type": "Automotive Tier 1 parts supplier",
+      "country": "Canada",
+      "size": "Enterprise (>1000)",
+      "relevance": 88,
+      "why": "As a parts supplier with thin margins, they seek lower-cost automation for stamping and assembly lines.",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Magna%20International%20Inc."
+    },
+    {
+      "company_name": "Bosch Rexroth AG",
+      "buyer_type": "Automation system integrator & robot distributor",
+      "country": "Germany",
+      "size": "Enterprise (>1000)",
+      "relevance": 70,
+      "why": "They may resell Chinese robots for price-sensitive customers in Eastern Europe and Asia.",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Bosch%20Rexroth%20AG"
+    },
+    {
+      "company_name": "Samsung Electronics Co., Ltd.",
+      "buyer_type": "Electronics manufacturer (PCB assembly, semiconductor fabs)",
+      "country": "South Korea",
+      "size": "Enterprise (>1000)",
+      "relevance": 65,
+      "why": "For secondary operations like packaging and material transport, they evaluate Chinese AMRs and SCARA robots.",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Samsung%20Electronics%20Co.%2C%20Ltd."
+    },
+    {
+      "company_name": "LG Electronics Inc.",
+      "buyer_type": "Electronics manufacturer (PCB assembly)",
+      "country": "South Korea",
+      "size": "Enterprise (>1000)",
+      "relevance": 60,
+      "why": "They are diversifying robot suppliers for display assembly and logistics in their factories.",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=LG%20Electronics%20Inc."
+    },
+    {
+      "company_name": "DHL Supply Chain",
+      "buyer_type": "Warehouse & 3PL logistics operator",
+      "country": "Germany",
+      "size": "Enterprise (>1000)",
+      "relevance": 90,
+      "why": "They aggressively deploy autonomous mobile robots (AMRs) from Chinese vendors to cut fulfillment costs.",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=DHL%20Supply%20Chain"
+    },
+    {
+      "company_name": "XPO Logistics, Inc.",
+      "buyer_type": "Warehouse & 3PL logistics operator",
+      "country": "United States",
+      "size": "Enterprise (>1000)",
+      "relevance": 85,
+      "why": "Their warehouses need low-cost robotic sortation and palletizing systems to compete with Amazon.",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=XPO%20Logistics%2C%20Inc."
+    },
+    {
+      "company_name": "Nestlé S.A.",
+      "buyer_type": "Food & beverage processing plants",
+      "country": "Switzerland (but major US operations)",
+      "size": "Enterprise (>1000)",
+      "relevance": 70,
+      "why": "They are replacing manual packaging lines with Chinese robots in their North American plants.",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Nestl%C3%A9%20S.A."
+    },
+    {
+      "company_name": "Tyson Foods, Inc.",
+      "buyer_type": "Food & beverage processing plants",
+      "country": "United States",
+      "size": "Enterprise (>1000)",
+      "relevance": 80,
+      "why": "Labor shortages in meat processing push them to adopt Chinese collaborative robots for cutting and packing.",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Tyson%20Foods%2C%20Inc."
+    },
+    {
+      "company_name": "KUKA AG",
+      "buyer_type": "Automation system integrator & robot distributor",
+      "country": "Germany",
+      "size": "Enterprise (>1000)",
+      "relevance": 55,
+      "why": "As a competitor, they might source certain components or low-end robots from China for specific projects.",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=KUKA%20AG"
+    },
+    {
+      "company_name": "Yaskawa Electric Corporation",
+      "buyer_type": "Automation system integrator & robot distributor",
+      "country": "Japan",
+      "size": "Enterprise (>1000)",
+      "relevance": 50,
+      "why": "They may partner with Chinese manufacturers for low-cost servo motors or simple robot arms.",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Yaskawa%20Electric%20Corporation"
+    },
+    {
+      "company_name": "Fanuc Corporation",
+      "buyer_type": "Automation system integrator & robot distributor",
+      "country": "Japan",
+      "size": "Enterprise (>1000)",
+      "relevance": 45,
+      "why": "Unlikely to buy complete robots, but could source Chinese components for their lower-tier models.",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Fanuc%20Corporation"
+    },
+    {
+      "company_name": "Siemens AG",
+      "buyer_type": "Automation system integrator & robot distributor",
+      "country": "Germany",
+      "size": "Enterprise (>1000)",
+      "relevance": 60,
+      "why": "They integrate third-party robots into their digital factory solutions, including Chinese brands for cost-sensitive clients.",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Siemens%20AG"
+    },
+    {
+      "company_name": "Aisin Corporation",
+      "buyer_type": "Automotive Tier 1 parts supplier",
+      "country": "Japan",
+      "size": "Enterprise (>1000)",
+      "relevance": 72,
+      "why": "They are expanding production in Southeast Asia and may use Chinese robots for simple assembly tasks.",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Aisin%20Corporation"
+    },
+    {
+      "company_name": "Hyundai Mobis",
+      "buyer_type": "Automotive Tier 1 parts supplier",
+      "country": "South Korea",
+      "size": "Enterprise (>1000)",
+      "relevance": 80,
+      "why": "They are actively testing Chinese collaborative robots for electronics assembly in their EV parts plants.",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Hyundai%20Mobis"
+    },
+    {
+      "company_name": "GSK plc (GlaxoSmithKline)",
+      "buyer_type": "Pharmaceutical manufacturer",
+      "country": "United Kingdom",
+      "size": "Enterprise (>1000)",
+      "relevance": 55,
+      "why": "For non-sterile packaging and warehouse automation, they consider Chinese robots to reduce costs.",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=GSK%20plc"
+    },
+    {
+      "company_name": "Pfizer Inc.",
+      "buyer_type": "Pharmaceutical manufacturer",
+      "country": "United States",
+      "size": "Enterprise (>1000)",
+      "relevance": 50,
+      "why": "They are cautious but may use Chinese robots for secondary packaging lines in their global plants.",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Pfizer%20Inc."
+    },
+    {
+      "company_name": "Lincoln Electric Holdings, Inc.",
+      "buyer_type": "Metal fabrication & welding shops",
+      "country": "United States",
+      "size": "Enterprise (>1000)",
+      "relevance": 85,
+      "why": "As a welding equipment maker, they are integrating Chinese robotic arms into their automated welding systems for SMEs.",
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Lincoln%20Electric%20Holdings%2C%20Inc."
+    }
+  ]
+}
