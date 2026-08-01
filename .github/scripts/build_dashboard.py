@@ -24,10 +24,18 @@ for ik in IND_META:
     else:
         all_data[ik] = {"leads": []}
 
+def _num(v, default=0):
+    """Safely convert relevance value to int."""
+    if isinstance(v, (int, float)): return int(v)
+    if v is None: return default
+    import re
+    m = re.search(r'(\d+)', str(v))
+    return int(m.group(1)) if m else default
+
 now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
 all_leads = [l for v in all_data.values() for l in v["leads"]]
 total = len(all_leads)
-high = sum(1 for l in all_leads if l.get("relevance", 0) >= 70)
+high = sum(1 for l in all_leads if _num(l.get("relevance", 0)) >= 70)
 
 def str_or(d, key):
     v = d.get(key, "")
@@ -62,14 +70,14 @@ def make_excel(leads, title, filename):
     for col, h in enumerate(headers, 1):
         c = ws.cell(row=1, column=col, value=h); c.font = hf; c.fill = hfl; c.alignment = ha; c.border = tb
 
-    for i, l in enumerate(sorted(leads, key=lambda x: x.get("relevance",0), reverse=True), 2):
+    for i, l in enumerate(sorted(leads, key=lambda x: _num(x.get("relevance",0)), reverse=True), 2):
         vals = [
             str_or(l,"company_name"), str_or(l,"website"), str_or(l,"founded"), str_or(l,"headquarters"),
             str_or(l,"employees"), str_or(l,"annual_revenue"), str_or(l,"business_description"),
             str_or(l,"procurement_needs"), str_or(l,"partner_profile"), str_or(l,"key_markets"),
             str_or(l,"china_presence"), str_or(l,"competitors"), str_or(l,"market_share"),
             str_or(l,"recent_news"), str_or(l,"buyer_type"), str_or(l,"country"), str_or(l,"size"),
-            l.get("relevance",0), str_or(l,"why")
+            _num(l.get("relevance",0)), str_or(l,"why")
         ]
         for col, val in enumerate(vals, 1):
             c = ws.cell(row=i, column=col, value=val); c.border = tb; c.alignment = Alignment(wrap_text=True, vertical="top")
@@ -134,10 +142,10 @@ footer{{text-align:center;color:#999;padding:30px;font-size:.8em}}
     for ik, meta in IND_META.items():
         leads = all_data[ik]["leads"]
         label = f'{meta["emoji"]} {meta["cn"] if lang=="zh" else meta["en"]}'
-        s = sorted(leads, key=lambda x: x.get("relevance",0), reverse=True)
+        s = sorted(leads, key=lambda x: _num(x.get("relevance",0)), reverse=True)
         html += f'<div class="sec" id="{ik}"><h2>{label} ({len(s)})</h2><table><tr><th>{tx["co"]}</th><th>{tx["ct"]}</th><th>{tx["ty"]}</th><th>{tx["sc"]}</th><th>{tx["sz"]}</th><th>{tx["comp"]}</th><th>{tx["mkt"]}</th><th>{tx["cp"]}</th><th>{tx["news"]}</th></tr>'
         for l in s:
-            sc = l.get("relevance",0)
+            sc = _num(l.get("relevance",0))
             cl = "hi" if sc>=70 else ("md" if sc>=40 else "lo")
             news = str_or(l, "recent_news")[:80]
             comp = str_or(l, "competitors")[:50]
