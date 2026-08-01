@@ -1,7 +1,7 @@
 {
   "industry": "通信设备&物联网",
   "total": 20,
-  "updated": "2026-07-31T12:04:12Z",
+  "updated": "2026-08-01T20:13:36.804085+00:00",
   "leads": [
     {
       "company_name": "Telecomunicações Brasileiras S.A. (Telebras)",
@@ -242,7 +242,19 @@
       "relevance": 70,
       "why": "Major mobile operator, uses Huawei equipment in its network, especially for 5G.",
       "china_purchase": "Yes - Huawei",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Maxis"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Maxis",
+      "founded": "1995年",
+      "headquarters": "马来西亚吉隆坡",
+      "employees": "约5,000人（数据待确认）",
+      "annual_revenue": "约100亿林吉特（2023财年，数据待确认）",
+      "business_description": "Maxis Berhad是马来西亚领先的电信运营商，提供移动、固定宽带、企业解决方案及物联网服务，覆盖消费者和企业市场。",
+      "procurement_needs": "网络基础设施设备（如基站、光缆）、物联网模组与平台、数据中心设备、IT软硬件及通信技术解决方案。",
+      "partner_profile": "与全球电信设备商（如华为、爱立信、诺基亚）、云服务商及物联网方案提供商合作，注重技术领先和成本效益。",
+      "key_markets": "马来西亚本土市场为主，同时服务东南亚区域的企业客户。",
+      "china_presence": "与华为等中国供应商有长期合作，采购网络设备及物联网终端，但无本地运营实体。",
+      "competitors": "CelcomDigi、Unifi Mobile（TM）、U Mobile等马来西亚电信运营商。",
+      "market_share": "马来西亚移动通信市场份额约25%-30%（数据待确认），为第二大运营商。",
+      "recent_news": "2023年完成与Celcom的合并谈判（未成），2024年推出5G-A网络试点，并扩展企业物联网解决方案（数据待确认）。"
     },
     {
       "company_name": "CelcomDigi Berhad",
@@ -253,7 +265,19 @@
       "relevance": 65,
       "why": "Merged entity of Celcom and Digi, uses ZTE and Huawei for network expansion.",
       "china_purchase": "Yes - ZTE, Huawei",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=CelcomDigi"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=CelcomDigi",
+      "founded": "2022年（由Celcom Axiata与Digi Telecommunications合并而成）",
+      "headquarters": "马来西亚，八打灵再也",
+      "employees": "约5,000人（数据待确认）",
+      "annual_revenue": "约120亿林吉特（约26亿美元，数据待确认）",
+      "business_description": "马来西亚最大的电信运营商，提供移动通信、宽带、企业解决方案及物联网服务，覆盖消费者与企业市场。",
+      "procurement_needs": "通信基站设备、光纤网络组件、物联网模组与平台、网络安全解决方案、数据中心设备及IT基础设施。",
+      "partner_profile": "与全球电信设备商（如华为、爱立信、诺基亚）、云服务商及物联网方案提供商建立合作，注重技术集成与本地化服务能力。",
+      "key_markets": "马来西亚本土市场为主，辐射东南亚区域企业客户。",
+      "china_presence": "未在中国设立运营实体，但与中国设备供应商（如华为、中兴）有采购合作，并在物联网生态中对接中国模组厂商。",
+      "competitors": "Maxis、U Mobile、TM（Telekom Malaysia）、Unifi Mobile。",
+      "market_share": "马来西亚移动通信市场份额约40%（合并后为市场第一，数据待确认）。",
+      "recent_news": "2024年宣布与华为合作推进5G-A网络试点；2025年推出企业级物联网平台，并扩展数据中心容量（具体新闻需以最新公告为准）。"
     },
     {
       "company_name": "PLDT Inc.",
