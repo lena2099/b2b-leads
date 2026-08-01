@@ -89,17 +89,20 @@ def deep_research_2(ik, cfg):
     
     for l, missing_fields in targets:
         name = l["company_name"]
+        existing_info = json.dumps({k: l.get(k) for k in DEEP_FIELDS if l.get(k) and str(l.get(k)).strip() not in ('待补充','','[]','{}')}, ensure_ascii=False)
+        json_template = '{' + ', '.join(f'"{f}": "..."' for f in missing_fields) + '}'
+        
         prompt = f"""请为"{name}"撰写一份专业的企业档案（中文，简洁要点形式）。根据你的知识库中关于这家公司的信息。
 
 需要覆盖的维度：{', '.join(missing_fields)}
 
-当前已知的部分信息（如有）：{json.dumps({k: l.get(k) for k in DEEP_FIELDS if l.get(k) and str(l.get(k)).strip() not in ('待补充','','[]','{}')}, ensure_ascii=False)}
+当前已知的部分信息（如有）：{existing_info}
 
 行业背景：{cfg['cn']}的海外买家。
 要求：
 - 所有信息基于真实数据，不确定的标注"数据待确认"
 - 每个字段1-3句话，不要冗长
-- 返回JSON格式：{{"{'": '", "'.join(missing_fields)}": "..."}}
+- 返回JSON格式：{json_template}
 
 只返回JSON。"""
         
