@@ -1,39 +1,6 @@
-name: B2B Lead Miner
+name: B2B Lead Miner [DISABLED]
 
 on:
-  schedule:
-    - cron: '0 */6 * * *'       # Every 6 hours
   workflow_dispatch:
 
-permissions:
-  contents: write
-
-jobs:
-  mine:
-    runs-on: ubuntu-latest
-    timeout-minutes: 25
-
-    steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-      - name: Install dependencies
-        run: pip install openpyxl
-
-      - name: Run Lead Miner
-        env:
-          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
-        run: |
-          mkdir -p data output
-          python .github/scripts/miner.py
-
-      - name: Commit & Push
-        run: |
-          git config user.name "B2B Miner Bot"
-          git config user.email "bot@b2bleads.local"
-          git pull origin main --rebase || true
-          git add -A
-          git diff --cached --quiet && echo "No new leads" || (
-            git commit -m "🌍 Auto: lead mining update $(date -u +%Y-%m-%d_%H:%M)" && git push
-          )
+# Replaced by miner_v2.yml (hourly v3)
