@@ -1,7 +1,7 @@
 {
   "industry": "新能源汽车&充电桩",
   "total": 20,
-  "updated": "2026-07-31T12:04:30Z",
+  "updated": "2026-08-01T15:42:29.625965+00:00",
   "leads": [
     {
       "company_name": "Penske Automotive Group",
@@ -104,7 +104,19 @@
       "relevance": 0,
       "why": "",
       "china_purchase": "",
-      "linkedin_url": ""
+      "linkedin_url": "",
+      "founded": "数据待确认",
+      "headquarters": "泰国曼谷",
+      "employees": "数据待确认",
+      "annual_revenue": "数据待确认",
+      "business_description": "BHPH (Bangkok Honda) 为泰国本田相关企业或经销商，主要涉及本田品牌汽车销售与服务，与新能源汽车及充电桩业务无直接关联。",
+      "procurement_needs": "数据待确认（推测可能涉及汽车零部件、维修设备，但非充电桩或新能源核心部件）",
+      "partner_profile": "数据待确认（可能为本田经销商网络、零部件供应商）",
+      "key_markets": "泰国本土市场",
+      "china_presence": "无公开信息显示其在中国有业务布局",
+      "competitors": "泰国其他汽车经销商及本田竞品经销商（如丰田、日产等）",
+      "market_share": "数据待确认",
+      "recent_news": "数据待确认"
     },
     {
       "company_name": "RMA Group",
