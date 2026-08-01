@@ -1,0 +1,23 @@
+{
+  "total_runs": 1,
+  "total_buyers": 5,
+  "seen": [
+    "176f82eebfba292b8d314c71d612b810",
+    "09e8120ce89819cc27fa2e101b8a8f81",
+    "045722d5717281a5662dd3caec485093",
+    "95e396d462ae182d1189c1e59893d7cd",
+    "549e83912ea20597c958170a2983bdac"
+  ],
+  "last_run": "2026-08-01T00:07:00.717238+00:00",
+  "rotation": [
+    "robotics",
+    "energy_storage",
+    "solar_pv",
+    "medical_device",
+    "laser_equipment",
+    "ev_charger",
+    "construction_machinery",
+    "telecom_iot"
+  ],
+  "rot_idx": 2
+}
