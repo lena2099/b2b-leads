@@ -1,23 +1,28 @@
 {
-  "total_runs": 8,
-  "total_buyers": 14,
+  "total_runs": 9,
+  "total_buyers": 19,
   "seen": [
-    "a846bc16478708dac89ec94c26c5b2aa",
-    "ce36522e70f8ca6cafb4b1cd2f23bb60",
-    "549e83912ea20597c958170a2983bdac",
-    "6a5fff1b2199a062d025945d859e17e6",
-    "09e8120ce89819cc27fa2e101b8a8f81",
-    "95e396d462ae182d1189c1e59893d7cd",
-    "1f712454651e6cc4c110d6bb4f1ca565",
+    "15c639a5349f0c2410d7ac05e37ba6c0",
     "956c1af787184d2d20db466daba611ad",
-    "522fa22bb1e3bf71576c5eae84f0c808",
+    "45e9177d88486b5fa12da6c015bedf4c",
+    "a846bc16478708dac89ec94c26c5b2aa",
+    "09e8120ce89819cc27fa2e101b8a8f81",
     "176f82eebfba292b8d314c71d612b810",
-    "16c19c710add0da362c20f9567fb2917",
+    "ce36522e70f8ca6cafb4b1cd2f23bb60",
     "678e10fa1e3628d29f4546bc3616cb73",
+    "9fcb429b1412d41084b6a00b64b53d9b",
+    "1f712454651e6cc4c110d6bb4f1ca565",
+    "16c19c710add0da362c20f9567fb2917",
     "045722d5717281a5662dd3caec485093",
-    "593591d2481c09eb5b2eb3c1c7d562ac"
+    "49c3e6a4527d415da30c8dbae8fe37db",
+    "593591d2481c09eb5b2eb3c1c7d562ac",
+    "549e83912ea20597c958170a2983bdac",
+    "5844469e7afd6227b44a491e690b36d6",
+    "6a5fff1b2199a062d025945d859e17e6",
+    "95e396d462ae182d1189c1e59893d7cd",
+    "522fa22bb1e3bf71576c5eae84f0c808"
   ],
-  "last_run": "2026-08-02T11:38:16.973835+00:00",
+  "last_run": "2026-08-02T15:47:31.835112+00:00",
   "rotation": [
     "robotics",
     "energy_storage",
@@ -28,5 +33,5 @@
     "construction_machinery",
     "telecom_iot"
   ],
-  "rot_idx": 3
+  "rot_idx": 5
 }
