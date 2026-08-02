@@ -1,5 +1,5 @@
 {
-  "total_runs": 7,
+  "total_runs": 8,
   "total_buyers": 14,
   "seen": [
     "a846bc16478708dac89ec94c26c5b2aa",
@@ -17,7 +17,7 @@
     "045722d5717281a5662dd3caec485093",
     "593591d2481c09eb5b2eb3c1c7d562ac"
   ],
-  "last_run": "2026-08-02T06:47:24.354961+00:00",
+  "last_run": "2026-08-02T11:38:16.973835+00:00",
   "rotation": [
     "robotics",
     "energy_storage",
@@ -28,5 +28,5 @@
     "construction_machinery",
     "telecom_iot"
   ],
-  "rot_idx": 2
+  "rot_idx": 3
 }
