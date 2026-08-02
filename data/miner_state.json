@@ -1,19 +1,23 @@
 {
-  "total_runs": 6,
-  "total_buyers": 10,
+  "total_runs": 7,
+  "total_buyers": 14,
   "seen": [
-    "522fa22bb1e3bf71576c5eae84f0c808",
-    "045722d5717281a5662dd3caec485093",
+    "a846bc16478708dac89ec94c26c5b2aa",
+    "ce36522e70f8ca6cafb4b1cd2f23bb60",
     "549e83912ea20597c958170a2983bdac",
+    "6a5fff1b2199a062d025945d859e17e6",
     "09e8120ce89819cc27fa2e101b8a8f81",
     "95e396d462ae182d1189c1e59893d7cd",
-    "6a5fff1b2199a062d025945d859e17e6",
-    "956c1af787184d2d20db466daba611ad",
     "1f712454651e6cc4c110d6bb4f1ca565",
+    "956c1af787184d2d20db466daba611ad",
+    "522fa22bb1e3bf71576c5eae84f0c808",
     "176f82eebfba292b8d314c71d612b810",
+    "16c19c710add0da362c20f9567fb2917",
+    "678e10fa1e3628d29f4546bc3616cb73",
+    "045722d5717281a5662dd3caec485093",
     "593591d2481c09eb5b2eb3c1c7d562ac"
   ],
-  "last_run": "2026-08-01T20:13:36.804940+00:00",
+  "last_run": "2026-08-02T06:47:24.354961+00:00",
   "rotation": [
     "robotics",
     "energy_storage",
@@ -24,5 +28,5 @@
     "construction_machinery",
     "telecom_iot"
   ],
-  "rot_idx": 0
+  "rot_idx": 2
 }
