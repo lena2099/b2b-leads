@@ -1,7 +1,7 @@
 {
   "industry": "通信设备&物联网",
   "total": 20,
-  "updated": "2026-08-01T20:13:36.804085+00:00",
+  "updated": "2026-08-03T17:17:46.524945+00:00",
   "leads": [
     {
       "company_name": "Telecomunicações Brasileiras S.A. (Telebras)",
@@ -288,7 +288,19 @@
       "relevance": 75,
       "why": "Largest telecom operator in the Philippines, has used Huawei for network modernization.",
       "china_purchase": "Yes - Huawei",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=PLDT"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=PLDT",
+      "founded": "1928年（以Philippine Long Distance Telephone Company成立）",
+      "headquarters": "菲律宾马卡蒂市（Makati City）",
+      "employees": "约17,000人（数据待确认）",
+      "annual_revenue": "约1,850亿菲律宾比索（约33亿美元，2023年，数据待确认）",
+      "business_description": "菲律宾最大的电信运营商，提供固定电话、移动通信、宽带、企业级ICT及物联网解决方案。",
+      "procurement_needs": "通信基站设备、光纤网络组件、物联网模组与传感器、数据中心硬件、网络运维及安全解决方案。",
+      "partner_profile": "与全球主流设备商（如华为、诺基亚、爱立信）及云服务商合作，偏好具备本地化支持能力和长期供货稳定性的供应商。",
+      "key_markets": "菲律宾本土市场为主，覆盖个人、家庭及企业客户，并拓展东南亚区域业务。",
+      "china_presence": "与华为、中兴等中国设备商有长期采购合作，并在深圳等地设有供应链对接团队（数据待确认）。",
+      "competitors": "Globe Telecom、Converge ICT、DITO Telecommunity。",
+      "market_share": "菲律宾移动通信市场份额约40%-45%（数据待确认），固定宽带市场份额领先。",
+      "recent_news": "2024年宣布加速5G和光纤到户（FTTH）扩展，并与国际伙伴合作推进数据中心建设（数据待确认）。"
     },
     {
       "company_name": "Globe Telecom, Inc.",
@@ -299,7 +311,19 @@
       "relevance": 70,
       "why": "Major mobile operator, has deployed Huawei 5G equipment in select areas.",
       "china_purchase": "Yes - Huawei",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Globe%20Telecom"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Globe%20Telecom",
+      "founded": "1935年（以菲律宾电话公司成立，后于1991年更名为Globe Telecom）",
+      "headquarters": "菲律宾马卡蒂市（Makati City）",
+      "employees": "约8,000人（数据待确认）",
+      "annual_revenue": "约1,800亿菲律宾比索（约32亿美元，2023年，数据待确认）",
+      "business_description": "菲律宾领先的全业务电信运营商，提供移动通信、固网宽带、企业级ICT及物联网解决方案，旗下拥有Globe Business和Globe At Home等品牌。",
+      "procurement_needs": "通信基站设备、光纤网络设施、物联网模组与终端、数据中心硬件、网络安全解决方案、智能运维系统及第三方IT服务。",
+      "partner_profile": "与全球设备商（如华为、爱立信、诺基亚）、云服务商（AWS、微软Azure）、物联网平台商及本地系统集成商建立合作，偏好具备本地化服务能力的长期伙伴。",
+      "key_markets": "菲律宾本土市场（消费者、中小企业、大型企业及政府），并辐射东南亚区域的企业客户。",
+      "china_presence": "设有中国采购与合作伙伴关系团队，与华为、中兴等中国设备商有深度合作，并在深圳等地有供应链对接（具体办公室数据待确认）。",
+      "competitors": "PLDT（菲律宾长途电话公司）及其子公司Smart Communications，以及DITO Telecommunity（新兴运营商）。",
+      "market_share": "菲律宾移动市场份额约30%（2023年，数据待确认），宽带市场份额约25%，位居第二。",
+      "recent_news": "2024年宣布与爱立信合作扩大5G覆盖，并推出企业级物联网平台；2025年初与华为签署绿色网络节能项目（数据待确认，需核实最新动态）。"
     },
     {
       "company_name": "Vodacom South Africa",
