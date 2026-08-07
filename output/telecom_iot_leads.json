@@ -1,7 +1,7 @@
 {
   "industry": "通信设备&物联网",
   "total": 25,
-  "updated": "2026-08-05T06:15:11.243093+00:00",
+  "updated": "2026-08-07T10:15:09.141423+00:00",
   "leads": [
     {
       "company_name": "Telecomunicações Brasileiras S.A. (Telebras)",
@@ -334,7 +334,19 @@
       "relevance": 80,
       "why": "Leading mobile operator, uses Huawei for 5G and core network infrastructure.",
       "china_purchase": "Yes - Huawei",
-      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Vodacom%20South%20Africa"
+      "linkedin_url": "https://www.linkedin.com/search/results/companies/?keywords=Vodacom%20South%20Africa",
+      "founded": "1993年（作为Vodacom Group的南非子公司）",
+      "headquarters": "南非，米德兰（Midrand），豪登省",
+      "employees": "约7,000人（南非本地员工，数据待确认）",
+      "annual_revenue": "约850亿南非兰特（约46亿美元，2023财年，数据待确认）",
+      "business_description": "南非最大的移动通信运营商，提供2G/3G/4G/5G网络服务、固定宽带、物联网（IoT）及金融科技解决方案（如M-Pesa）。",
+      "procurement_needs": "通信基站设备（RAN、天线）、光纤传输设备、物联网模组与平台、智能终端、能源管理（太阳能/电池）、网络运维服务。",
+      "partner_profile": "与华为、诺基亚、爱立信等设备商合作；与高通、联发科等芯片商合作；与本地及国际系统集成商、云服务商（如AWS、Microsoft）合作。",
+      "key_markets": "南非（核心市场），并作为Vodacom Group在非洲的旗舰运营实体，辐射莱索托、莫桑比克、坦桑尼亚等邻国（通过集团）。",
+      "china_presence": "与华为、中兴等中国通信设备供应商有长期采购与合作关系，但无本地实体运营；中国是其关键供应链来源国。",
+      "competitors": "MTN South Africa、Telkom SA、Cell C、Liquid Intelligent Technologies（企业市场）。",
+      "market_share": "南非移动通信市场份额约45%（按用户数，数据待确认），领先于MTN（约35%）。",
+      "recent_news": "2024年宣布扩大5G覆盖至农村地区；与华为合作测试5.5G技术；2023年完成对Vodafone南非业务的整合，强化物联网服务（数据待确认）。"
     },
     {
       "company_name": "Telkom SA SOC Ltd",
