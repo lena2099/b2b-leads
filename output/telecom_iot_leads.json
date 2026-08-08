@@ -1,7 +1,7 @@
 {
   "industry": "通信设备&物联网",
-  "total": 25,
-  "updated": "2026-08-07T10:15:09.141423+00:00",
+  "total": 27,
+  "updated": "2026-08-08T09:59:14.740612+00:00",
   "leads": [
     {
       "company_name": "Telecomunicações Brasileiras S.A. (Telebras)",
@@ -582,6 +582,54 @@
       "id": "706e19b28b7a",
       "industry": "telecom_iot",
       "generated_at": "2026-08-05T06:15:11.242562+00:00"
+    },
+    {
+      "company_name": "PT Telkom Indonesia (Persero) Tbk",
+      "website": "https://www.telkom.co.id",
+      "founded": 1965,
+      "headquarters": "Bandung, Indonesia",
+      "employees": 23000,
+      "annual_revenue": "USD 7.5 billion (2024)",
+      "business_description": "印尼国有电信巨头，拥有固网、移动(Telkomsel)、数据中心、企业服务及智慧城市解决方案，覆盖全国岛屿。",
+      "procurement_needs": "海底光缆中继设备、微波传输设备、智慧城市传感器(交通/环境)、智能停车系统、LoRaWAN网关、太阳能供电物联网设备。",
+      "partner_profile": "需要能适应热带海岛气候的硬件供应商，支持印尼SNI认证，提供远程运维和本地维修中心，接受小批量定制。",
+      "key_markets": "印尼全境，重点爪哇岛、苏门答腊、加里曼丹",
+      "china_presence": "暂无（但Telkomsel与华为有5G试验合作）",
+      "competitors": "Indosat Ooredoo Hutchison, XL Axiata",
+      "market_share": "固网市场份额约70%，移动约30%（通过Telkomsel）",
+      "recent_news": "2025年11月与中兴通讯签署谅解备忘录，在巴厘岛部署智慧旅游物联网项目，并计划2026年扩展至新首都努山塔拉。",
+      "buyer_type": "电信运营商/智慧城市承包商",
+      "country": "印尼",
+      "size": "超大型",
+      "relevance": 92,
+      "why": "印尼最大国有运营商，智慧城市项目由政府主导，中国设备商在印尼有成熟供应链，采购需求稳定且预算充足。",
+      "id": "50e704c19111",
+      "industry": "telecom_iot",
+      "generated_at": "2026-08-08T09:59:14.740042+00:00"
+    },
+    {
+      "company_name": "Saudi Telecom Company (STC)",
+      "website": "https://www.stc.com.sa",
+      "founded": 1998,
+      "headquarters": "Riyadh, Saudi Arabia",
+      "employees": 12000,
+      "annual_revenue": "USD 6.8 billion (2024)",
+      "business_description": "沙特最大电信运营商，提供5G、光纤、云计算、智慧城市(如NEOM项目)及物联网平台，政府背景深厚。",
+      "procurement_needs": "5G毫米波设备、智能路灯控制器、智慧水务传感器、工业物联网网关、数据中心冷却系统、AI视频分析摄像头。",
+      "partner_profile": "需要符合SASO认证和沙特网络安全法规的供应商，支持阿拉伯语界面，提供本地备件库，有与主权基金项目合作经验者优先。",
+      "key_markets": "沙特全境，重点利雅得、吉达、NEOM新城",
+      "china_presence": "华为沙特分公司(利雅得)为其核心供应商",
+      "competitors": "Mobily, Zain KSA",
+      "market_share": "移动市场份额约42%（第一）",
+      "recent_news": "2026年1月启动NEOM智慧城市物联网基础设施招标，明确要求供应商具备中国深圳或东莞的制造基地，并计划采购10万套环境传感器。",
+      "buyer_type": "电信运营商/智慧城市承包商",
+      "country": "沙特阿拉伯",
+      "size": "超大型",
+      "relevance": 90,
+      "why": "沙特2030愿景推动智慧城市投资巨大，STC是主要执行方，且明确偏好中国设备（华为已深度绑定），采购额高且持续。",
+      "id": "c3cd9ef0a1d8",
+      "industry": "telecom_iot",
+      "generated_at": "2026-08-08T09:59:14.740062+00:00"
     }
   ]
 }
