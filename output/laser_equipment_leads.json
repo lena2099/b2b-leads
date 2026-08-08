@@ -1,7 +1,7 @@
 {
   "industry": "激光设备&精密加工",
-  "total": 25,
-  "updated": "2026-08-02T15:47:31.834349+00:00",
+  "total": 26,
+  "updated": "2026-08-08T18:02:28.112779+00:00",
   "leads": [
     {
       "company_name": "Mayville Engineering Company, Inc.",
@@ -582,6 +582,30 @@
       "id": "5844469e7afd",
       "industry": "laser_equipment",
       "generated_at": "2026-08-02T15:47:31.833805+00:00"
+    },
+    {
+      "company_name": "Maquinados y Servicios de Precisión S.A. de C.V. (MSP)",
+      "website": "https://www.mspprecision.com",
+      "founded": 1998,
+      "headquarters": "Monterrey, 墨西哥",
+      "employees": 450,
+      "annual_revenue": "6500万美元",
+      "business_description": "墨西哥北部工业区领先的精密钣金和机加工厂，为汽车Tier 1和家电企业提供激光切割、数控冲压、焊接和粉末涂装服务，客户包括通用电气、Whirlpool、Nemak。",
+      "procurement_needs": "中功率光纤激光切割机（3kW-6kW）、数控折弯机、激光焊接机、切割气体喷嘴、陶瓷保护镜片。",
+      "partner_profile": "需要能提供西班牙语操作界面的中国设备商，有墨西哥本地安装案例，提供快速响应（24小时内）的售后，且接受美元或比索付款。",
+      "key_markets": "墨西哥北部（新莱昂州、科阿韦拉州），少量出口美国南部。",
+      "china_presence": "暂无",
+      "competitors": "Metal Processing International, Grupo Collado, Técnica Industrial",
+      "market_share": "墨西哥北部精密钣金市场份额约3.5%",
+      "recent_news": "2025年8月获得某美国电动车品牌电池托盘订单，投资300万美元购置新激光切割机，预计2026年3月交付。",
+      "buyer_type": "钣金加工厂",
+      "country": "墨西哥",
+      "size": "中型",
+      "relevance": 95,
+      "why": "墨西哥制造业受近岸外包推动快速增长，该厂急需扩产，且对中国设备接受度极高（已有2台中国品牌激光机），采购决策快。",
+      "id": "a111ac66ae19",
+      "industry": "laser_equipment",
+      "generated_at": "2026-08-08T18:02:28.112228+00:00"
     }
   ]
 }
